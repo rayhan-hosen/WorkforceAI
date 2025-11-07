@@ -1,0 +1,270 @@
+{
+  "languages": ["bn", "en"],
+  "defaultLanguage": "bn",
+  "translations": {
+    "bn": {
+      "dashboardTitle": "আমার ড্যাশবোর্ড",
+      "earnings": "আয়",
+      "progress": "অগ্রগতি",
+      "nextSkills": "পরবর্তী দক্ষতা",
+      "predictedIncrease": "আয় বৃদ্ধি সম্ভাবনা",
+      "startCourse": "কোর্স শুরু করুন",
+      "lastMonth": "গত মাস",
+      "nextMonth": "আগামী মাস",
+      "skillProgress": "দক্ষতা অগ্রগতি",
+      "currentLevel": "বর্তমান স্তর",
+      "projectedEarning": "আয় বৃদ্ধি সম্ভাবনা",
+      "description": "বর্ণনা"
+    },
+    "en": {
+      "dashboardTitle": "My Dashboard",
+      "earnings": "Earnings",
+      "progress": "Progress",
+      "nextSkills": "Next Skills",
+      "predictedIncrease": "Predicted Income Increase",
+      "startCourse": "Start Course",
+      "lastMonth": "Last Month",
+      "nextMonth": "Next Month",
+      "skillProgress": "Skill Progress",
+      "currentLevel": "Current Level",
+      "projectedEarning": "Projected Earning Increase",
+      "description": "Description"
+    }
+  },
+  "users": [
+    {
+      "name": "রফিকুল ইসলাম",
+      "rank": "Silver",
+      "earnings": {
+        "lastMonth": 18500,
+        "predictedNext": 22500
+      },
+      "skills": [
+        {
+          "id": 1,
+          "name_bn": "বেসিক ইলেকট্রিক সার্ভিস",
+          "name_en": "Basic Electrical Service",
+          "completion": 90,
+          "valueBoost": 5,
+          "x": 100,
+          "y": 150,
+          "connectedTo": [2]
+        },
+        {
+          "id": 2,
+          "name_bn": "এসি সার্ভিসিং লেভেল ১",
+          "name_en": "AC Servicing Level 1",
+          "completion": 60,
+          "valueBoost": 10,
+          "x": 300,
+          "y": 150,
+          "connectedTo": [3]
+        },
+        {
+          "id": 3,
+          "name_bn": "এসি সার্ভিসিং লেভেল ২",
+          "name_en": "AC Servicing Level 2",
+          "completion": 0,
+          "valueBoost": 22,
+          "x": 500,
+          "y": 150,
+          "connectedTo": []
+        }
+      ],
+      "recommended": [
+        {
+          "course_bn": "এসি সার্ভিসিং লেভেল ২",
+          "course_en": "AC Servicing Level 2",
+          "description_bn": "এই কোর্সে উন্নত এসি সার্ভিস শেখানো হবে।",
+          "description_en": "Advanced AC servicing techniques and troubleshooting.",
+          "predictedEarningBoost": "22%"
+        },
+        {
+          "course_bn": "হোম ওয়্যারিং সেফটি",
+          "course_en": "Home Wiring Safety",
+          "description_bn": "বাড়ির বৈদ্যুতিক সেফটি সম্পর্কে শিখুন।",
+          "description_en": "Learn about home electrical safety standards.",
+          "predictedEarningBoost": "15%"
+        }
+      ]
+    },
+    {
+      "name": "সাদিয়া রহমান",
+      "rank": "Gold",
+      "earnings": {
+        "lastMonth": 32000,
+        "predictedNext": 37500
+      },
+      "skills": [
+        {
+          "id": 1,
+          "name_bn": "বেসিক কসমেটিক ট্রেনিং",
+          "name_en": "Basic Cosmetology Training",
+          "completion": 100,
+          "valueBoost": 8,
+          "x": 100,
+          "y": 150,
+          "connectedTo": [2]
+        },
+        {
+          "id": 2,
+          "name_bn": "বিউটি পার্লার ম্যানেজমেন্ট",
+          "name_en": "Beauty Parlour Management",
+          "completion": 70,
+          "valueBoost": 12,
+          "x": 300,
+          "y": 150,
+          "connectedTo": [3]
+        },
+        {
+          "id": 3,
+          "name_bn": "অ্যাডভান্স স্কিন কেয়ার",
+          "name_en": "Advanced Skin Care",
+          "completion": 20,
+          "valueBoost": 20,
+          "x": 500,
+          "y": 150,
+          "connectedTo": []
+        }
+      ],
+      "recommended": [
+        {
+          "course_bn": "অ্যাডভান্স স্কিন কেয়ার",
+          "course_en": "Advanced Skin Care",
+          "description_bn": "স্কিন কেয়ার ও ডার্মাটোলজি শেখার জন্য এই কোর্সটি উপযুক্ত।",
+          "description_en": "Learn dermatology and advanced skincare techniques.",
+          "predictedEarningBoost": "20%"
+        },
+        {
+          "course_bn": "মেকআপ আর্টিস্ট্রি প্রফেশনাল",
+          "course_en": "Professional Makeup Artistry",
+          "description_bn": "প্রফেশনাল মেকআপ টেকনিক শেখানো হবে।",
+          "description_en": "Master professional makeup artistry techniques.",
+          "predictedEarningBoost": "18%"
+        }
+      ]
+    },
+    {
+      "name": "জসিম উদ্দিন",
+      "rank": "Bronze",
+      "earnings": {
+        "lastMonth": 9500,
+        "predictedNext": 13000
+      },
+      "skills": [
+        {
+          "id": 1,
+          "name_bn": "বেসিক প্লাম্বিং",
+          "name_en": "Basic Plumbing",
+          "completion": 80,
+          "valueBoost": 6,
+          "x": 100,
+          "y": 150,
+          "connectedTo": [2]
+        },
+        {
+          "id": 2,
+          "name_bn": "ওয়াটার পাম্প সার্ভিসিং",
+          "name_en": "Water Pump Servicing",
+          "completion": 40,
+          "valueBoost": 10,
+          "x": 300,
+          "y": 150,
+          "connectedTo": [3]
+        },
+        {
+          "id": 3,
+          "name_bn": "অ্যাডভান্সড পাইপলাইন ডিজাইন",
+          "name_en": "Advanced Pipeline Design",
+          "completion": 0,
+          "valueBoost": 25,
+          "x": 500,
+          "y": 150,
+          "connectedTo": []
+        }
+      ],
+      "recommended": [
+        {
+          "course_bn": "অ্যাডভান্সড পাইপলাইন ডিজাইন",
+          "course_en": "Advanced Pipeline Design",
+          "description_bn": "উন্নত পাইপলাইন ডিজাইন ও রক্ষণাবেক্ষণ শেখানো হবে।",
+          "description_en": "Advanced pipeline design and maintenance skills.",
+          "predictedEarningBoost": "25%"
+        },
+        {
+          "course_bn": "সোলার ওয়াটার সিস্টেম",
+          "course_en": "Solar Water Systems",
+          "description_bn": "সোলার পানির সিস্টেম ইনস্টলেশন শেখুন।",
+          "description_en": "Learn installation of solar water systems.",
+          "predictedEarningBoost": "15%"
+        }
+      ]
+    },
+    {
+      "name": "মোহাম্মদ আরিফ",
+      "rank": "Platinum",
+      "earnings": {
+        "lastMonth": 52000,
+        "predictedNext": 60000
+      },
+      "skills": [
+        {
+          "id": 1,
+          "name_bn": "বেসিক আইটি সাপোর্ট",
+          "name_en": "Basic IT Support",
+          "completion": 100,
+          "valueBoost": 10,
+          "x": 100,
+          "y": 150,
+          "connectedTo": [2]
+        },
+        {
+          "id": 2,
+          "name_bn": "নেটওয়ার্কিং লেভেল ১",
+          "name_en": "Networking Level 1",
+          "completion": 85,
+          "valueBoost": 12,
+          "x": 300,
+          "y": 150,
+          "connectedTo": [3]
+        },
+        {
+          "id": 3,
+          "name_bn": "সাইবার সিকিউরিটি বেসিক",
+          "name_en": "Cyber Security Basics",
+          "completion": 50,
+          "valueBoost": 20,
+          "x": 500,
+          "y": 150,
+          "connectedTo": [4]
+        },
+        {
+          "id": 4,
+          "name_bn": "সাইবার সিকিউরিটি অ্যাডভান্সড",
+          "name_en": "Cyber Security Advanced",
+          "completion": 0,
+          "valueBoost": 30,
+          "x": 700,
+          "y": 150,
+          "connectedTo": []
+        }
+      ],
+      "recommended": [
+        {
+          "course_bn": "সাইবার সিকিউরিটি অ্যাডভান্সড",
+          "course_en": "Cyber Security Advanced",
+          "description_bn": "অ্যাডভান্স সিকিউরিটি থ্রেট এনালাইসিস শেখানো হবে।",
+          "description_en": "Advanced threat analysis and protection strategies.",
+          "predictedEarningBoost": "30%"
+        },
+        {
+          "course_bn": "ক্লাউড সিস্টেম ম্যানেজমেন্ট",
+          "course_en": "Cloud System Management",
+          "description_bn": "ক্লাউড সার্ভিস পরিচালনা ও নিরাপত্তা শেখানো হবে।",
+          "description_en": "Learn to manage and secure cloud systems.",
+          "predictedEarningBoost": "25%"
+        }
+      ]
+    }
+  ]
+}

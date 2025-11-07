@@ -1,0 +1,412 @@
+{
+  "translations": {
+    "bn": {
+      "title": "শীর্ষ কর্মী তালিকা",
+      "points": "পয়েন্ট",
+      "skills": "দক্ষতা",
+      "rank": "র্যাঙ্ক",
+      "category": "বিভাগ",
+      "viewProfile": "প্রোফাইল দেখুন",
+      "overall": "সর্বমোট",
+      "rating": "রেটিং",
+      "skillsMastered": "আয়ত্ত দক্ষতা",
+      "certificates": "সার্টিফিকেট",
+      "recentJobs": "সাম্প্রতিক কাজ",
+      "allCategories": "সব বিভাগ",
+      "topPerformers": "শীর্ষ কর্মী",
+      "fetching": "তথ্য লোড হচ্ছে...",
+      "level": "লেভেল",
+      "xp": "অভিজ্ঞতা",
+      "badges": "ব্যাজ"
+    },
+    "en": {
+      "title": "Top Performers",
+      "points": "Points",
+      "skills": "Skills",
+      "rank": "Rank",
+      "category": "Category",
+      "viewProfile": "View Profile",
+      "overall": "Overall",
+      "rating": "Rating",
+      "skillsMastered": "Skills Mastered",
+      "certificates": "Certificates Earned",
+      "recentJobs": "Recent Jobs Completed",
+      "allCategories": "All Categories",
+      "topPerformers": "Top Performers",
+      "fetching": "Fetching leaderboard data...",
+      "level": "Level",
+      "xp": "XP",
+      "badges": "Badges"
+    }
+  },
+  "technicians": [
+    {
+      "id": 1,
+      "name_bn": "রফিকুল ইসলাম",
+      "name_en": "Rafiqul Islam",
+      "profile": null,
+      "points": 1240,
+      "rank": 1,
+      "skills": [
+        "AC Servicing Level 2",
+        "Electrical Safety",
+        "Cooling System Maintenance"
+      ],
+      "rating": 4.9,
+      "category": "AC",
+      "level": 15,
+      "certificates": [
+        "AC Servicing Level 2",
+        "Electrical Safety"
+      ],
+      "recentJobs": 12,
+      "rankChange": 0
+    },
+    {
+      "id": 2,
+      "name_bn": "মোঃ আজাদ",
+      "name_en": "Md. Azad",
+      "profile": null,
+      "points": 1110,
+      "rank": 2,
+      "skills": [
+        "Plumbing Basics",
+        "Smart Water Systems",
+        "Pipe Installation"
+      ],
+      "rating": 4.8,
+      "category": "Plumbing",
+      "level": 13,
+      "certificates": [
+        "Plumbing Basics",
+        "Smart Water Systems"
+      ],
+      "recentJobs": 10,
+      "rankChange": 1
+    },
+    {
+      "id": 3,
+      "name_bn": "করিম উদ্দিন",
+      "name_en": "Karim Uddin",
+      "profile": null,
+      "points": 1050,
+      "rank": 3,
+      "skills": [
+        "Basic Electrical Service",
+        "Industrial Wiring",
+        "Motor Repair"
+      ],
+      "rating": 4.7,
+      "category": "Electrical",
+      "level": 12,
+      "certificates": [
+        "Basic Electrical Service",
+        "Industrial Wiring"
+      ],
+      "recentJobs": 9,
+      "rankChange": -1
+    },
+    {
+      "id": 4,
+      "name_bn": "শাহিন আহমেদ",
+      "name_en": "Shahin Ahmed",
+      "profile": null,
+      "points": 980,
+      "rank": 4,
+      "skills": [
+        "AC Servicing Level 1",
+        "AC Installation"
+      ],
+      "rating": 4.6,
+      "category": "AC",
+      "level": 11,
+      "certificates": [
+        "AC Servicing Level 1"
+      ],
+      "recentJobs": 8,
+      "rankChange": 2
+    },
+    {
+      "id": 5,
+      "name_bn": "রহিম আলী",
+      "name_en": "Rahim Ali",
+      "profile": null,
+      "points": 920,
+      "rank": 5,
+      "skills": [
+        "Modern Furniture Making",
+        "Wood Joinery",
+        "Cabinet Installation"
+      ],
+      "rating": 4.5,
+      "category": "Carpentry",
+      "level": 10,
+      "certificates": [
+        "Modern Furniture Making"
+      ],
+      "recentJobs": 7,
+      "rankChange": 0
+    },
+    {
+      "id": 6,
+      "name_bn": "নাসির উদ্দিন",
+      "name_en": "Nasir Uddin",
+      "profile": null,
+      "points": 880,
+      "rank": 6,
+      "skills": [
+        "Water Pipe Repair",
+        "Pump Installation"
+      ],
+      "rating": 4.4,
+      "category": "Plumbing",
+      "level": 9,
+      "certificates": [
+        "Water Pipe Repair"
+      ],
+      "recentJobs": 6,
+      "rankChange": -1
+    },
+    {
+      "id": 7,
+      "name_bn": "তানভীর হাসান",
+      "name_en": "Tanvir Hasan",
+      "profile": null,
+      "points": 850,
+      "rank": 7,
+      "skills": [
+        "AC Servicing Level 1",
+        "Basic Safety"
+      ],
+      "rating": 4.3,
+      "category": "AC",
+      "level": 8,
+      "certificates": [
+        "AC Servicing Level 1"
+      ],
+      "recentJobs": 5,
+      "rankChange": 1
+    },
+    {
+      "id": 8,
+      "name_bn": "ইমরান হোসেন",
+      "name_en": "Imran Hossen",
+      "profile": null,
+      "points": 820,
+      "rank": 8,
+      "skills": [
+        "Basic Electrical Service",
+        "Circuit Basics"
+      ],
+      "rating": 4.2,
+      "category": "Electrical",
+      "level": 8,
+      "certificates": [
+        "Basic Electrical Service"
+      ],
+      "recentJobs": 5,
+      "rankChange": 0
+    },
+    {
+      "id": 9,
+      "name_bn": "সালমান আহমেদ",
+      "name_en": "Salman Ahmed",
+      "profile": null,
+      "points": 790,
+      "rank": 9,
+      "skills": [
+        "Basic Plumbing",
+        "Water System Installation"
+      ],
+      "rating": 4.1,
+      "category": "Plumbing",
+      "level": 7,
+      "certificates": [
+        "Basic Plumbing"
+      ],
+      "recentJobs": 4,
+      "rankChange": -2
+    },
+    {
+      "id": 10,
+      "name_bn": "ফরিদ উদ্দিন",
+      "name_en": "Farid Uddin",
+      "profile": null,
+      "points": 760,
+      "rank": 10,
+      "skills": [
+        "Basic Carpentry",
+        "Furniture Making"
+      ],
+      "rating": 4.0,
+      "category": "Carpentry",
+      "level": 7,
+      "certificates": [
+        "Basic Carpentry"
+      ],
+      "recentJobs": 4,
+      "rankChange": 1
+    },
+    {
+      "id": 11,
+      "name_bn": "সুমন কান্তি",
+      "name_en": "Suman Kanti",
+      "profile": null,
+      "points": 740,
+      "rank": 11,
+      "skills": [
+        "Industrial Wiring",
+        "Panel Termination"
+      ],
+      "rating": 3.9,
+      "category": "Electrical",
+      "level": 7,
+      "certificates": [
+        "Industrial Wiring"
+      ],
+      "recentJobs": 4,
+      "rankChange": 0
+    },
+    {
+      "id": 12,
+      "name_bn": "আরিফুল ইসলাম",
+      "name_en": "Ariful Islam",
+      "profile": null,
+      "points": 720,
+      "rank": 12,
+      "skills": [
+        "Pipe Installation",
+        "Leak Detection"
+      ],
+      "rating": 3.8,
+      "category": "Plumbing",
+      "level": 7,
+      "certificates": [
+        "Pipe Installation",
+        "Safety Basics"
+      ],
+      "recentJobs": 3,
+      "rankChange": 1
+    },
+    {
+      "id": 13,
+      "name_bn": "মাসুদ রানা",
+      "name_en": "Masud Rana",
+      "profile": null,
+      "points": 700,
+      "rank": 13,
+      "skills": [
+        "Wood Finishing",
+        "Joinery"
+      ],
+      "rating": 3.8,
+      "category": "Carpentry",
+      "level": 6,
+      "certificates": [
+        "Wood Finishing"
+      ],
+      "recentJobs": 2,
+      "rankChange": 1
+    },
+    {
+      "id": 14,
+      "name_bn": "সাব্বির হোসেন",
+      "name_en": "Sabbir Hossain",
+      "profile": null,
+      "points": 690,
+      "rank": 14,
+      "skills": [
+        "AC Installation",
+        "Filter Cleaning"
+      ],
+      "rating": 3.7,
+      "category": "AC",
+      "level": 6,
+      "certificates": [
+        "AC Installation"
+      ],
+      "recentJobs": 3,
+      "rankChange": 0
+    },
+    {
+      "id": 15,
+      "name_bn": "বেলাল হোসেন",
+      "name_en": "Belal Hossain",
+      "profile": null,
+      "points": 680,
+      "rank": 15,
+      "skills": [
+        "Pump Maintenance",
+        "Bathroom Fixtures"
+      ],
+      "rating": 3.6,
+      "category": "Plumbing",
+      "level": 6,
+      "certificates": [
+        "Bathroom Fixtures"
+      ],
+      "recentJobs": 2,
+      "rankChange": 0
+    },
+    {
+      "id": 16,
+      "name_bn": "পারভেজ করিম",
+      "name_en": "Parvez Karim",
+      "profile": null,
+      "points": 660,
+      "rank": 16,
+      "skills": [
+        "Cabinet Installation",
+        "Door Framing"
+      ],
+      "rating": 3.5,
+      "category": "Carpentry",
+      "level": 6,
+      "certificates": [
+        "Door Framing"
+      ],
+      "recentJobs": 2,
+      "rankChange": 1
+    },
+    {
+      "id": 17,
+      "name_bn": "জসিম উদ্দিন",
+      "name_en": "Jasim Uddin",
+      "profile": null,
+      "points": 645,
+      "rank": 17,
+      "skills": [
+        "Basic Electrical Service",
+        "Load Calculation"
+      ],
+      "rating": 3.4,
+      "category": "Electrical",
+      "level": 5,
+      "certificates": [
+        "Basic Electrical Service"
+      ],
+      "recentJobs": 2,
+      "rankChange": -1
+    },
+    {
+      "id": 18,
+      "name_bn": "মোস্তাফিজুর রহমান",
+      "name_en": "Mostafizur Rahman",
+      "profile": null,
+      "points": 630,
+      "rank": 18,
+      "skills": [
+        "AC Servicing Level 1",
+        "Safety Basics"
+      ],
+      "rating": 3.3,
+      "category": "AC",
+      "level": 5,
+      "certificates": [
+        "Safety Basics"
+      ],
+      "recentJobs": 1,
+      "rankChange": 0
+    }
+  ]
+}

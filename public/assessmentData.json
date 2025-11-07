@@ -1,0 +1,365 @@
+{
+  "professions": {
+    "electrician": {
+      "questions": [
+        {
+          "id": 1,
+          "q_bn": "কোন টুল কারেন্ট ফ্লো পরীক্ষা করতে ব্যবহৃত হয়?",
+          "q_en": "Which tool is used to test current flow?",
+          "options_bn": ["মাল্টিমিটার", "স্ক্রু ড্রাইভার", "হাতুড়ি"],
+          "options_en": ["Multimeter", "Screwdriver", "Hammer"],
+          "correct": "Multimeter"
+        },
+        {
+          "id": 2,
+          "q_bn": "বাংলাদেশের বাড়িতে স্ট্যান্ডার্ড ভোল্টেজ কত?",
+          "q_en": "What is the standard voltage in Bangladesh homes?",
+          "options_bn": ["110V", "220V", "440V"],
+          "options_en": ["110V", "220V", "440V"],
+          "correct": "220V"
+        },
+        {
+          "id": 3,
+          "q_bn": "MCB এর পূর্ণরূপ কী?",
+          "q_en": "What does MCB stand for?",
+          "options_bn": ["মিনিয়েচার সার্কিট ব্রেকার", "মেইন কন্ট্রোল বক্স", "মোটর কন্ট্রোল বোর্ড"],
+          "options_en": ["Miniature Circuit Breaker", "Main Control Box", "Motor Control Board"],
+          "correct": "Miniature Circuit Breaker"
+        },
+        {
+          "id": 4,
+          "q_bn": "ইলেকট্রিক্যাল ওয়্যারিংয়ে গ্রাউন্ডের জন্য সাধারণত কোন তারের রঙ ব্যবহৃত হয়?",
+          "q_en": "Which wire color is typically used for ground in electrical wiring?",
+          "options_bn": ["লাল", "সবুজ/হলুদ", "কালো"],
+          "options_en": ["Red", "Green/Yellow", "Black"],
+          "correct": "Green/Yellow"
+        },
+        {
+          "id": 5,
+          "q_bn": "সার্কিটে অতিরিক্ত কারেন্ট থেকে রক্ষা করতে কী ব্যবহৃত হয়?",
+          "q_en": "What is used to protect circuits from overcurrent?",
+          "options_bn": ["MCB", "Fuse", "উভয়"],
+          "options_en": ["MCB", "Fuse", "Both"],
+          "correct": "Both"
+        },
+        {
+          "id": 6,
+          "q_bn": "বৈদ্যুতিক কাজে নিরাপত্তার জন্য সবচেয়ে গুরুত্বপূর্ণ কী?",
+          "q_en": "What is most important for safety in electrical work?",
+          "options_bn": ["পাওয়ার বন্ধ করা", "টুলস ব্যবহার", "দ্রুত কাজ করা"],
+          "options_en": ["Turning off power", "Using tools", "Working fast"],
+          "correct": "Turning off power"
+        },
+        {
+          "id": 7,
+          "q_bn": "রেজিস্ট্যান্সের একক কী?",
+          "q_en": "What is the unit of resistance?",
+          "options_bn": ["ওহম", "ভোল্ট", "অ্যাম্পিয়ার"],
+          "options_en": ["Ohm", "Volt", "Ampere"],
+          "correct": "Ohm"
+        },
+        {
+          "id": 8,
+          "q_bn": "একটি সার্কিটে কারেন্ট প্রবাহের জন্য কী প্রয়োজন?",
+          "q_en": "What is required for current to flow in a circuit?",
+          "options_bn": ["বন্ধ সার্কিট", "খোলা সার্কিট", "গ্রাউন্ড"],
+          "options_en": ["Closed circuit", "Open circuit", "Ground"],
+          "correct": "Closed circuit"
+        },
+        {
+          "id": 9,
+          "q_bn": "ইনসুলেটরের উদাহরণ কোনটি?",
+          "q_en": "Which of the following is an example of an insulator?",
+          "options_bn": ["তামা", "অ্যালুমিনিয়াম", "রাবার"],
+          "options_en": ["Copper", "Aluminium", "Rubber"],
+          "correct": "Rubber"
+        },
+        {
+          "id": 10,
+          "q_bn": "ওহমের সূত্র কী নির্দেশ করে?",
+          "q_en": "What does Ohm’s law state?",
+          "options_bn": ["V = IR", "P = IV", "E = mc²"],
+          "options_en": ["V = IR", "P = IV", "E = mc²"],
+          "correct": "V = IR"
+        }
+      ],
+      "aiResult": {
+        "rank": "Silver",
+        "recommendedCourses_bn": ["এসি সার্ভিসিং লেভেল ২", "হোম ওয়্যারিং সেফটি"],
+        "recommendedCourses_en": ["AC Servicing Level 2", "Home Wiring Safety"],
+        "predictedEarningBoost": "22%"
+      }
+    },
+    "ac-technician": {
+      "questions": [
+        {
+          "id": 1,
+          "q_bn": "আধুনিক এসি ইউনিটে সাধারণত কোন রেফ্রিজারেন্ট ব্যবহৃত হয়?",
+          "q_en": "What is the refrigerant commonly used in modern AC units?",
+          "options_bn": ["R22", "R410A", "R134a"],
+          "options_en": ["R22", "R410A", "R134a"],
+          "correct": "R410A"
+        },
+        {
+          "id": 2,
+          "q_bn": "SEER রেটিং কী পরিমাপ করে?",
+          "q_en": "What does SEER rating measure?",
+          "options_bn": ["শব্দের মাত্রা", "এনার্জি এফিসিয়েন্সি", "কুলিং ক্যাপাসিটি"],
+          "options_en": ["Sound Level", "Energy Efficiency", "Cooling Capacity"],
+          "correct": "Energy Efficiency"
+        },
+        {
+          "id": 3,
+          "q_bn": "রেফ্রিজারেন্ট থেকে তাপ অপসারণের জন্য কোন উপাদান দায়ী?",
+          "q_en": "Which component is responsible for removing heat from the refrigerant?",
+          "options_bn": ["কম্প্রেসার", "কন্ডেনসার", "ইভ্যাপোরেটর"],
+          "options_en": ["Compressor", "Condenser", "Evaporator"],
+          "correct": "Condenser"
+        },
+        {
+          "id": 4,
+          "q_bn": "আদর্শ ইনডোর আর্দ্রতার মাত্রা কত?",
+          "q_en": "What is the ideal indoor humidity level?",
+          "options_bn": ["30-50%", "50-70%", "70-90%"],
+          "options_en": ["30-50%", "50-70%", "70-90%"],
+          "correct": "30-50%"
+        },
+        {
+          "id": 5,
+          "q_bn": "এসি ফিল্টার কতদিন পর পর পরিষ্কার করা উচিত?",
+          "q_en": "How often should AC filters be cleaned?",
+          "options_bn": ["সাপ্তাহিক", "মাসিক", "বার্ষিক"],
+          "options_en": ["Weekly", "Monthly", "Yearly"],
+          "correct": "Monthly"
+        },
+        {
+          "id": 6,
+          "q_bn": "এসি ঠান্ডা না হওয়ার প্রধান কারণ কী হতে পারে?",
+          "q_en": "What could be the main reason for AC not cooling?",
+          "options_bn": ["কম রেফ্রিজারেন্ট", "নোংরা ফিল্টার", "উভয়"],
+          "options_en": ["Low refrigerant", "Dirty filter", "Both"],
+          "correct": "Both"
+        },
+        {
+          "id": 7,
+          "q_bn": "AC ইউনিটে কম্প্রেসার কোথায় অবস্থিত?",
+          "q_en": "Where is the compressor located in an AC unit?",
+          "options_bn": ["ইনডোর ইউনিটে", "আউটডোর ইউনিটে", "দুই ইউনিটেই"],
+          "options_en": ["Indoor unit", "Outdoor unit", "Both units"],
+          "correct": "Outdoor unit"
+        },
+        {
+          "id": 8,
+          "q_bn": "থার্মোস্ট্যাটের কাজ কী?",
+          "q_en": "What is the function of a thermostat?",
+          "options_bn": ["তাপমাত্রা নিয়ন্ত্রণ", "রেফ্রিজারেন্ট সঞ্চালন", "বিদ্যুৎ সরবরাহ"],
+          "options_en": ["Temperature control", "Refrigerant circulation", "Power supply"],
+          "correct": "Temperature control"
+        },
+        {
+          "id": 9,
+          "q_bn": "ক্যাপাসিটার এসিতে কী ভূমিকা রাখে?",
+          "q_en": "What is the role of a capacitor in AC?",
+          "options_bn": ["কারেন্ট বাড়ানো", "কম্প্রেসার স্টার্ট করা", "তাপমাত্রা কমানো"],
+          "options_en": ["Increase current", "Start compressor", "Reduce temperature"],
+          "correct": "Start compressor"
+        },
+        {
+          "id": 10,
+          "q_bn": "এসি ইনস্টলেশনের সময় কোন কোণটি সঠিক ড্রেনেজ নিশ্চিত করে?",
+          "q_en": "What slope ensures proper drainage during AC installation?",
+          "options_bn": ["৫ ডিগ্রি", "১০ ডিগ্রি", "১৫ ডিগ্রি"],
+          "options_en": ["5 degrees", "10 degrees", "15 degrees"],
+          "correct": "5 degrees"
+        }
+      ],
+      "aiResult": {
+        "rank": "Gold",
+        "recommendedCourses_bn": ["উন্নত HVAC সিস্টেম", "রেফ্রিজারেন্ট ম্যানেজমেন্ট"],
+        "recommendedCourses_en": ["Advanced HVAC Systems", "Refrigerant Management"],
+        "predictedEarningBoost": "35%"
+      }
+    },
+    "plumber": {
+      "questions": [
+        {
+          "id": 1,
+          "q_bn": "গরম পানির জন্য কোন পাইপ সবচেয়ে ভালো?",
+          "q_en": "Which pipe is best for hot water?",
+          "options_bn": ["PVC", "CPVC", "স্টিল"],
+          "options_en": ["PVC", "CPVC", "Steel"],
+          "correct": "CPVC"
+        },
+        {
+          "id": 2,
+          "q_bn": "মেইন ওয়াটার সাপ্লাইয়ের জন্য স্ট্যান্ডার্ড পাইপ ব্যাস কত?",
+          "q_en": "What is the standard pipe diameter for main water supply?",
+          "options_bn": ["১/২ ইঞ্চি", "৩/৪ ইঞ্চি", "১ ইঞ্চি"],
+          "options_en": ["1/2 inch", "3/4 inch", "1 inch"],
+          "correct": "3/4 inch"
+        },
+        {
+          "id": 3,
+          "q_bn": "PVC পাইপ কাটার জন্য কোন টুল ব্যবহৃত হয়?",
+          "q_en": "Which tool is used to cut PVC pipes?",
+          "options_bn": ["হ্যাকস", "পাইপ কাটার", "উভয়"],
+          "options_en": ["Hacksaw", "Pipe Cutter", "Both"],
+          "correct": "Both"
+        },
+        {
+          "id": 4,
+          "q_bn": "TPR ভালভের পূর্ণরূপ কী?",
+          "q_en": "What does TPR valve stand for?",
+          "options_bn": ["টেম্পারেচার প্রেশার রিলিফ", "টোটাল পাইপ রেগুলেশন", "থার্মাল পাইপ রিসেট"],
+          "options_en": ["Temperature Pressure Relief", "Total Pipe Regulation", "Thermal Pipe Reset"],
+          "correct": "Temperature Pressure Relief"
+        },
+        {
+          "id": 5,
+          "q_bn": "পাইপ লিক মেরামত করার জন্য কোন উপাদান সবচেয়ে কার্যকর?",
+          "q_en": "What is most effective for repairing pipe leaks?",
+          "options_bn": ["প্লাম্বার টেপ", "সিলিং টেপ", "উভয়"],
+          "options_en": ["Plumber's tape", "Sealing tape", "Both"],
+          "correct": "Both"
+        },
+        {
+          "id": 6,
+          "q_bn": "পানি সরবরাহ লাইনে সাধারণত কোন ভালভ ব্যবহৃত হয়?",
+          "q_en": "What type of valve is commonly used in water supply lines?",
+          "options_bn": ["গেট ভালভ", "বল ভালভ", "চেক ভালভ"],
+          "options_en": ["Gate valve", "Ball valve", "Check valve"],
+          "correct": "Ball valve"
+        },
+        {
+          "id": 7,
+          "q_bn": "ওয়াটার হিটারের সেফটি ভালভের কাজ কী?",
+          "q_en": "What is the function of the water heater safety valve?",
+          "options_bn": ["তাপমাত্রা কমানো", "অতিরিক্ত চাপ মুক্ত করা", "পানি সঞ্চয়"],
+          "options_en": ["Reduce temperature", "Release excess pressure", "Store water"],
+          "correct": "Release excess pressure"
+        },
+        {
+          "id": 8,
+          "q_bn": "ড্রেন লাইনে ব্লক হলে কীভাবে পরিষ্কার করা যায়?",
+          "q_en": "How can a blocked drain line be cleaned?",
+          "options_bn": ["প্লাঞ্জার", "ড্রেন স্নেক", "উভয়"],
+          "options_en": ["Plunger", "Drain snake", "Both"],
+          "correct": "Both"
+        },
+        {
+          "id": 9,
+          "q_bn": "PVC পাইপ সংযোগের জন্য কোন আঠা ব্যবহৃত হয়?",
+          "q_en": "Which adhesive is used for joining PVC pipes?",
+          "options_bn": ["সিমেন্ট", "PVC সলভেন্ট", "রাবার গ্লু"],
+          "options_en": ["Cement", "PVC solvent", "Rubber glue"],
+          "correct": "PVC solvent"
+        },
+        {
+          "id": 10,
+          "q_bn": "পাইপ ফিটিংয়ের আগে কী পরীক্ষা করা উচিত?",
+          "q_en": "What should be checked before pipe fitting?",
+          "options_bn": ["লিক টেস্ট", "পানি চাপ", "উভয়"],
+          "options_en": ["Leak test", "Water pressure", "Both"],
+          "correct": "Both"
+        }
+      ],
+      "aiResult": {
+        "rank": "Bronze",
+        "recommendedCourses_bn": ["উন্নত পাইপ ইনস্টলেশন", "স্মার্ট ওয়াটার সিস্টেম"],
+        "recommendedCourses_en": ["Advanced Pipe Installation", "Smart Water Systems"],
+        "predictedEarningBoost": "18%"
+      }
+    },
+    "carpenter": {
+      "questions": [
+        {
+          "id": 1,
+          "q_bn": "কোণার সংযোগের জন্য কোন কাঠের জয়েন্ট সবচেয়ে শক্তিশালী?",
+          "q_en": "Which wood joint is strongest for corner connections?",
+          "options_bn": ["বাট জয়েন্ট", "ডোভটেইল জয়েন্ট", "ল্যাপ জয়েন্ট"],
+          "options_en": ["Butt Joint", "Dovetail Joint", "Lap Joint"],
+          "correct": "Dovetail Joint"
+        },
+        {
+          "id": 2,
+          "q_bn": "প্লাইউড শীটের স্ট্যান্ডার্ড বেধ কত?",
+          "q_en": "What is the standard thickness of plywood sheets?",
+          "options_bn": ["১/৪ ইঞ্চি", "৩/৪ ইঞ্চি", "১ ইঞ্চি"],
+          "options_en": ["1/4 inch", "3/4 inch", "1 inch"],
+          "correct": "3/4 inch"
+        },
+        {
+          "id": 3,
+          "q_bn": "সঠিক পরিমাপের জন্য কোন টুল অপরিহার্য?",
+          "q_en": "Which tool is essential for precise measurements?",
+          "options_bn": ["টেপ মেজার", "রুলার", "উভয়"],
+          "options_en": ["Tape Measure", "Ruler", "Both"],
+          "correct": "Both"
+        },
+        {
+          "id": 4,
+          "q_bn": "MDF এর পূর্ণরূপ কী?",
+          "q_en": "What does MDF stand for?",
+          "options_bn": ["মিডিয়াম ডেনসিটি ফাইবারবোর্ড", "মাল্টি-ডেনসিটি ফাইবার", "মেইন ডিজাইন ফ্রেম"],
+          "options_en": ["Medium Density Fiberboard", "Multi-Density Fiber", "Main Design Frame"],
+          "correct": "Medium Density Fiberboard"
+        },
+        {
+          "id": 5,
+          "q_bn": "কাঠের কাজে সবচেয়ে গুরুত্বপূর্ণ নিরাপত্তা সরঞ্জাম কী?",
+          "q_en": "What is the most important safety equipment in carpentry?",
+          "options_bn": ["সেফটি গগলস", "হ্যান্ড গ্লাভস", "উভয়"],
+          "options_en": ["Safety goggles", "Hand gloves", "Both"],
+          "correct": "Both"
+        },
+        {
+          "id": 6,
+          "q_bn": "ফার্নিচার তৈরিতে কোন কাঠ সবচেয়ে টেকসই?",
+          "q_en": "Which wood is most durable for furniture making?",
+          "options_bn": ["পাইন", "টিক", "সেগুন"],
+          "options_en": ["Pine", "Teak", "Mahogany"],
+          "correct": "Teak"
+        },
+        {
+          "id": 7,
+          "q_bn": "স্যান্ডপেপারের কাজ কী?",
+          "q_en": "What is the purpose of sandpaper?",
+          "options_bn": ["কাটা", "ঘষা", "রং করা"],
+          "options_en": ["Cutting", "Smoothing", "Painting"],
+          "correct": "Smoothing"
+        },
+        {
+          "id": 8,
+          "q_bn": "কোন টুল দিয়ে কাঠে ছিদ্র করা হয়?",
+          "q_en": "Which tool is used for drilling holes in wood?",
+          "options_bn": ["স করাত", "ড্রিল মেশিন", "হাতুড়ি"],
+          "options_en": ["Saw", "Drill machine", "Hammer"],
+          "correct": "Drill machine"
+        },
+        {
+          "id": 9,
+          "q_bn": "কাঠের সংযোগের জন্য কোন আঠা সবচেয়ে ভালো?",
+          "q_en": "Which adhesive is best for wood joints?",
+          "options_bn": ["উড গ্লু", "সুপার গ্লু", "হট মেল্ট গ্লু"],
+          "options_en": ["Wood glue", "Super glue", "Hot melt glue"],
+          "correct": "Wood glue"
+        },
+        {
+          "id": 10,
+          "q_bn": "কাঠের কাজের সময় কোন টুল দিয়ে মাপ নেওয়া হয়?",
+          "q_en": "Which tool is used for marking measurements in carpentry?",
+          "options_bn": ["চক", "পেন্সিল", "মার্কার"],
+          "options_en": ["Chalk", "Pencil", "Marker"],
+          "correct": "Pencil"
+        }
+      ],
+      "aiResult": {
+        "rank": "Platinum",
+        "recommendedCourses_bn": ["ফার্নিচার ডিজাইন মাস্টারি", "উন্নত কাঠের কাজ"],
+        "recommendedCourses_en": ["Furniture Design Mastery", "Advanced Woodworking"],
+        "predictedEarningBoost": "40%"
+      }
+    }
+  }
+
+}

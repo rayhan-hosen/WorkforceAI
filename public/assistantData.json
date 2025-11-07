@@ -1,0 +1,60 @@
+{
+  "responses": {
+    "bn": {
+      "greeting": "হ্যালো! আমি আপনার এআই সহকারী। আপনি কী জানতে চান?",
+      "jobAdvice": "এই মাসে ঢাকায় এসি সার্ভিসের চাহিদা সবচেয়ে বেশি। এই স্কিল শিখলে আয় বাড়বে ২২%।",
+      "skillSuggestion": "আপনার বর্তমান দক্ষতার ভিত্তিতে 'এসি সার্ভিসিং লেভেল ২' কোর্সটি উপযুক্ত হবে।",
+      "earningInsight": "আপনার গড় মাসিক আয় ১৮,৫০০ টাকা। পরবর্তী মাসে সম্ভাব্য আয় ২২,৫০০ টাকা।",
+      "demandInfo": "ঢাকায় এসি সার্ভিসিংয়ের চাহিদা ৯২%, রংপুরে প্লাম্বিংয়ের চাহিদা ৪০%।",
+      "default": "আমি আপনাকে আরও ভালোভাবে সাহায্য করতে পারি যদি আপনি 'চাকরির পরামর্শ', 'দক্ষতা', 'আয়', 'অগ্রগতি', বা 'লেভেল' সম্পর্কে জানতে চান।",
+      "jobMatch": "আপনার দক্ষতার সাথে ৯৪% ম্যাচ করে এমন এসি সার্ভিসিংয়ের চাকরি পাওয়া যাচ্ছে।",
+      "learningPath": "আপনার জন্য পরবর্তী লেভেল: এসি সার্ভিসিং লেভেল ২। এটি সম্পন্ন করলে আপনার আয় বৃদ্ধি পাবে।",
+      "tips": "প্রতিদিন ৩০ মিনিট শেখার অভ্যাস করুন, মাসিক আয় ২০% বৃদ্ধি করতে পারে।",
+      "help": "আমি আপনাকে সাহায্য করতে পারি: চাকরির পরামর্শ, দক্ষতা উন্নয়ন, আয় বৃদ্ধি, আপনার অগ্রগতি, এবং জেলা ভিত্তিক চাহিদা সম্পর্কে।",
+      "progress": "আপনার অগ্রগতি দেখুন: সম্পন্ন লেভেল, মডিউল, এবং পরবর্তী পদক্ষেপ সম্পর্কে জানুন।",
+      "nextLevel": "আপনার পরবর্তী লেভেল সম্পর্কে জানুন এবং কীভাবে আনলক করতে হবে তা দেখুন।",
+      "currentLevel": "আপনার বর্তমান লেভেলের বিবরণ এবং মডিউল সম্পন্নের অবস্থা দেখুন।",
+      "motivation": "আপনি দুর্দান্ত করছেন! প্রতিদিন শেখা আপনার আয় বৃদ্ধি করবে।",
+      "encouragement": "একটি ধাপে এক ধাপে এগিয়ে যান। আপনার লক্ষ্য অর্জন করছেন!"
+    },
+    "en": {
+      "greeting": "Hello! I'm your AI assistant. What would you like to know?",
+      "jobAdvice": "AC service jobs are trending in Dhaka this month — upgrading this skill can boost income by 22%.",
+      "skillSuggestion": "Based on your skills, 'AC Servicing Level 2' is the best next course for you.",
+      "earningInsight": "Your current monthly earning is BDT 18,500, expected to rise to 22,500 next month.",
+      "demandInfo": "AC Servicing demand in Dhaka is 92%, Plumbing demand in Rangpur is 40%.",
+      "default": "I can help you better if you ask about 'job advice', 'skills', 'earnings', 'progress', or 'levels'.",
+      "jobMatch": "There are AC Servicing jobs available with 94% match to your skills.",
+      "learningPath": "Your next level: AC Servicing Level 2. Completing this can increase your income.",
+      "tips": "Practicing 30 minutes daily can increase monthly income by 20%.",
+      "help": "I can help you with: job advice, skill development, earning growth, your progress, and district-wise demand information.",
+      "progress": "Check your progress: completed levels, modules, and learn about your next steps.",
+      "nextLevel": "Learn about your next level and how to unlock it.",
+      "currentLevel": "View details about your current level and module completion status.",
+      "motivation": "You're doing great! Keep learning daily to increase your earnings.",
+      "encouragement": "Take it one step at a time. You're achieving your goals!"
+    }
+  },
+  "keywords": {
+    "bn": {
+      "job": ["চাকরি", "কাজ", "নিয়োগ", "পদ", "জব"],
+      "skill": ["দক্ষতা", "স্কিল", "কোর্স", "শিক্ষা", "শিখুন"],
+      "earning": ["আয়", "বেতন", "উপার্জন", "টাকা", "স্যালারি"],
+      "demand": ["চাহিদা", "জেলা", "অঞ্চল", "বাজার", "মার্কেট"],
+      "help": ["সাহায্য", "হেল্প", "কীভাবে", "কিভাবে", "জানুন"],
+      "progress": ["অগ্রগতি", "প্রগ্রেস", "কতটা", "কত", "সম্পন্ন"],
+      "level": ["লেভেল", "স্তর", "মডিউল", "কোর্স"],
+      "next": ["পরবর্তী", "নেক্সট", "আগামী", "ভবিষ্যত"]
+    },
+    "en": {
+      "job": ["job", "work", "employment", "position", "career"],
+      "skill": ["skill", "course", "learn", "training", "education"],
+      "earning": ["earning", "salary", "income", "money", "wage"],
+      "demand": ["demand", "district", "area", "market", "region"],
+      "help": ["help", "assist", "how", "what", "guide"],
+      "progress": ["progress", "status", "how much", "completed", "done"],
+      "level": ["level", "stage", "module", "course"],
+      "next": ["next", "upcoming", "future", "coming"]
+    }
+  }
+}

@@ -1,0 +1,5036 @@
+{
+  "quizzes": {
+    "101": {
+      "question_bn": "বৈদ্যুতিক কাজের আগে সর্বপ্রথম কি করা উচিত?",
+      "question_en": "What should be done first before electrical work?",
+      "options_bn": ["পাওয়ার চালু রাখুন", "পাওয়ার বন্ধ করুন", "টুলস নিন", "কিছুই না"],
+      "options_en": ["Keep power on", "Turn off power", "Get tools", "Nothing"],
+      "correct": 1
+    },
+    "102": {
+      "question_bn": "বাংলাদেশে স্ট্যান্ডার্ড ভোল্টেজ কত?",
+      "question_en": "What is the standard voltage in Bangladesh?",
+      "options_bn": ["110V", "220V", "440V", "12V"],
+      "options_en": ["110V", "220V", "440V", "12V"],
+      "correct": 1
+    },
+    "103": {
+      "question_bn": "কারেন্ট পরিমাপ করার জন্য কোন টুল ব্যবহার করা হয়?",
+      "question_en": "Which tool is used to measure current?",
+      "options_bn": ["সcrewdriver", "Multimeter", "Hammer", "Pliers"],
+      "options_en": ["Screwdriver", "Multimeter", "Hammer", "Pliers"],
+      "correct": 1
+    },
+    "104": {
+      "question_bn": "একটি সম্পূর্ণ সার্কিটে কি প্রয়োজন?",
+      "question_en": "What is needed in a complete circuit?",
+      "options_bn": ["শুধু পাওয়ার", "পাওয়ার, লোড, সংযোগ", "শুধু লোড", "কিছুই না"],
+      "options_en": ["Only power", "Power, load, connections", "Only load", "Nothing"],
+      "correct": 1
+    },
+    "105": {
+      "question_bn": "ভোল্টেজ কি?",
+      "question_en": "What is voltage?",
+      "options_bn": ["কারেন্টের প্রবাহ", "বৈদ্যুতিক চাপ", "প্রতিরোধ", "শক্তি"],
+      "options_en": ["Current flow", "Electrical pressure", "Resistance", "Power"],
+      "correct": 1
+    },
+    "106": {
+      "question_bn": "MCB এর পুরো নাম কি?",
+      "question_en": "What is the full form of MCB?",
+      "options_bn": ["Mini Circuit Box", "Miniature Circuit Breaker", "Main Control Box", "Motor Control Board"],
+      "options_en": ["Mini Circuit Box", "Miniature Circuit Breaker", "Main Control Box", "Motor Control Board"],
+      "correct": 1
+    },
+    "107": {
+  "question_bn": "ইনসুলেশন এর কাজ কী?",
+  "question_en": "What is the purpose of insulation?",
+  "options_bn": [
+    "কারেন্ট প্রবাহ বাড়ানো",
+    "কারেন্ট লিক প্রতিরোধ করা",
+    "তারের ওজন কমানো",
+    "তারের রঙ পরিবর্তন করা"
+  ],
+  "options_en": [
+    "Increase current flow",
+    "Prevent current leakage",
+    "Reduce wire weight",
+    "Change wire color"
+  ],
+  "correct": 1
+},
+
+"108": {
+  "question_bn": "লোড গণনার সূত্র কী?",
+  "question_en": "What is the formula for load calculation?",
+  "options_bn": [
+    "P = I + V",
+    "P = V × I",
+    "V = I ÷ R",
+    "I = P × R"
+  ],
+  "options_en": [
+    "P = I + V",
+    "P = V × I",
+    "V = I ÷ R",
+    "I = P × R"
+  ],
+  "correct": 1
+},
+
+"109": {
+  "question_bn": "ইলেকট্রিকাল ডায়াগ্রামে প্রতিটি চিহ্নের কাজ কী?",
+  "question_en": "What is the role of each symbol in an electrical diagram?",
+  "options_bn": [
+    "সাজানোর জন্য",
+    "বিভিন্ন উপাদান বোঝাতে",
+    "রঙ নির্ধারণের জন্য",
+    "শব্দ তৈরি করার জন্য"
+  ],
+  "options_en": [
+    "For decoration",
+    "To represent different components",
+    "To set colors",
+    "To make sound"
+  ],
+  "correct": 1
+},
+
+"110": {
+  "question_bn": "সার্কিটের রক্ষণাবেক্ষণ কত সময় অন্তর করা উচিত?",
+  "question_en": "How often should circuit maintenance be performed?",
+  "options_bn": [
+    "প্রতি সপ্তাহে",
+    "প্রতি মাসে",
+    "প্রতি ৬ মাসে",
+    "প্রতি ৫ বছরে"
+  ],
+  "options_en": [
+    "Every week",
+    "Every month",
+    "Every 6 months",
+    "Every 5 years"
+  ],
+  "correct": 2
+}
+,
+
+  "201": {
+    "question_bn": "হোম ওয়্যারিং পরিকল্পনার প্রথম ধাপে কোন ডকুমেন্টটি সবচেয়ে গুরুত্বপূর্ণ?",
+    "question_en": "Which document is most important in the first step of home wiring planning?",
+    "options_bn": [
+      "বাজেট শীট",
+      "সিঙ্গেল লাইন ডায়াগ্রাম (SLD)",
+      "ক্রয় তালিকা",
+      "পেইন্ট স্কিম"
+    ],
+    "options_en": [
+      "Budget sheet",
+      "Single Line Diagram (SLD)",
+      "Purchase list",
+      "Paint scheme"
+    ],
+    "correct": 1
+  },
+  "202": {
+    "question_bn": "গৃহস্থালিতে সাধারণত কোন ট্রিপ কার্ভের MCB ব্যবহৃত হয়?",
+    "question_en": "Which MCB trip curve is typically used in residential circuits?",
+    "options_bn": [
+      "A-কার্ভ",
+      "B/C-কার্ভ",
+      "D-কার্ভ",
+      "K-কার্ভ"
+    ],
+    "options_en": [
+      "A-curve",
+      "B/C-curve",
+      "D-curve",
+      "K-curve"
+    ],
+    "correct": 1
+  },
+  "203": {
+    "question_bn": "আর্থিং সিস্টেমে কোনটি বাধ্যতামূলক?",
+    "question_en": "Which is mandatory in an earthing system?",
+    "options_bn": [
+      "মেটাল কেসিং বন্ডিং",
+      "অতিরিক্ত সুইচ",
+      "ডিমার ইনস্টলেশন",
+      "নাইলন কেবল টাই"
+    ],
+    "options_en": [
+      "Bonding metal enclosures",
+      "Extra switches",
+      "Dimmer installation",
+      "Nylon cable ties"
+    ],
+    "correct": 0
+  },
+  "204": {
+    "question_bn": "ভেজা এলাকায় অতিরিক্ত সুরক্ষার জন্য কোন ডিভাইস ব্যবহার করা উচিত?",
+    "question_en": "Which device should be used for extra protection in wet areas?",
+    "options_bn": [
+      "MCB",
+      "RCD/RCBO",
+      "SPD",
+      "ডিমার"
+    ],
+    "options_en": [
+      "MCB",
+      "RCD/RCBO",
+      "SPD",
+      "Dimmer"
+    ],
+    "correct": 1
+  },
+  "205": {
+    "question_bn": "সুইচবোর্ড এনক্লোজার মেটাল হলে কী নিশ্চিত করতে হবে?",
+    "question_en": "If a switchboard enclosure is metal, what must be ensured?",
+    "options_bn": [
+      "পেইন্ট করা",
+      "আর্থিং বন্ডিং",
+      "দুটি অতিরিক্ত স্ক্রু",
+      "ডিমার ব্যবহার"
+    ],
+    "options_en": [
+      "Painting",
+      "Earthing bond",
+      "Two extra screws",
+      "Use a dimmer"
+    ],
+    "correct": 1
+  },
+  "206": {
+    "question_bn": "সিঁড়ি/করিডরের জন্য কোন সুইচিংটি সুবিধাজনক?",
+    "question_en": "Which switching is convenient for stairs/corridors?",
+    "options_bn": [
+      "ওয়ান-ওয়ে",
+      "টু-ওয়ে/থ্রি-ওয়ে",
+      "পুশ বাটন",
+      "ডিমার"
+    ],
+    "options_en": [
+      "One-way",
+      "Two-way/Three-way",
+      "Push button",
+      "Dimmer"
+    ],
+    "correct": 1
+  },
+  "207": {
+    "question_bn": "হাই-পাওয়ার অ্যাপ্লায়েন্স কোথায় সংযোগ দেওয়া উচিত?",
+    "question_en": "Where should high-power appliances be connected?",
+    "options_bn": [
+      "সাধারণ সকেট সার্কিট",
+      "ডেডিকেটেড সার্কিট",
+      "এক্সটেনশন মাল্টিপ্লাগ",
+      "লাইটিং সার্কিট"
+    ],
+    "options_en": [
+      "General socket circuit",
+      "Dedicated circuit",
+      "Extension multiplug",
+      "Lighting circuit"
+    ],
+    "correct": 1
+  },
+  "208": {
+    "question_bn": "কেবল নির্বাচনে কোনটি বিবেচ্য নয়?",
+    "question_en": "Which is NOT a consideration in cable selection?",
+    "options_bn": [
+      "ইনসুলেশন টাইপ",
+      "তাপমাত্রা রেটিং",
+      "কেবল রঙ",
+      "ইনস্টলেশন কন্ডিশন"
+    ],
+    "options_en": [
+      "Insulation type",
+      "Temperature rating",
+      "Cable color",
+      "Installation conditions"
+    ],
+    "correct": 2
+  },
+  "209": {
+    "question_bn": "RCD টেস্টে কোন বিষয়টি যাচাই করা হয়?",
+    "question_en": "What is verified in an RCD test?",
+    "options_bn": [
+      "টর্ক স্পেস",
+      "ট্রিপ টাইম",
+      "কেবল দৈর্ঘ্য",
+      "ফিউজ রেটিং"
+    ],
+    "options_en": [
+      "Torque spec",
+      "Trip time",
+      "Cable length",
+      "Fuse rating"
+    ],
+    "correct": 1
+  },
+  "210": {
+    "question_bn": "জরুরি অবস্থায় পরিবারের সবাইকে কোনটি জানানো জরুরি?",
+    "question_en": "Which should everyone in the family know for emergencies?",
+    "options_bn": [
+      "ডিমার সেটিং",
+      "মেইন আইসোলেটরের অবস্থান",
+      "লাইটের ওয়াটেজ",
+      "ফ্যানের গতি"
+    ],
+    "options_en": [
+      "Dimmer setting",
+      "Location of main isolator",
+      "Lamp wattage",
+      "Fan speed"
+    ],
+    "correct": 1
+  },
+  "301": {
+    "question_bn": "ইন্ডাস্ট্রিয়াল ওয়্যারিংয়ে সাধারণত কোন কন্ডুইট বেশি ব্যবহৃত হয়?",
+    "question_en": "Which conduit type is commonly used in industrial wiring?",
+    "options_bn": [
+      "ফ্লেক্সিবল প্লাস্টিক",
+      "RGS/EMT",
+      "কাপড়ের টিউব",
+      "বাঁশের নল"
+    ],
+    "options_en": [
+      "Flexible plastic",
+      "RGS/EMT",
+      "Cloth tube",
+      "Bamboo pipe"
+    ],
+    "correct": 1
+  },
+  "302": {
+    "question_bn": "মোটর স্টার্টার ওভারলোড প্রোটেকশনের জন্য কোন ডিভাইসটি ব্যবহৃত হয়?",
+    "question_en": "Which device provides overload protection in motor starters?",
+    "options_bn": [
+      "কন্টাক্টর কয়েল",
+      "ওভারলোড রিলে",
+      "ফিউজ লিঙ্ক",
+      "টাইমার রিলে"
+    ],
+    "options_en": [
+      "Contactor coil",
+      "Overload relay",
+      "Fuse link",
+      "Timer relay"
+    ],
+    "correct": 1
+  },
+  "303": {
+    "question_bn": "প্যানেল বোর্ডে ব্রেকারগুলোর গোষ্ঠিবদ্ধ বিন্যাসের মূল উদ্দেশ্য কী?",
+    "question_en": "What is the main purpose of grouping breakers in a panel board?",
+    "options_bn": [
+      "দেখতে সুন্দর করা",
+      "সার্কিট সেগ্রিগেশন ও সার্ভিসিং সহজ করা",
+      "লাইটিং বাড়ানো",
+      "কুলিং কমানো"
+    ],
+    "options_en": [
+      "Aesthetic look",
+      "Circuit segregation and easy servicing",
+      "Increase lighting",
+      "Reduce cooling"
+    ],
+    "correct": 1
+  },
+  "304": {
+    "question_bn": "থ্রি-ফেজ সিস্টেমে কোনটি বজায় রাখা জরুরি?",
+    "question_en": "What must be maintained in a three-phase system?",
+    "options_bn": [
+      "উচ্চ ভোল্টেজ",
+      "ফেজ ব্যালান্স",
+      "বেশি রেসিস্ট্যান্স",
+      "একই কেবল রঙ"
+    ],
+    "options_en": [
+      "High voltage",
+      "Phase balance",
+      "High resistance",
+      "Same cable color"
+    ],
+    "correct": 1
+  },
+  "305": {
+    "question_bn": "ইন্ডাস্ট্রিয়াল সেফটিতে LOTO বলতে কী বোঝায়?",
+    "question_en": "In industrial safety, what does LOTO stand for?",
+    "options_bn": [
+      "Lock Out Tag Out",
+      "Light On Time On",
+      "Line Over Trip Over",
+      "Log On Turn Off"
+    ],
+    "options_en": [
+      "Lock Out Tag Out",
+      "Light On Time On",
+      "Line Over Trip Over",
+      "Log On Turn Off"
+    ],
+    "correct": 0
+  },
+  "306": {
+    "question_bn": "মোটরের ইনসুলেশন অবস্থা যাচাই করতে কোন টেস্ট ব্যবহার হয়?",
+    "question_en": "Which test is used to assess motor insulation condition?",
+    "options_bn": [
+      "মেগার টেস্ট",
+      "স্মোক টেস্ট",
+      "লোড ব্যাংক",
+      "উইন্ড টানেল"
+    ],
+    "options_en": [
+      "Megger test",
+      "Smoke test",
+      "Load bank",
+      "Wind tunnel"
+    ],
+    "correct": 0
+  },
+  "307": {
+    "question_bn": "কন্ট্রোল সার্কিটে ইন্টারলকের উদ্দেশ্য কী?",
+    "question_en": "What is the purpose of interlocks in control circuits?",
+    "options_bn": [
+      "কারেন্ট বাড়ানো",
+      "ভুল অপারেশন প্রতিরোধ",
+      "ভোল্টেজ কমানো",
+      "তাপ উৎপাদন"
+    ],
+    "options_en": [
+      "Increase current",
+      "Prevent incorrect operations",
+      "Reduce voltage",
+      "Generate heat"
+    ],
+    "correct": 1
+  },
+  "308": {
+    "question_bn": "ইলেকট্রিক্যাল ড্রয়িং পড়তে কোনটি সহায়ক?",
+    "question_en": "Which helps in reading electrical drawings?",
+    "options_bn": [
+      "সিম্বল লেজেন্ড",
+      "পেইন্ট কোড",
+      "স্ক্রু সাইজ তালিকা",
+      "বক্সের রং"
+    ],
+    "options_en": [
+      "Symbol legend",
+      "Paint code",
+      "Screw size list",
+      "Box color"
+    ],
+    "correct": 0
+  },
+  "309": {
+    "question_bn": "ওয়্যার টেস্টিংয়ে কোনটি পোলারিটি যাচাই করে?",
+    "question_en": "Which test verifies polarity in wire testing?",
+    "options_bn": [
+      "IR টেস্ট",
+      "কন্টিনিউটি টেস্ট",
+      "লোড টেস্ট",
+      "থার্মাল টেস্ট"
+    ],
+    "options_en": [
+      "IR test",
+      "Continuity test",
+      "Load test",
+      "Thermal test"
+    ],
+    "correct": 1
+  },
+  "310": {
+    "question_bn": "ইলেকট্রিক্যাল ফায়ার প্রতিরোধে কোনটি গুরুত্বপূর্ণ?",
+    "question_en": "What is important for preventing electrical fires?",
+    "options_bn": [
+      "কেবল ডিরেটিং অনুসরণ",
+      "সব সার্কিটে ডিমার",
+      "রঙিন কেবল",
+      "বেশি স্ক্রু"
+    ],
+    "options_en": [
+      "Following cable derating",
+      "Dimmer on all circuits",
+      "Colored cables",
+      "More screws"
+    ],
+    "correct": 0
+  },
+  "401": {
+    "question_bn": "PLC-তে স্ক্যান সাইকেল কী বোঝায়?",
+    "question_en": "What does scan cycle mean in a PLC?",
+    "options_bn": [
+      "ডিসপ্লে রিফ্রেশ",
+      "ইনপুট পড়া, লজিক এক্সিকিউশন, আউটপুট আপডেট",
+      "কেবল টেস্ট",
+      "ড্রাইভ টিউনিং"
+    ],
+    "options_en": [
+      "Display refresh",
+      "Read inputs, execute logic, update outputs",
+      "Cable test",
+      "Drive tuning"
+    ],
+    "correct": 1
+  },
+  "402": {
+    "question_bn": "NPN/PNP কনফিগারেশন কোন ডিভাইসে প্রযোজ্য?",
+    "question_en": "NPN/PNP configuration applies to which devices?",
+    "options_bn": [
+      "মেকানিক্যাল রিলে",
+      "প্রক্সিমিটি সেন্সর",
+      "হিটার",
+      "এলইডি স্ট্রিপ"
+    ],
+    "options_en": [
+      "Mechanical relays",
+      "Proximity sensors",
+      "Heater",
+      "LED strip"
+    ],
+    "correct": 1
+  },
+  "403": {
+    "question_bn": "রিলে লজিকে 'সিল-ইন' ল্যাচের কাজ কী?",
+    "question_en": "What is the function of a seal-in latch in relay logic?",
+    "options_bn": [
+      "স্টার্ট কমান্ড ধরে রাখা",
+      "ভোল্টেজ বাড়ানো",
+      "হারমোনিক কমানো",
+      "তাপ কমানো"
+    ],
+    "options_en": [
+      "Hold the start command",
+      "Increase voltage",
+      "Reduce harmonics",
+      "Reduce heat"
+    ],
+    "correct": 0
+  },
+  "404": {
+    "question_bn": "TON টাইমারের বৈশিষ্ট্য কী?",
+    "question_en": "What is a characteristic of a TON timer?",
+    "options_bn": [
+      "পাওয়ার বন্ধ হলে রিসেট হয়",
+      "পাওয়ার গেলে গণনা ধরে রাখে",
+      "ভোল্টেজ বাড়ায়",
+      "সিগন্যাল উল্টো করে"
+    ],
+    "options_en": [
+      "Resets when power is removed",
+      "Retains count when power is removed",
+      "Increases voltage",
+      "Inverts signal"
+    ],
+    "correct": 0
+  },
+  "405": {
+    "question_bn": "অটোমেশন প্যানেলে হিট ম্যানেজমেন্টের জন্য কোনটি সহায়ক?",
+    "question_en": "What helps heat management in automation panels?",
+    "options_bn": [
+      "ওয়্যার ডাক্ত অপসারণ",
+      "ভেন্টিলেশন/ফ্যান",
+      "কালো রঙ করা",
+      "বেশি স্ক্রু"
+    ],
+    "options_en": [
+      "Removing wire ducts",
+      "Ventilation/fans",
+      "Painting black",
+      "More screws"
+    ],
+    "correct": 1
+  },
+  "406": {
+    "question_bn": "৪–২০ mA সিগন্যাল সাধারণত কী নির্দেশ করে?",
+    "question_en": "What does a 4–20 mA signal typically indicate?",
+    "options_bn": [
+      "ডিজিটাল অন/অফ",
+      "অ্যানালগ প্রক্রিয়া ভ্যারিয়েবল",
+      "AC পাওয়ার",
+      "ড্রাইভ টর্ক"
+    ],
+    "options_en": [
+      "Digital on/off",
+      "Analog process variable",
+      "AC power",
+      "Drive torque"
+    ],
+    "correct": 1
+  },
+  "407": {
+    "question_bn": "VFD সেটিংসে 'র‍্যাম্প টাইম' কী নিয়ন্ত্রণ করে?",
+    "question_en": "What does VFD 'ramp time' control?",
+    "options_bn": [
+      "ভোল্টেজ ওয়েভ শেইপ",
+      "অ্যাকসেলারেশন/ডিসেলারেশন সময়",
+      "কেবল তাপ",
+      "সেন্সর টাইপ"
+    ],
+    "options_en": [
+      "Voltage waveform",
+      "Acceleration/deceleration time",
+      "Cable temperature",
+      "Sensor type"
+    ],
+    "correct": 1
+  },
+  "408": {
+    "question_bn": "অটোমেশন সিস্টেমে ফল্ট ট্রেসিংয়ের প্রথম ধাপ কী?",
+    "question_en": "What is the first step of fault tracing in automation systems?",
+    "options_bn": [
+      "সব তার খুলে ফেলা",
+      "অ্যালার্ম/লগ পড়া",
+      "নতুন PLC কেনা",
+      "সব সেন্সর বদলানো"
+    ],
+    "options_en": [
+      "Remove all wires",
+      "Read alarms/logs",
+      "Buy a new PLC",
+      "Replace all sensors"
+    ],
+    "correct": 1
+  },
+  "409": {
+    "question_bn": "সেফটি ইন্টারলকে E-Stop সাধারণত কেমন কন্ট্যাক্ট ব্যবহার করে?",
+    "question_en": "What type of contact is typically used for E-Stop in safety interlocks?",
+    "options_bn": [
+      "NO",
+      "NC",
+      "Changeover only",
+      "High-Z"
+    ],
+    "options_en": [
+      "NO",
+      "NC",
+      "Changeover only",
+      "High-Z"
+    ],
+    "correct": 1
+  },
+  "410": {
+    "question_bn": "HMI-তে কোনটি অপারেটরকে সমস্যা শনাক্তে সাহায্য করে?",
+    "question_en": "Which HMI feature helps operators identify issues?",
+    "options_bn": [
+      "স্ক্রিন উজ্জ্বলতা",
+      "অ্যালার্ম ও ট্রেন্ড",
+      "থিম কালার",
+      "ফন্ট সাইজ"
+    ],
+    "options_en": [
+      "Screen brightness",
+      "Alarms and trends",
+      "Theme color",
+      "Font size"
+    ],
+    "correct": 1
+  },
+  "501": {
+    "question_bn": "সাবস্টেশনে ফল্ট আইসোলেশনের প্রধান উপাদান কোনটি?",
+    "question_en": "Which component is key for fault isolation in a substation?",
+    "options_bn": [
+      "বাল্ব",
+      "সুইচগিয়ার",
+      "পাওয়ার সকেট",
+      "পাম্প"
+    ],
+    "options_en": [
+      "Lamp",
+      "Switchgear",
+      "Power socket",
+      "Pump"
+    ],
+    "correct": 1
+  },
+  "502": {
+    "question_bn": "ট্রান্সফরমারের অয়েল টেস্টের উদ্দেশ্য কী?",
+    "question_en": "What is the purpose of transformer oil testing?",
+    "options_bn": [
+      "রঙ নির্ধারণ",
+      "ডাইইলেকট্রিক গুণমান যাচাই",
+      "ওজন নির্ণয়",
+      "বাক্স মাপা"
+    ],
+    "options_en": [
+      "Determine color",
+      "Verify dielectric quality",
+      "Find weight",
+      "Measure box size"
+    ],
+    "correct": 1
+  },
+  "503": {
+    "question_bn": "ক্যাবল টার্মিনেশনে সাধারণত কোন উপকরণ ব্যবহার হয়?",
+    "question_en": "Which material is commonly used in cable terminations?",
+    "options_bn": [
+      "হিট-শ্রিঙ্ক টিউব",
+      "কাগজ",
+      "কাঠ",
+      "কাপড়"
+    ],
+    "options_en": [
+      "Heat-shrink tubing",
+      "Paper",
+      "Wood",
+      "Cloth"
+    ],
+    "correct": 0
+  },
+  "504": {
+    "question_bn": "ডিস্ট্রিবিউশন প্যানেলে লোড ব্যালান্স কেন জরুরি?",
+    "question_en": "Why is load balance important in distribution panels?",
+    "options_bn": [
+      "দেখতে সুন্দর",
+      "ভোল্টেজ ড্রপ ও অতিরিক্ত গরম কমাতে",
+      "রঙ মিলাতে",
+      "বেশি স্ক্রু বসাতে"
+    ],
+    "options_en": [
+      "Aesthetics",
+      "Reduce voltage drop and overheating",
+      "Match colors",
+      "Install more screws"
+    ],
+    "correct": 1
+  },
+  "505": {
+    "question_bn": "অর্থিং সিস্টেমে উচ্চ আর্থ রেজিস্ট্যান্স হলে কী করবেন?",
+    "question_en": "What should you do if earth resistance is high?",
+    "options_bn": [
+      "আরো রং করবেন",
+      "কানেকশন/জয়েন্ট পরীক্ষা ও মাটির আর্দ্রতা বাড়াবেন",
+      "বক্স বদলাবেন",
+      "ফিউজ বাড়াবেন"
+    ],
+    "options_en": [
+      "Paint more",
+      "Check connections/joints and improve soil moisture",
+      "Replace box",
+      "Increase fuse size"
+    ],
+    "correct": 1
+  },
+  "506": {
+    "question_bn": "সার্কিট টেস্টিংয়ে Zs কী নির্দেশ করে?",
+    "question_en": "In circuit testing, what does Zs represent?",
+    "options_bn": [
+      "সোর্স ইম্পিড্যান্স",
+      "আর্থ-ফল্ট লুপ ইম্পিড্যান্স",
+      "লোড রেজিস্ট্যান্স",
+      "ফেজ অ্যাঙ্গেল"
+    ],
+    "options_en": [
+      "Source impedance",
+      "Earth fault loop impedance",
+      "Load resistance",
+      "Phase angle"
+    ],
+    "correct": 1
+  },
+  "507": {
+    "question_bn": "ELV/LV সিস্টেমে কোনটি ভাল প্র্যাকটিস?",
+    "question_en": "What is a good practice in ELV/LV systems?",
+    "options_bn": [
+      "একই ট্রেতে সব কেবল",
+      "সেগ্রিগেটেড রাউটিং",
+      "সবুজ কেবলই ব্যবহার",
+      "শুধু ডিমার ব্যবহার"
+    ],
+    "options_en": [
+      "All cables in one tray",
+      "Segregated routing",
+      "Use only green cables",
+      "Use only dimmers"
+    ],
+    "correct": 1
+  },
+  "508": {
+    "question_bn": "জরুরি ব্যাকআপে ATS এর কাজ কী?",
+    "question_en": "What is the function of an ATS in emergency backup?",
+    "options_bn": [
+      "ভোল্টেজ বাড়ানো",
+      "সোর্স স্বয়ংক্রিয় বদল",
+      "তাপ কমানো",
+      "রঙ বদল"
+    ],
+    "options_en": [
+      "Increase voltage",
+      "Automatic source switching",
+      "Reduce heat",
+      "Change color"
+    ],
+    "correct": 1
+  },
+  "509": {
+    "question_bn": "এনার্জি মনিটরিংয়ে সাবমিটারিং কেন ব্যবহৃত হয়?",
+    "question_en": "Why is submetering used in energy monitoring?",
+    "options_bn": [
+      "রঙ মেলাতে",
+      "লোডভিত্তিক খরচ ট্র্যাক করতে",
+      "তাপ বাড়াতে",
+      "বাতাস ঠান্ডা করতে"
+    ],
+    "options_en": [
+      "Match colors",
+      "Track usage by loads/areas",
+      "Increase heat",
+      "Cool air"
+    ],
+    "correct": 1
+  },
+  "510": {
+    "question_bn": "পাওয়ার ফ্যাক্টর উন্নত করতে কী যোগ করা হয়?",
+    "question_en": "What is added to improve power factor?",
+    "options_bn": [
+      "রেজিস্টর ব্যাংক",
+      "ক্যাপাসিটর ব্যাংক",
+      "ফিউজ ব্যাংক",
+      "হিট সিঙ্ক"
+    ],
+    "options_en": [
+      "Resistor bank",
+      "Capacitor bank",
+      "Fuse bank",
+      "Heat sink"
+    ],
+    "correct": 1
+  },
+  "601": {
+    "question_bn": "ডিজাইন প্রজেক্টে SLD এর মূল ভূমিকা কী?",
+    "question_en": "What is the primary role of an SLD in design projects?",
+    "options_bn": [
+      "এস্থেটিক্স",
+      "পাওয়ার ফ্লো ও কানেকশন দেখানো",
+      "রঙ কনট্রাস্ট",
+      "কুলিং ডিজাইন"
+    ],
+    "options_en": [
+      "Aesthetics",
+      "Show power flow and connections",
+      "Color contrast",
+      "Cooling design"
+    ],
+    "correct": 1
+  },
+  "602": {
+    "question_bn": "প্রজেক্ট ম্যানেজমেন্টে ক্রিটিক্যাল পাথ কী বোঝায়?",
+    "question_en": "What does the critical path indicate in project management?",
+    "options_bn": [
+      "কম খরচের কাজ",
+      "প্রকল্পের সর্বনিম্ন সম্পন্ন সময় নির্ধারক টাস্ক চেইন",
+      "সর্বোচ্চ রিসোর্স",
+      "রঙ মেলানো কাজ"
+    ],
+    "options_en": [
+      "Low-cost tasks",
+      "Task chain determining minimum project duration",
+      "Maximum resources",
+      "Color-matching tasks"
+    ],
+    "correct": 1
+  },
+  "603": {
+    "question_bn": "কমিশনিংয়ের আগে কোনটি বাধ্যতামূলক?",
+    "question_en": "What is mandatory before commissioning?",
+    "options_bn": [
+      "পেইন্টিং",
+      "প্রী-কমিশনিং টেস্ট ও সেফটি চেক",
+      "ফ্যাশনিং",
+      "লোগো লাগানো"
+    ],
+    "options_en": [
+      "Painting",
+      "Pre-commissioning tests and safety checks",
+      "Fashioning",
+      "Applying logos"
+    ],
+    "correct": 1
+  },
+  "604": {
+    "question_bn": "কোয়ালিটি কন্ট্রোলে NCR কী?",
+    "question_en": "In quality control, what is an NCR?",
+    "options_bn": [
+      "নতুন কেবল রেটিং",
+      "নন-কনফরমিটি রিপোর্ট",
+      "নিয়মিত কন্ডাক্টিভিটি রিডিং",
+      "নরম কেবল রোল"
+    ],
+    "options_en": [
+      "New Cable Rating",
+      "Non-Conformity Report",
+      "Normal Conductivity Reading",
+      "Nice Cable Roll"
+    ],
+    "correct": 1
+  },
+  "605": {
+    "question_bn": "রিস্ক অ্যাসেসমেন্টে প্রথম ধাপ কী?",
+    "question_en": "What is the first step in risk assessment?",
+    "options_bn": [
+      "মিটিগেশন",
+      "হ্যাজার্ড আইডেন্টিফিকেশন",
+      "ইন্সপেকশন বাদ",
+      "অডিট বন্ধ"
+    ],
+    "options_en": [
+      "Mitigation",
+      "Hazard identification",
+      "Skip inspections",
+      "Stop audits"
+    ],
+    "correct": 1
+  },
+  "606": {
+    "question_bn": "স্মার্ট হোমে ডিভাইস আন্তঃযোগাযোগের জন্য কী প্রয়োজন?",
+    "question_en": "What is required for device interoperability in smart homes?",
+    "options_bn": [
+      "একই রঙ",
+      "কমন প্রোটোকল/স্ট্যান্ডার্ড",
+      "বড় ডিসপ্লে",
+      "ভারী কেবল"
+    ],
+    "options_en": [
+      "Same color",
+      "Common protocols/standards",
+      "Bigger display",
+      "Heavier cables"
+    ],
+    "correct": 1
+  },
+  "607": {
+    "question_bn": "সোলার সিস্টেমে ইনভার্টারের প্রধান কাজ কী?",
+    "question_en": "What is the primary function of an inverter in solar systems?",
+    "options_bn": [
+      "DC কে AC তে রূপান্তর",
+      "ভোল্টেজ পেইন্ট করা",
+      "কেবল ঠান্ডা করা",
+      "প্যানেল ধোয়া"
+    ],
+    "options_en": [
+      "Convert DC to AC",
+      "Paint voltage",
+      "Cool cables",
+      "Wash panels"
+    ],
+    "correct": 0
+  },
+  "608": {
+    "question_bn": "সেফটি অডিটে কোনটি অপরিহার্য?",
+    "question_en": "What is essential in a safety audit?",
+    "options_bn": [
+      "ব্যক্তিগত মতামত",
+      "চেকলিস্ট ও মেজারমেন্ট",
+      "শুধু ছবি",
+      "রঙ কোড"
+    ],
+    "options_en": [
+      "Personal opinion",
+      "Checklists and measurements",
+      "Only photos",
+      "Color codes"
+    ],
+    "correct": 1
+  },
+  "609": {
+    "question_bn": "এনার্জি ম্যানেজমেন্টে KPI কেন দরকার?",
+    "question_en": "Why are KPIs required in energy management?",
+    "options_bn": [
+      "ডিজাইন সুন্দর করতে",
+      "পারফরম্যান্স মাপতে ও লক্ষ্য ঠিক করতে",
+      "তার রঙ বাছতে",
+      "বক্স বড় করতে"
+    ],
+    "options_en": [
+      "Improve aesthetics",
+      "Measure performance and set targets",
+      "Choose wire colors",
+      "Enlarge boxes"
+    ],
+    "correct": 1
+  },
+  "610": {
+    "question_bn": "পেশাগত উন্নয়নে কোনটি দীর্ঘমেয়াদি লাভ দেয়?",
+    "question_en": "Which provides long-term benefits in professional development?",
+    "options_bn": [
+      "পুরনো অভ্যাস",
+      "স্ট্যান্ডার্ড আপডেট ও সার্টিফিকেশন",
+      "র‌্যান্ডম টিপস",
+      "বেশি স্ক্রু কেনা"
+    ],
+    "options_en": [
+      "Old habits",
+      "Standards updates and certifications",
+      "Random tips",
+      "Buying more screws"
+    ],
+    "correct": 1
+  }
+
+,
+ "611": {
+    "question_bn": "এসি পরিচিতি নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on AC Introduction, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "612": {
+    "question_bn": "রেফ্রিজারেশন সাইকেলে এক্সপ্যানশন ডিভাইসের মূল কাজ কী?",
+    "question_en": "In the refrigeration cycle, what is the primary role of the expansion device?",
+    "options_bn": [
+      "চাপ ও তাপমাত্রা বাড়ানো",
+      "রেফ্রিজারেন্টকে বাষ্পে রূপান্তর",
+      "চাপ কমিয়ে তরলকে ফ্ল্যাশ করা",
+      "কম্প্রেসার চালানো"
+    ],
+    "options_en": [
+      "Increase pressure and temperature",
+      "Convert refrigerant to vapor",
+      "Reduce pressure to flash liquid",
+      "Drive the compressor"
+    ],
+    "correct": 2
+  },
+  "613": {
+    "question_bn": "কম্প্রেসারের আউটলেট লাইনে কোন অবস্থা প্রত্যাশিত?",
+    "question_en": "What state is expected at the compressor discharge line?",
+    "options_bn": [
+      "লো-প্রেশার গ্যাস",
+      "হাই-প্রেশার গ্যাস",
+      "লো-প্রেশার লিকুইড",
+      "হাই-প্রেশার লিকুইড"
+    ],
+    "options_en": [
+      "Low-pressure gas",
+      "High-pressure gas",
+      "Low-pressure liquid",
+      "High-pressure liquid"
+    ],
+    "correct": 1
+  },
+  "614": {
+    "question_bn": "এয়ারফ্লো কমে গেলে প্রথমে কী পরীক্ষা করবেন?",
+    "question_en": "If airflow drops, what should you check first?",
+    "options_bn": [
+      "রেফ্রিজারেন্ট চার্জ",
+      "ডার্টি ফিল্টার",
+      "কম্প্রেসার অয়েল",
+      "থার্মোস্ট্যাট সেন্সর"
+    ],
+    "options_en": [
+      "Refrigerant charge",
+      "Clogged filter",
+      "Compressor oil",
+      "Thermostat sensor"
+    ],
+    "correct": 1
+  },
+  "615": {
+    "question_bn": "থার্মোস্ট্যাটের অ্যান্টিসিপেটর/ডিফারেনশিয়াল কী নিয়ন্ত্রণ করে?",
+    "question_en": "What does a thermostat’s anticipator/differential primarily control?",
+    "options_bn": [
+      "সেটপয়েন্টের স্থায়িত্ব",
+      "কম্প্রেসারের অয়েল প্রেশার",
+      "রেফ্রিজারেন্ট টাইপ",
+      "ফ্যান ব্লেডের পিচ"
+    ],
+    "options_en": [
+      "Cycle stability around setpoint",
+      "Compressor oil pressure",
+      "Refrigerant type",
+      "Fan blade pitch"
+    ],
+    "correct": 0
+  },
+  "616": {
+    "question_bn": "হট-ওয়ার্ক (ব্রেজিং) করার আগে আবশ্যক পদক্ষেপ কোনটি?",
+    "question_en": "Before hot work (brazing), which action is mandatory?",
+    "options_bn": [
+      "ফিল্টার পরিষ্কার",
+      "LOTO ও ফায়ার ওয়াচ নিশ্চিত করা",
+      "থার্মোস্ট্যাট অফ করা",
+      "ইউনিট ধোয়া"
+    ],
+    "options_en": [
+      "Clean filter",
+      "Ensure LOTO and fire watch",
+      "Turn thermostat off",
+      "Wash the unit"
+    ],
+    "correct": 1
+  },
+  "617": {
+    "question_bn": "R410A সিস্টেমে সাধারণত কোন ম্যানিফোল্ড গেজ কানেক্টর ব্যবহার হয়?",
+    "question_en": "Which manifold gauge connector is typical for R410A systems?",
+    "options_bn": [
+      "১/৪\" SAE",
+      "৫/১৬\" SAE",
+      "৩/৮\" NPT",
+      "বায়োনেট টাইপ"
+    ],
+    "options_en": [
+      "1/4\" SAE",
+      "5/16\" SAE",
+      "3/8\" NPT",
+      "Bayonet type"
+    ],
+    "correct": 1
+  },
+  "618": {
+    "question_bn": "রেফ্রিজারেন্ট সিলিন্ডার পরিবহনের সঠিক ভঙ্গি কোনটি?",
+    "question_en": "What is the correct orientation for transporting refrigerant cylinders?",
+    "options_bn": [
+      "হরাইজন্টাল",
+      "ভার্টিক্যাল সিকিউরড",
+      "উল্টো করে",
+      "যেভাবে সুবিধা"
+    ],
+    "options_en": [
+      "Horizontal",
+      "Vertically secured",
+      "Upside down",
+      "Any way convenient"
+    ],
+    "correct": 1
+  },
+  "619": {
+    "question_bn": "কন্টাক্টর কয়েলের সাধারণ ভোল্টেজ (রুম এসি) কত?",
+    "question_en": "What is a common coil voltage for a room AC contactor?",
+    "options_bn": [
+      "১২V AC",
+      "২৪V AC",
+      "২৩০V AC",
+      "৪৮V DC"
+    ],
+    "options_en": [
+      "12V AC",
+      "24V AC",
+      "230V AC",
+      "48V DC"
+    ],
+    "correct": 1
+  },
+  "620": {
+    "question_bn": "PM ভিজিটে কোনটি অবশ্যই লগ করতে হবে?",
+    "question_en": "During PM visits, which must be logged?",
+    "options_bn": [
+      "ক্লায়েন্টের পছন্দের রং",
+      "কয়েল ফিন কাউন্ট",
+      "সুপারহিট/সাবকুলিং ও অ্যাম্প ড্র",
+      "টিভি চ্যানেল"
+    ],
+    "options_en": [
+      "Client’s favorite color",
+      "Coil fin count",
+      "Superheat/Subcool & amp draw",
+      "TV channel"
+    ],
+    "correct": 2
+  },
+  "621": {
+    "question_bn": "ত্রুটি নির্ণয় নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Troubleshooting, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "622": {
+    "question_bn": "ওয়াল-মাউন্টেড ইনডোর ইউনিটের ন্যূনতম ক্লিয়ারেন্স সাধারণত কোথায় জরুরি?",
+    "question_en": "For wall-mounted indoor units, clearance is most critical at which side?",
+    "options_bn": [
+      "নীচে ড্রেন পাশে",
+      "ডান সার্ভিস পাশে",
+      "বাম কভার পাশে",
+      "সামনের ডিসচার্জে"
+    ],
+    "options_en": [
+      "Bottom drain side",
+      "Right service side",
+      "Left cover side",
+      "Front discharge"
+    ],
+    "correct": 1
+  },
+  "623": {
+    "question_bn": "লিক ডিটেকশন নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Leak Detection, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "624": {
+    "question_bn": "ফ্লেয়ার জয়েন্টে লিক এড়াতে কী অপরিহার্য?",
+    "question_en": "What is essential to avoid leaks in a flare joint?",
+    "options_bn": [
+      "অতিরিক্ত টর্ক",
+      "সঠিক ফ্লেয়ার এঙ্গেল ও ডিবারিং",
+      "গ্রীস লাগানো",
+      "থ্রেড টেপ"
+    ],
+    "options_en": [
+      "Over-torquing",
+      "Correct flare angle & deburring",
+      "Apply grease",
+      "Thread tape"
+    ],
+    "correct": 1
+  },
+  "625": {
+    "question_bn": "ডিপ ভ্যাকুয়ামের লক্ষ্য সাধারণত কত মাইক্রন?",
+    "question_en": "What is a common target for deep vacuum?",
+    "options_bn": [
+      "১০,০০০ মাইক্রন",
+      "৫,০০০ মাইক্রন",
+      "৫০০ মাইক্রন বা কম",
+      "৫০ মাইক্রন সর্বনিম্ন"
+    ],
+    "options_en": [
+      "10,000 microns",
+      "5,000 microns",
+      "500 microns or less",
+      "50 microns minimum"
+    ],
+    "correct": 2
+  },
+  "626": {
+    "question_bn": "ক্যাপাসিটর পরীক্ষা করতে কোন মিটার ফাংশন দরকার?",
+    "question_en": "Which meter function is needed to test a capacitor?",
+    "options_bn": [
+      "Hz",
+      "DC mA",
+      "μF (capacitance)",
+      "dB"
+    ],
+    "options_en": [
+      "Hz",
+      "DC mA",
+      "μF (capacitance)",
+      "dB"
+    ],
+    "correct": 2
+  },
+  "627": {
+    "question_bn": "কম্প্রেসার ভাইব্রেশন কমাতে প্রথম পদক্ষেপ কী?",
+    "question_en": "What is the first step to reduce compressor vibration?",
+    "options_bn": [
+      "কম্প্রেসার বদলানো",
+      "মাউন্ট/রাবার প্যাড চেক",
+      "অতিরিক্ত রেফ্রিজারেন্ট",
+      "ফ্যান ব্লেড কেটে ফেলা"
+    ],
+    "options_en": [
+      "Replace compressor",
+      "Check mounts/rubber pads",
+      "Add more refrigerant",
+      "Trim fan blades"
+    ],
+    "correct": 1
+  },
+  "628": {
+    "question_bn": "কনডেনসেট ট্র্যাপের সঠিক স্লোপ সাধারণত কোনদিকে?",
+    "question_en": "Which direction should the condensate line slope toward?",
+    "options_bn": [
+      "ইউনিটের দিকে",
+      "ড্রেন আউটলেটের দিকে",
+      "উল্টো স্লোপ",
+      "স্লোপ প্রয়োজন নেই"
+    ],
+    "options_en": [
+      "Toward the unit",
+      "Toward the drain outlet",
+      "Reverse slope",
+      "No slope needed"
+    ],
+    "correct": 1
+  },
+  "629": {
+    "question_bn": "ইনডোর কয়েল নোংরা হলে লক্ষণ কী?",
+    "question_en": "What is a symptom of a dirty indoor coil?",
+    "options_bn": [
+      "এয়ারফ্লো বৃদ্ধি",
+      "সুপারহিট শূন্য",
+      "স্ট্যাটিক প্রেসার বৃদ্ধি",
+      "কম্প্রেসার অফ"
+    ],
+    "options_en": [
+      "Higher airflow",
+      "Zero superheat",
+      "Increased static pressure",
+      "Compressor off"
+    ],
+    "correct": 2
+  },
+  "630": {
+    "question_bn": "কনডেনসার ফিন বাঁকলে ফলাফল কী?",
+    "question_en": "What happens if condenser fins are bent?",
+    "options_bn": [
+      "হিট ট্রান্সফার বাড়ে",
+      "এয়ারফ্লো বাধাগ্রস্ত হয়",
+      "সুপারহিট বেড়ে যায়",
+      "ভোল্টেজ কমে যায়"
+    ],
+    "options_en": [
+      "Heat transfer increases",
+      "Airflow is restricted",
+      "Superheat increases",
+      "Voltage drops"
+    ],
+    "correct": 1
+  },
+  "631": {
+    "question_bn": "ইলেকট্রনিক কন্ট্রোল নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Electronic Control, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "632": {
+    "question_bn": "ইনভার্টার এসিতে কম্প্রেসার স্পিড কে নিয়ন্ত্রণ করে?",
+    "question_en": "In inverter ACs, what controls compressor speed?",
+    "options_bn": [
+      "মেকানিক্যাল রিলে",
+      "ফিক্সড থার্মোস্ট্যাট",
+      "ভ্যারিয়েবল ফ্রিকোয়েন্সি ড্রাইভ (VFD/ইনভার্টার)",
+      "ক্যাপাসিটর ব্যাঙ্ক"
+    ],
+    "options_en": [
+      "Mechanical relay",
+      "Fixed thermostat",
+      "Variable frequency drive (inverter)",
+      "Capacitor bank"
+    ],
+    "correct": 2
+  },
+  "633": {
+    "question_bn": "SEER বাড়াতে কোনটি সরাসরি সাহায্য করে?",
+    "question_en": "Which action directly improves SEER?",
+    "options_bn": [
+      "ফিল্টার বায়পাস",
+      "ডাক্ট লিকস কমানো",
+      "কয়েল কভার লাগানো",
+      "সুপারহিট শূন্যে নামানো"
+    ],
+    "options_en": [
+      "Bypassing filters",
+      "Reducing duct leaks",
+      "Covering coils",
+      "Driving superheat to zero"
+    ],
+    "correct": 1
+  },
+  "634": {
+    "question_bn": "VRF সিস্টেমে শাখা সিলেক্টর বক্সের কাজ কী?",
+    "question_en": "In VRF, what does the branch selector box do?",
+    "options_bn": [
+      "পাওয়ার ডিস্ট্রিবিউশন",
+      "ইনডোর ইউনিটে রেফ্রিজারেন্ট রাউটিং/মোড সিলেকশন",
+      "জল সঞ্চালন",
+      "শুধু ড্রেনেজ"
+    ],
+    "options_en": [
+      "Distribute power",
+      "Route refrigerant/select indoor unit modes",
+      "Circulate water",
+      "Drain only"
+    ],
+    "correct": 1
+  },
+  "635": {
+    "question_bn": "হিট পাম্পে রিভার্সিং ভাল্ভ কী করে?",
+    "question_en": "What is the function of the reversing valve in a heat pump?",
+    "options_bn": [
+      "অয়েল আলাদা করে",
+      "রেফ্রিজারেন্ট ফ্লো দিক পরিবর্তন করে",
+      "ফ্যান স্পিড বাড়ায়",
+      "সুপারহিট নিয়ন্ত্রণ করে"
+    ],
+    "options_en": [
+      "Separate oil",
+      "Switch refrigerant flow direction",
+      "Increase fan speed",
+      "Control superheat"
+    ],
+    "correct": 1
+  },
+  "636": {
+    "question_bn": "থার্মিস্টরের রেজিস্ট্যান্স/তাপমাত্রা সম্পর্ক সাধারণত কেমন?",
+    "question_en": "What is the typical resistance/temperature relationship of a thermistor?",
+    "options_bn": [
+      "তাপমাত্রা বাড়লে রেজিস্ট্যান্স বাড়ে (PTC)",
+      "তাপমাত্রা বাড়লে রেজিস্ট্যান্স কমে (NTC)",
+      "সবসময় স্থির",
+      "তাপমাত্রা দ্বিগুণে রেজিস্ট্যান্স শূন্য"
+    ],
+    "options_en": [
+      "Resistance rises as temp rises (PTC)",
+      "Resistance falls as temp rises (NTC)",
+      "Always constant",
+      "Resistance goes to zero when temp doubles"
+    ],
+    "correct": 1
+  },
+  "637": {
+    "question_bn": "PCB রিপেয়ারে কোনটি ESD সুরক্ষার অংশ?",
+    "question_en": "Which is part of ESD protection during PCB repair?",
+    "options_bn": [
+      "কটন গ্লাভস",
+      "অ্যান্টিস্ট্যাটিক রিস্ট-স্ট্র্যাপ",
+      "ভেজা হাত",
+      "মেটালিক টেবিল খালি"
+    ],
+    "options_en": [
+      "Cotton gloves",
+      "Antistatic wrist strap",
+      "Wet hands",
+      "Bare metallic table"
+    ],
+    "correct": 1
+  },
+  "638": {
+    "question_bn": "PSC মোটরে স্টার্ট ক্যাপাসিটর নষ্ট হলে লক্ষণ?",
+    "question_en": "If a PSC motor’s start capacitor fails, what is a symptom?",
+    "options_bn": [
+      "ওভারস্পিড",
+      "স্টার্ট হতে দেরি বা গোঁ গোঁ শব্দ",
+      "লো ভোল্টেজ",
+      "বায়ু ঠান্ডা"
+    ],
+    "options_en": [
+      "Overspeed",
+      "Delayed start or humming",
+      "Low voltage",
+      "Colder air"
+    ],
+    "correct": 1
+  },
+  "639": {
+    "question_bn": "ফিক্সড অরিফিস সিস্টেমে চার্জ যাচাইয়ের ভাল সূচক কোনটি?",
+    "question_en": "In a fixed-orifice system, what is a good indicator for charge verification?",
+    "options_bn": [
+      "সুপারহিট",
+      "সাবকুলিং",
+      "অয়েল লেভেল",
+      "ফিন কাউন্ট"
+    ],
+    "options_en": [
+      "Superheat",
+      "Subcooling",
+      "Oil level",
+      "Fin count"
+    ],
+    "correct": 0
+  },
+  "640": {
+    "question_bn": "পারফরম্যান্স টেস্টে ‘ডেল্টা-T’ সাধারণত কী বোঝায়?",
+    "question_en": "In performance testing, what does ‘Delta-T’ usually represent?",
+    "options_bn": [
+      "সাপ্লাই-রিটার্ন বায়ুর তাপমাত্রা পার্থক্য",
+      "সাবকুলিং-সুপারহিটের পার্থক্য",
+      "ফ্রিকোয়েন্সি পরিবর্তন",
+      "ভোল্টেজ ড্রপ"
+    ],
+    "options_en": [
+      "Supply-return air temperature difference",
+      "Difference between subcool and superheat",
+      "Frequency variation",
+      "Voltage drop"
+    ],
+    "correct": 0
+  },
+  "641": {
+    "question_bn": "ডাক্ট সাইজিংয়ে কোন চার্ট/পদ্ধতি বহুল ব্যবহৃত?",
+    "question_en": "Which method/chart is widely used for duct sizing?",
+    "options_bn": [
+      "মোডিফাইড D-ডে",
+      "ফ্রিকশন রেট মেথড/ডাক্টুলেটর",
+      "র্যান্ডম গেস",
+      "ওহম’স ল’"
+    ],
+    "options_en": [
+      "Modified D-day",
+      "Friction-rate method/Ductulator",
+      "Random guess",
+      "Ohm’s law"
+    ],
+    "correct": 1
+  },
+  "642": {
+    "question_bn": "এয়ার ব্যালেন্সিংয়ে CFM মাপতে কোন টুল সহায়ক?",
+    "question_en": "Which tool helps measure CFM during air balancing?",
+    "options_bn": [
+      "অ্যানিমোমিটার/ফ্লো হুড",
+      "মেগার",
+      "হাইড্রোমিটার",
+      "স্পিরিট লেভেল"
+    ],
+    "options_en": [
+      "Anemometer/flow hood",
+      "Megger",
+      "Hydrometer",
+      "Spirit level"
+    ],
+    "correct": 0
+  },
+  "643": {
+    "question_bn": "BMS-এ BACnet/Modbus কী ধরনের?",
+    "question_en": "In BMS, what are BACnet/Modbus?",
+    "options_bn": [
+      "ফিজিক্যাল সেন্সর",
+      "কমিউনিকেশন প্রোটোকল",
+      "পাওয়ার সাপ্লাই",
+      "রেফ্রিজারেন্ট"
+    ],
+    "options_en": [
+      "Physical sensors",
+      "Communication protocols",
+      "Power supplies",
+      "Refrigerants"
+    ],
+    "correct": 1
+  },
+  "644": {
+    "question_bn": "২-ওয়ে ভাল্ভ বন্ধ হলে কয়েলে কী প্রভাব পড়ে?",
+    "question_en": "When a 2-way valve closes, what happens to coil flow?",
+    "options_bn": [
+      "ফ্লো বেড়ে যায়",
+      "ফ্লো কমে/বন্ধ হয়",
+      "চাপ শূন্য হয়",
+      "তাপমাত্রা সবসময় বাড়ে"
+    ],
+    "options_en": [
+      "Flow increases",
+      "Flow reduces/stops",
+      "Pressure becomes zero",
+      "Temperature always rises"
+    ],
+    "correct": 1
+  },
+  "645": {
+    "question_bn": "ইকোনোমাইজার কোন শর্তে বেশি কার্যকর?",
+    "question_en": "When is an economizer most effective?",
+    "options_bn": [
+      "আউটডোর এয়ার ঠান্ডা ও শুষ্ক",
+      "আউটডোর এয়ার গরম ও আর্দ্র",
+      "বৃষ্টি হলে",
+      "লোড শূন্য হলে"
+    ],
+    "options_en": [
+      "When outdoor air is cool and dry",
+      "When outdoor air is hot and humid",
+      "During rain",
+      "When load is zero"
+    ],
+    "correct": 0
+  },
+  "646": {
+    "question_bn": "সাইকোমেট্রিক চার্টে কোন দুটি লাইন ছেদে এন্টারজি (enthalpy) নির্ধারণ হয়?",
+    "question_en": "On a psychrometric chart, enthalpy can be read at the intersection of which lines?",
+    "options_bn": [
+      "DB ও RH",
+      "WB ও ভেলোসিটি",
+      "স্ট্যাটিক ও টোটাল প্রেসার",
+      "ফ্যান কার্ভ ও মোটর কার্ভ"
+    ],
+    "options_en": [
+      "DB and RH",
+      "WB and velocity",
+      "Static and total pressure",
+      "Fan curve and motor curve"
+    ],
+    "correct": 0
+  },
+  "647": {
+    "question_bn": "MERV রেটিং কী নির্দেশ করে?",
+    "question_en": "What does the MERV rating indicate?",
+    "options_bn": [
+      "ফিল্টার দক্ষতা",
+      "ফ্যান RPM",
+      "রেফ্রিজারেন্ট টাইপ",
+      "ভোল্টেজ রেটিং"
+    ],
+    "options_en": [
+      "Filter efficiency",
+      "Fan RPM",
+      "Refrigerant type",
+      "Voltage rating"
+    ],
+    "correct": 0
+  },
+  "648": {
+    "question_bn": "ডিহিউমিডিফিকেশনে কয়েলের কোন অবস্থা দরকার?",
+    "question_en": "For dehumidification, what coil condition is desirable?",
+    "options_bn": [
+      "রুমের ডিউ পয়েন্টের উপরে",
+      "রুমের ডিউ পয়েন্টের নিচে",
+      "রুমের সমান",
+      "কয়েল বন্ধ"
+    ],
+    "options_en": [
+      "Above room dew point",
+      "Below room dew point",
+      "Equal to room temp",
+      "Coil off"
+    ],
+    "correct": 1
+  },
+  "649": {
+    "question_bn": "জোনিং সিস্টেমে কোনটি সমন্বয় করে এয়ারফ্লো বণ্টন?",
+    "question_en": "What adjusts airflow distribution in a zoning system?",
+    "options_bn": [
+      "কম্প্রেসার রিলে",
+      "জোন ড্যাম্পার",
+      "অয়েল সিলপার্ক",
+      "ডিহিউমিডিস্ট্যাট"
+    ],
+    "options_en": [
+      "Compressor relay",
+      "Zone dampers",
+      "Oil separator",
+      "Dehumidistat"
+    ],
+    "correct": 1
+  },
+  "650": {
+    "question_bn": "হট-ওয়ার্ক (ব্রেজিং) করার আগে আবশ্যক পদক্ষেপ কোনটি?",
+    "question_en": "Before hot work (brazing), which action is mandatory?",
+    "options_bn": [
+      "ফিল্টার পরিষ্কার",
+      "LOTO ও ফায়ার ওয়াচ নিশ্চিত করা",
+      "থার্মোস্ট্যাট অফ করা",
+      "ইউনিট ধোয়া"
+    ],
+    "options_en": [
+      "Clean filter",
+      "Ensure LOTO and fire watch",
+      "Turn thermostat off",
+      "Wash the unit"
+    ],
+    "correct": 1
+  },
+  "651": {
+    "question_bn": "সাইট সার্ভে নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Site Survey, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "652": {
+    "question_bn": "লোড ক্যালকুলেশনে ‘U-ভ্যালু’ কী বোঝায়?",
+    "question_en": "In load calculations, what does the U-value represent?",
+    "options_bn": [
+      "ইনসুলেশনের পুরুত্ব",
+      "তাপ সঞ্চালনের হার",
+      "রঙের ঘনত্ব",
+      "ডাক্টের শব্দ স্তর"
+    ],
+    "options_en": [
+      "Insulation thickness",
+      "Rate of heat transfer",
+      "Paint density",
+      "Duct noise level"
+    ],
+    "correct": 1
+  },
+  "653": {
+    "question_bn": "সাকশন লাইনে অতিরিক্ত তেল জমা এড়াতে কী সাহায্য করে?",
+    "question_en": "What helps avoid oil pooling in suction lines?",
+    "options_bn": [
+      "আপহিল স্লোপ ও ট্র্যাপিং সঠিকভাবে করা",
+      "লাইনে বটল-নেক",
+      "অতিরিক্ত ব্যাস",
+      "ইনসুলেশন বাদ"
+    ],
+    "options_en": [
+      "Proper riser traps and uphill slope",
+      "Creating bottlenecks",
+      "Oversized diameter",
+      "No insulation"
+    ],
+    "correct": 0
+  },
+  "654": {
+    "question_bn": "কনডেনসেট ট্র্যাপের সঠিক স্লোপ সাধারণত কোনদিকে?",
+    "question_en": "Which direction should the condensate line slope toward?",
+    "options_bn": [
+      "ইউনিটের দিকে",
+      "ড্রেন আউটলেটের দিকে",
+      "উল্টো স্লোপ",
+      "স্লোপ প্রয়োজন নেই"
+    ],
+    "options_en": [
+      "Toward the unit",
+      "Toward the drain outlet",
+      "Reverse slope",
+      "No slope needed"
+    ],
+    "correct": 1
+  },
+  "655": {
+    "question_bn": "ভাইব্রেশন আইসোলেশনের জন্য কোনটি ব্যবহার হয়?",
+    "question_en": "What is used for vibration isolation?",
+    "options_bn": [
+      "স্টিল শিম",
+      "রাবার/স্প্রিং মাউন্ট",
+      "কাঠের ব্লক",
+      "গ্লু"
+    ],
+    "options_en": [
+      "Steel shims",
+      "Rubber/spring mounts",
+      "Wood blocks",
+      "Glue"
+    ],
+    "correct": 1
+  },
+  "656": {
+    "question_bn": "এসি আউটডোর ইউনিটে MCB সাইজিং কোন ভিত্তিতে?",
+    "question_en": "MCB sizing for an outdoor unit is based on which value?",
+    "options_bn": [
+      "নেমপ্লেট MCA/FLA",
+      "ইউনিটের ওজন",
+      "ডাক্ট দৈর্ঘ্য",
+      "রঙ"
+    ],
+    "options_en": [
+      "Nameplate MCA/FLA",
+      "Unit weight",
+      "Duct length",
+      "Color"
+    ],
+    "correct": 0
+  },
+  "657": {
+    "question_bn": "কমিশনিংয়ের সময় প্রথমে কোনটি করা উচিত?",
+    "question_en": "What should be done first during commissioning?",
+    "options_bn": [
+      "ফাইনাল টেস্ট বাদ দেওয়া",
+      "ভিজ্যুয়াল/সেফটি চেক ও প্রি-স্টার্ট টেস্ট",
+      "সরাসরি ফুলি-লোড রান",
+      "রেফ্রিজারেন্ট বদলানো"
+    ],
+    "options_en": [
+      "Skip final tests",
+      "Visual/safety checks and pre-start tests",
+      "Immediately run at full load",
+      "Change refrigerant"
+    ],
+    "correct": 1
+  },
+  "658": {
+    "question_bn": "‘As-built’ ড্রয়িং কেন জরুরি?",
+    "question_en": "Why are as-built drawings essential?",
+    "options_bn": [
+      "শুধু মার্কেটিং",
+      "ভবিষ্যৎ সার্ভিস/আপগ্রেডে সঠিক তথ্য দেয়",
+      "রঙ নির্বাচন",
+      "কোনো কাজে লাগে না"
+    ],
+    "options_en": [
+      "Marketing only",
+      "Provide accurate info for future service/upgrades",
+      "Color picking",
+      "Useless"
+    ],
+    "correct": 1
+  },
+  "659": {
+    "question_bn": "হ্যান্ডওভারে কী দেওয়া উচিত?",
+    "question_en": "What should be provided at handover?",
+    "options_bn": [
+      "অযথা ছবি",
+      "O&M ম্যানুয়াল ও ওয়ারেন্টি",
+      "ব্যক্তিগত নোট",
+      "খালি ফোল্ডার"
+    ],
+    "options_en": [
+      "Random photos",
+      "O&M manual and warranty",
+      "Personal notes",
+      "Empty folder"
+    ],
+    "correct": 1
+  },
+  "660": {
+    "question_bn": "AMC-এর একটি প্রধান সুবিধা কী?",
+    "question_en": "What is a major benefit of an AMC?",
+    "options_bn": [
+      "ব্যয় অজানা",
+      "প্রিভেন্টিভ মেইনটেন্যান্স নিশ্চিত",
+      "সবসময় জরিমানা",
+      "সার্ভিস অসম্ভব"
+    ],
+    "options_en": [
+      "Unknown costs",
+      "Assured preventive maintenance",
+      "Always penalties",
+      "Service impossible"
+    ],
+    "correct": 1
+  },
+  "661": {
+    "question_bn": "VRF সিস্টেমে শাখা সিলেক্টর বক্সের কাজ কী?",
+    "question_en": "In VRF, what does the branch selector box do?",
+    "options_bn": [
+      "পাওয়ার ডিস্ট্রিবিউশন",
+      "ইনডোর ইউনিটে রেফ্রিজারেন্ট রাউটিং/মোড সিলেকশন",
+      "জল সঞ্চালন",
+      "শুধু ড্রেনেজ"
+    ],
+    "options_en": [
+      "Distribute power",
+      "Route refrigerant/select indoor unit modes",
+      "Circulate water",
+      "Drain only"
+    ],
+    "correct": 1
+  },
+  "662": {
+    "question_bn": "ওয়াটার-কুল্ড চিলারে কুলিং টাওয়ার কী কাজ করে?",
+    "question_en": "In water-cooled chillers, what is the role of the cooling tower?",
+    "options_bn": [
+      "এয়ার কন্ডিশনিং করা",
+      "কনডেনসার জলের তাপ বর্জন",
+      "পানীয় জল সরবরাহ",
+      "ইলেকট্রিক সেফটি"
+    ],
+    "options_en": [
+      "Condition the air",
+      "Reject heat from condenser water",
+      "Provide drinking water",
+      "Electrical safety"
+    ],
+    "correct": 1
+  },
+  "663": {
+    "question_bn": "কোল্ড রুমে ডোর হিটার/ডিফ্রস্টারের উদ্দেশ্য কী?",
+    "question_en": "What is the purpose of door heaters/defrosters in cold rooms?",
+    "options_bn": [
+      "শীতলতা বাড়ানো",
+      "ফ্রস্টিং/ঘনীভবন কমানো",
+      "শব্দ কমানো",
+      "বিদ্যুৎ সাশ্রয়"
+    ],
+    "options_en": [
+      "Increase cooling",
+      "Reduce frosting/condensation",
+      "Reduce noise",
+      "Save power"
+    ],
+    "correct": 1
+  },
+  "664": {
+    "question_bn": "এনার্জি অডিটে কোন ডেটা অপরিহার্য?",
+    "question_en": "Which data is essential in an energy audit?",
+    "options_bn": [
+      "সোশ্যাল লাইক",
+      "লোড প্রোফাইল/রানটাইম",
+      "ওয়াল কালার",
+      "মিউজিক পছন্দ"
+    ],
+    "options_en": [
+      "Social likes",
+      "Load profile/runtime",
+      "Wall color",
+      "Music taste"
+    ],
+    "correct": 1
+  },
+  "665": {
+    "question_bn": "রেট্রোফিটে পুরনো সিস্টেম মূল্যায়নে প্রথমে কী দেখবেন?",
+    "question_en": "In retrofits, what is assessed first in the existing system?",
+    "options_bn": [
+      "লোগো",
+      "বর্তমান পারফরম্যান্স ও কমপ্লায়েন্স গ্যাপ",
+      "শুধু রং",
+      "সিরিয়াল স্টিকার"
+    ],
+    "options_en": [
+      "Logo",
+      "Current performance and compliance gaps",
+      "Color only",
+      "Serial sticker"
+    ],
+    "correct": 1
+  },
+  "666": {
+    "question_bn": "সোলার-এসি সিস্টেমে ইনভার্টারের মূল ভূমিকা কী?",
+    "question_en": "What is the inverter’s primary role in a solar-AC system?",
+    "options_bn": [
+      "DC কে AC তে রূপান্তর",
+      "তাপ উৎপাদন",
+      "জল পাম্প করা",
+      "ডাক্ট সাইজ করা"
+    ],
+    "options_en": [
+      "Convert DC to AC",
+      "Produce heat",
+      "Pump water",
+      "Size ducts"
+    ],
+    "correct": 0
+  },
+  "667": {
+    "question_bn": "অ্যাডভান্সড ডায়াগনস্টিকস নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Advanced Diagnostics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "668": {
+    "question_bn": "রেফ্রিজারেন্ট রিকভারি করার সময় কোনটি ব্যবহার করবেন?",
+    "question_en": "What should be used during refrigerant recovery?",
+    "options_bn": [
+      "ওপেন ভেন্ট",
+      "রিকভারি মেশিন ও সিল করা সিলিন্ডার",
+      "বৈদ্যুতিক পাম্প",
+      "হাত পাম্প"
+    ],
+    "options_en": [
+      "Open vent",
+      "Recovery machine and certified cylinder",
+      "Electrical water pump",
+      "Hand pump"
+    ],
+    "correct": 1
+  },
+  "669": {
+    "question_bn": "SOP রোলআউটের সময় কোনটি জরুরি?",
+    "question_en": "What is essential when rolling out SOPs?",
+    "options_bn": [
+      "শুধু ইমেইল পাঠানো",
+      "ট্রেনিং ও অডিট ট্রেইল",
+      "কোনো ফিডব্যাক নয়",
+      "গোপন রাখা"
+    ],
+    "options_en": [
+      "Just email them",
+      "Training and audit trail",
+      "No feedback",
+      "Keep them secret"
+    ],
+    "correct": 1
+  },
+  "670": {
+    "question_bn": "লং-টার্ম পেশাগত উন্নয়নে কোনটি সহায়ক?",
+    "question_en": "What helps long-term professional growth?",
+    "options_bn": [
+      "র‌্যান্ডম টিপস",
+      "স্ট্যান্ডার্ড আপডেট ও সার্টিফিকেশন",
+      "বেশি স্ক্রু কেনা",
+      "পুরনো অভ্যাস"
+    ],
+    "options_en": [
+      "Random tips",
+      "Standards updates and certifications",
+      "Buying more screws",
+      "Old habits"
+    ],
+    "correct": 1
+  },
+  "671": {
+    "question_bn": "প্লাম্বিং পরিচিতি নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Plumbing Introduction, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "672": {
+    "question_bn": "R410A সিস্টেমে সাধারণত কোন ম্যানিফোল্ড গেজ কানেক্টর ব্যবহার হয়?",
+    "question_en": "Which manifold gauge connector is typical for R410A systems?",
+    "options_bn": [
+      "১/৪\" SAE",
+      "৫/১৬\" SAE",
+      "৩/৮\" NPT",
+      "বায়োনেট টাইপ"
+    ],
+    "options_en": [
+      "1/4\" SAE",
+      "5/16\" SAE",
+      "3/8\" NPT",
+      "Bayonet type"
+    ],
+    "correct": 1
+  },
+  "673": {
+    "question_bn": "পাইপ টাইপস নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Pipe Types, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "674": {
+    "question_bn": "মাপজোক ও লেআউট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Measuring & Layout, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "675": {
+    "question_bn": "জয়েন্টিং বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Basic Jointing, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "676": {
+    "question_bn": "লিক মেরামত নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Leak Repair, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "677": {
+    "question_bn": "ফিক্সচার বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Fixtures Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "678": {
+    "question_bn": "ওয়াটার সাপ্লাই বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Water Supply Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "679": {
+    "question_bn": "কনডেনসেট ট্র্যাপের সঠিক স্লোপ সাধারণত কোনদিকে?",
+    "question_en": "Which direction should the condensate line slope toward?",
+    "options_bn": [
+      "ইউনিটের দিকে",
+      "ড্রেন আউটলেটের দিকে",
+      "উল্টো স্লোপ",
+      "স্লোপ প্রয়োজন নেই"
+    ],
+    "options_en": [
+      "Toward the unit",
+      "Toward the drain outlet",
+      "Reverse slope",
+      "No slope needed"
+    ],
+    "correct": 1
+  },
+  "680": {
+    "question_bn": "হট-ওয়ার্ক (ব্রেজিং) করার আগে আবশ্যক পদক্ষেপ কোনটি?",
+    "question_en": "Before hot work (brazing), which action is mandatory?",
+    "options_bn": [
+      "ফিল্টার পরিষ্কার",
+      "LOTO ও ফায়ার ওয়াচ নিশ্চিত করা",
+      "থার্মোস্ট্যাট অফ করা",
+      "ইউনিট ধোয়া"
+    ],
+    "options_en": [
+      "Clean filter",
+      "Ensure LOTO and fire watch",
+      "Turn thermostat off",
+      "Wash the unit"
+    ],
+    "correct": 1
+  },
+  "681": {
+    "question_bn": "বাথরুম ইনস্টলেশন নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Bathroom Installation, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "682": {
+    "question_bn": "কিচেন প্লাম্বিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Kitchen Plumbing, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "683": {
+    "question_bn": "ট্র্যাপ ও ভেন্ট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Traps & Vents, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "684": {
+    "question_bn": "লিক ডিটেকশন নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Leak Detection, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "685": {
+    "question_bn": "কপার সোল্ডারিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Copper Soldering, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "686": {
+    "question_bn": "PEX/CPVC জয়েন্ট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on PEX/CPVC Jointing, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "687": {
+    "question_bn": "পাম্প বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Pump Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "688": {
+    "question_bn": "ওয়াটার হিটার বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Water Heater Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "689": {
+    "question_bn": "কোড ও স্ট্যান্ডার্ড বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Codes & Standards Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "690": {
+    "question_bn": "গুণমান পরীক্ষা নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Quality Testing, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "691": {
+    "question_bn": "ব্লুপ্রিন্ট রিডিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Blueprint Reading, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "692": {
+    "question_bn": "প্রেশার টেস্টিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Pressure Testing, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "693": {
+    "question_bn": "ব্যাকফ্লো বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Backflow Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "694": {
+    "question_bn": "ওয়াটার কোয়ালিটি নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Water Quality, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "695": {
+    "question_bn": "পাইপ সাইজিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Pipe Sizing, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "696": {
+    "question_bn": "স্টর্মওয়াটার বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Stormwater Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "697": {
+    "question_bn": "সেপটিক বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Septic Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "698": {
+    "question_bn": "গ্যাস লাইন বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Gas Line Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "699": {
+    "question_bn": "অ্যাডভান্সড ফিক্সচার নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Advanced Fixtures, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "700": {
+    "question_bn": "ট্রাবলশুটিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Troubleshooting, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "701": {
+    "question_bn": "বুস্টার পাম্প সিস্টেম নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Booster Pump Systems, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "702": {
+    "question_bn": "গ্রিজ ট্র্যাপ নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Grease Traps, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "703": {
+    "question_bn": "কনডেনসেট ট্র্যাপের সঠিক স্লোপ সাধারণত কোনদিকে?",
+    "question_en": "Which direction should the condensate line slope toward?",
+    "options_bn": [
+      "ইউনিটের দিকে",
+      "ড্রেন আউটলেটের দিকে",
+      "উল্টো স্লোপ",
+      "স্লোপ প্রয়োজন নেই"
+    ],
+    "options_en": [
+      "Toward the unit",
+      "Toward the drain outlet",
+      "Reverse slope",
+      "No slope needed"
+    ],
+    "correct": 1
+  },
+  "704": {
+    "question_bn": "সাম্প পাম্প নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Sump Pumps, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "705": {
+    "question_bn": "RO/সফটেনার বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on RO/Softeners Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "706": {
+    "question_bn": "কমার্শিয়াল রেস্টরুম নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Commercial Restrooms, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "707": {
+    "question_bn": "থার্মাল এক্সপ্যানশন নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Thermal Expansion, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "708": {
+    "question_bn": "ব্যালান্সিং ভাল্ভ নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Balancing Valves, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "709": {
+    "question_bn": "BMS-এ BACnet/Modbus কী ধরনের?",
+    "question_en": "In BMS, what are BACnet/Modbus?",
+    "options_bn": [
+      "ফিজিক্যাল সেন্সর",
+      "কমিউনিকেশন প্রোটোকল",
+      "পাওয়ার সাপ্লাই",
+      "রেফ্রিজারেন্ট"
+    ],
+    "options_en": [
+      "Physical sensors",
+      "Communication protocols",
+      "Power supplies",
+      "Refrigerants"
+    ],
+    "correct": 1
+  },
+  "710": {
+    "question_bn": "‘As-built’ ড্রয়িং কেন জরুরি?",
+    "question_en": "Why are as-built drawings essential?",
+    "options_bn": [
+      "শুধু মার্কেটিং",
+      "ভবিষ্যৎ সার্ভিস/আপগ্রেডে সঠিক তথ্য দেয়",
+      "রঙ নির্বাচন",
+      "কোনো কাজে লাগে না"
+    ],
+    "options_en": [
+      "Marketing only",
+      "Provide accurate info for future service/upgrades",
+      "Color picking",
+      "Useless"
+    ],
+    "correct": 1
+  },
+  "711": {
+    "question_bn": "সাইট সার্ভে (প্লাম্বিং) নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Site Survey (Plumbing), which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "712": {
+    "question_bn": "এস্টিমেশন ও BOQ নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Estimation & BOQ, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "713": {
+    "question_bn": "শিডিউলিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Scheduling, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "714": {
+    "question_bn": "প্রকিউরমেন্ট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Procurement, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "715": {
+    "question_bn": "ইনস্টলেশন সিকোয়েন্সিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Installation Sequencing, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "716": {
+    "question_bn": "কমিশনিংয়ের সময় প্রথমে কোনটি করা উচিত?",
+    "question_en": "What should be done first during commissioning?",
+    "options_bn": [
+      "ফাইনাল টেস্ট বাদ দেওয়া",
+      "ভিজ্যুয়াল/সেফটি চেক ও প্রি-স্টার্ট টেস্ট",
+      "সরাসরি ফুলি-লোড রান",
+      "রেফ্রিজারেন্ট বদলানো"
+    ],
+    "options_en": [
+      "Skip final tests",
+      "Visual/safety checks and pre-start tests",
+      "Immediately run at full load",
+      "Change refrigerant"
+    ],
+    "correct": 1
+  },
+  "717": {
+    "question_bn": "হ্যান্ডওভার নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Handover, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "718": {
+    "question_bn": "AMC/মেইনটেন্যান্স নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on AMC/Maintenance, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "719": {
+    "question_bn": "হট-ওয়ার্ক (ব্রেজিং) করার আগে আবশ্যক পদক্ষেপ কোনটি?",
+    "question_en": "Before hot work (brazing), which action is mandatory?",
+    "options_bn": [
+      "ফিল্টার পরিষ্কার",
+      "LOTO ও ফায়ার ওয়াচ নিশ্চিত করা",
+      "থার্মোস্ট্যাট অফ করা",
+      "ইউনিট ধোয়া"
+    ],
+    "options_en": [
+      "Clean filter",
+      "Ensure LOTO and fire watch",
+      "Turn thermostat off",
+      "Wash the unit"
+    ],
+    "correct": 1
+  },
+  "720": {
+    "question_bn": "কাস্টমার সার্ভিস নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Customer Service, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "721": {
+    "question_bn": "রেট্রোফিটে পুরনো সিস্টেম মূল্যায়নে প্রথমে কী দেখবেন?",
+    "question_en": "In retrofits, what is assessed first in the existing system?",
+    "options_bn": [
+      "লোগো",
+      "বর্তমান পারফরম্যান্স ও কমপ্লায়েন্স গ্যাপ",
+      "শুধু রং",
+      "সিরিয়াল স্টিকার"
+    ],
+    "options_en": [
+      "Logo",
+      "Current performance and compliance gaps",
+      "Color only",
+      "Serial sticker"
+    ],
+    "correct": 1
+  },
+  "722": {
+    "question_bn": "এনার্জি/ওয়াটার অডিট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Energy/Water Audits, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "723": {
+    "question_bn": "রেইনওয়াটার হারভেস্টিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Rainwater Harvesting, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "724": {
+    "question_bn": "সোলার ওয়াটার হিটার নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Solar Water Heaters, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "725": {
+    "question_bn": "উন্নত ডায়াগনস্টিকস নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Advanced Diagnostics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "726": {
+    "question_bn": "কোড আপডেটস নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Code Updates, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "727": {
+    "question_bn": "টিম ম্যানেজমেন্ট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Team Management, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "728": {
+    "question_bn": "কন্ট্রাক্টস বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Contracts Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "729": {
+    "question_bn": "লং-টার্ম পেশাগত উন্নয়নে কোনটি সহায়ক?",
+    "question_en": "What helps long-term professional growth?",
+    "options_bn": [
+      "র‌্যান্ডম টিপস",
+      "স্ট্যান্ডার্ড আপডেট ও সার্টিফিকেশন",
+      "বেশি স্ক্রু কেনা",
+      "পুরনো অভ্যাস"
+    ],
+    "options_en": [
+      "Random tips",
+      "Standards updates and certifications",
+      "Buying more screws",
+      "Old habits"
+    ],
+    "correct": 1
+  },
+  "730": {
+    "question_bn": "মেন্টরিং ও ট্রেনিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Mentoring & Training, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "731": {
+    "question_bn": "কার্পেন্টারি পরিচিতি নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Carpentry Introduction, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "732": {
+    "question_bn": "R410A সিস্টেমে সাধারণত কোন ম্যানিফোল্ড গেজ কানেক্টর ব্যবহার হয়?",
+    "question_en": "Which manifold gauge connector is typical for R410A systems?",
+    "options_bn": [
+      "১/৪\" SAE",
+      "৫/১৬\" SAE",
+      "৩/৮\" NPT",
+      "বায়োনেট টাইপ"
+    ],
+    "options_en": [
+      "1/4\" SAE",
+      "5/16\" SAE",
+      "3/8\" NPT",
+      "Bayonet type"
+    ],
+    "correct": 1
+  },
+  "733": {
+    "question_bn": "উড টাইপস নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Wood Types, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "734": {
+    "question_bn": "মেজারিং ও লেআউট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Measuring & Layout, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "735": {
+    "question_bn": "হ্যান্ড জয়েন্ট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Hand Joints, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "736": {
+    "question_bn": "ফাস্টেনার ও আঠা নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Fasteners & Adhesives, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "737": {
+    "question_bn": "ফিনিশিং বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Finishing Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "738": {
+    "question_bn": "R410A সিস্টেমে সাধারণত কোন ম্যানিফোল্ড গেজ কানেক্টর ব্যবহার হয়?",
+    "question_en": "Which manifold gauge connector is typical for R410A systems?",
+    "options_bn": [
+      "১/৪\" SAE",
+      "৫/১৬\" SAE",
+      "৩/৮\" NPT",
+      "বায়োনেট টাইপ"
+    ],
+    "options_en": [
+      "1/4\" SAE",
+      "5/16\" SAE",
+      "3/8\" NPT",
+      "Bayonet type"
+    ],
+    "correct": 1
+  },
+  "739": {
+    "question_bn": "ড্রইং/প্ল্যান রিডিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Drawing/Plan Reading, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "740": {
+    "question_bn": "হট-ওয়ার্ক (ব্রেজিং) করার আগে আবশ্যক পদক্ষেপ কোনটি?",
+    "question_en": "Before hot work (brazing), which action is mandatory?",
+    "options_bn": [
+      "ফিল্টার পরিষ্কার",
+      "LOTO ও ফায়ার ওয়াচ নিশ্চিত করা",
+      "থার্মোস্ট্যাট অফ করা",
+      "ইউনিট ধোয়া"
+    ],
+    "options_en": [
+      "Clean filter",
+      "Ensure LOTO and fire watch",
+      "Turn thermostat off",
+      "Wash the unit"
+    ],
+    "correct": 1
+  },
+  "741": {
+    "question_bn": "ফ্রেমিং বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Framing Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "742": {
+    "question_bn": "ডোর ও উইন্ডো নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Doors & Windows, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "743": {
+    "question_bn": "ক্যাবিনেট বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Cabinet Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "744": {
+    "question_bn": "ফ্লোরিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Flooring, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "745": {
+    "question_bn": "রুফিং বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Roofing Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "746": {
+    "question_bn": "স্টেয়ার্স বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Stairs Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "747": {
+    "question_bn": "সাইট লেআউট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Site Layout, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "748": {
+    "question_bn": "ময়েশ্চার কন্ট্রোল নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Moisture Control, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "749": {
+    "question_bn": "হার্ডওয়্যার নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Hardware, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "750": {
+    "question_bn": "ট্রিম/মোল্ডিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Trim/Molding, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "751": {
+    "question_bn": "অ্যাডভান্সড জয়েন্ট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Advanced Joinery, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "752": {
+    "question_bn": "ভেনিয়ারিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Veneering, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "753": {
+    "question_bn": "বাঁকানো কাঠ নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Bent Wood, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "754": {
+    "question_bn": "CNC বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on CNC Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "755": {
+    "question_bn": "ড্রাফটিং/CAD নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Drafting/CAD, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "756": {
+    "question_bn": "অ্যাকোস্টিক প্যানেল নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Acoustic Panels, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "757": {
+    "question_bn": "আউটডোর কার্পেন্টারি নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Outdoor Carpentry, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "758": {
+    "question_bn": "ইপক্সি রিপেয়ার নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Epoxy Repair, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "759": {
+    "question_bn": "এর্গোনমিক্স নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Ergonomics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "760": {
+    "question_bn": "সাসটেইনেবল উডওয়ার্ক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Sustainable Woodwork, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "761": {
+    "question_bn": "শপফিটিং বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Shopfitting Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "762": {
+    "question_bn": "পার্টিশন সিস্টেম নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Partition Systems, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "763": {
+    "question_bn": "ফায়ার-রেটেড অ্যাসেম্বলি নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Fire-Rated Assemblies, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "764": {
+    "question_bn": "অ্যাকোস্টিক্স ডিটেইল নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Acoustics Detailing, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "765": {
+    "question_bn": "সাসপেন্ডেড সিলিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Suspended Ceilings, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "766": {
+    "question_bn": "মডুলার ফার্নিচার নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Modular Furniture, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "767": {
+    "question_bn": "গ্লেজিং কো-অর্ডিনেশন নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Glazing Coordination, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "768": {
+    "question_bn": "সাইট লজিস্টিক্স নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Site Logistics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "769": {
+    "question_bn": "QA/QC প্রক্রিয়া নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on QA/QC Processes, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "770": {
+    "question_bn": "‘As-built’ ড্রয়িং কেন জরুরি?",
+    "question_en": "Why are as-built drawings essential?",
+    "options_bn": [
+      "শুধু মার্কেটিং",
+      "ভবিষ্যৎ সার্ভিস/আপগ্রেডে সঠিক তথ্য দেয়",
+      "রঙ নির্বাচন",
+      "কোনো কাজে লাগে না"
+    ],
+    "options_en": [
+      "Marketing only",
+      "Provide accurate info for future service/upgrades",
+      "Color picking",
+      "Useless"
+    ],
+    "correct": 1
+  },
+  "771": {
+    "question_bn": "সাইট সার্ভে (কার্পেন্টারি) নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Site Survey (Carpentry), which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "772": {
+    "question_bn": "কাটিং লিস্ট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Cutting Lists, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "773": {
+    "question_bn": "জিগস ও গাইড নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Jigs & Guides, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "774": {
+    "question_bn": "ফিনিশিং সিস্টেম নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Finishing Systems, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "775": {
+    "question_bn": "ইনস্টলেশন সিকোয়েন্স নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Installation Sequence, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "776": {
+    "question_bn": "হার্ডওয়্যার টিউনিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Hardware Tuning, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "777": {
+    "question_bn": "পাঞ্চ লিস্ট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Punch Lists, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "778": {
+    "question_bn": "হ্যান্ডওভার নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Handover, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "779": {
+    "question_bn": "AMC ও রক্ষণাবেক্ষণ নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on AMC & Maintenance, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "780": {
+    "question_bn": "হট-ওয়ার্ক (ব্রেজিং) করার আগে আবশ্যক পদক্ষেপ কোনটি?",
+    "question_en": "Before hot work (brazing), which action is mandatory?",
+    "options_bn": [
+      "ফিল্টার পরিষ্কার",
+      "LOTO ও ফায়ার ওয়াচ নিশ্চিত করা",
+      "থার্মোস্ট্যাট অফ করা",
+      "ইউনিট ধোয়া"
+    ],
+    "options_en": [
+      "Clean filter",
+      "Ensure LOTO and fire watch",
+      "Turn thermostat off",
+      "Wash the unit"
+    ],
+    "correct": 1
+  },
+  "781": {
+    "question_bn": "ডিজাইন-বিল্ড ওয়ার্কফ্লো নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Design-Build Workflow, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "782": {
+    "question_bn": "কস্টিং ও এস্টিমেশন নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Costing & Estimation, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "783": {
+    "question_bn": "কন্ট্রাক্টস বেসিক নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Contracts Basics, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "784": {
+    "question_bn": "কোড/স্ট্যান্ডার্ড নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Codes/Standards, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "785": {
+    "question_bn": "টিম ম্যানেজমেন্ট নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Team Management, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "786": {
+    "question_bn": "অ্যাডভান্সড ফিনিশ নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Advanced Finishes, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "787": {
+    "question_bn": "রেট্রোফিটে পুরনো সিস্টেম মূল্যায়নে প্রথমে কী দেখবেন?",
+    "question_en": "In retrofits, what is assessed first in the existing system?",
+    "options_bn": [
+      "লোগো",
+      "বর্তমান পারফরম্যান্স ও কমপ্লায়েন্স গ্যাপ",
+      "শুধু রং",
+      "সিরিয়াল স্টিকার"
+    ],
+    "options_en": [
+      "Logo",
+      "Current performance and compliance gaps",
+      "Color only",
+      "Serial sticker"
+    ],
+    "correct": 1
+  },
+  "788": {
+    "question_bn": "এনার্জি-এফিসিয়েন্ট কার্পেন্টারি নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Energy-Efficient Carpentry, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "789": {
+    "question_bn": "লং-টার্ম পেশাগত উন্নয়নে কোনটি সহায়ক?",
+    "question_en": "What helps long-term professional growth?",
+    "options_bn": [
+      "র‌্যান্ডম টিপস",
+      "স্ট্যান্ডার্ড আপডেট ও সার্টিফিকেশন",
+      "বেশি স্ক্রু কেনা",
+      "পুরনো অভ্যাস"
+    ],
+    "options_en": [
+      "Random tips",
+      "Standards updates and certifications",
+      "Buying more screws",
+      "Old habits"
+    ],
+    "correct": 1
+  },
+  "790": {
+    "question_bn": "মেন্টরিং ও ট্রেনিং নিয়ে কাজের সময় কোনটি সেরা প্র্যাকটিস?",
+    "question_en": "Working on Mentoring & Training, which is best practice?",
+    "options_bn": [
+      "শর্টকাট",
+      "স্ট্যান্ডার্ড অনুসরণ",
+      "আনুমানিক কাজ",
+      "টেস্ট বাদ"
+    ],
+    "options_en": [
+      "Shortcut",
+      "Follow standards",
+      "Approximate work",
+      "Skip tests"
+    ],
+    "correct": 1
+  },
+  "quizzes": {
+    "791": {
+      "question_bn": "গরম/ঠান্ডা জল বিতরণ ডিজাইন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Hot/Cold Water Distribution Design?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "792": {
+      "question_bn": "পাম্প সিলেকশন ও ইনস্টলেশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Pump Selection & Installation?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "793": {
+      "question_bn": "ভাল্ভ ধরণ ও অপারেশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Valve Types & Operation?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "794": {
+      "question_bn": "জল হিটারের সেটআপ বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Water Heater Setup?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "795": {
+      "question_bn": "বুস্টার সিস্টেম ও প্রেসার নিয়ন্ত্রণ বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Booster Systems & Pressure Control?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "796": {
+      "question_bn": "ড্রেনেজ ভেন্টিং (DWV) বেসিক বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for DWV (Drainage, Waste & Vent) Basics?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "797": {
+      "question_bn": "ব্যাকফ্লো প্রিভেনশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Backflow Prevention?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "798": {
+      "question_bn": "PVC/CPVC/PEX জয়েন্টিং কৌশল বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for PVC/CPVC/PEX Jointing Techniques?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "799": {
+      "question_bn": "ইনসুলেশন ও কনডেনসেশন কন্ট্রোল বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Insulation & Condensation Control?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "800": {
+      "question_bn": "কোড ও কমপ্লায়েন্স (প্লাম্বিং) বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Codes & Compliance (Plumbing)?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "801": {
+      "question_bn": "বাথরুম/কিচেন রিমডেলিং প্লাম্বিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Bathroom/Kitchen Remodeling Plumbing?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "802": {
+      "question_bn": "ফায়ার ফাইটিং ওয়েট রাইজার লাইন বেসিক বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Wet Riser Line Basics (Fire Fighting Plumbing)?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "803": {
+      "question_bn": "রেইনওয়াটার হারভেস্টিং কানেকশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Rainwater Harvesting Connections?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "804": {
+      "question_bn": "গ্রেইওয়াটার ও রিসাইকেলিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Greywater & Recycling?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "805": {
+      "question_bn": "সেপ্টিক ট্যাংক ও সোয়াকওয়ে বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Septic Tanks & Soakaways?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "806": {
+      "question_bn": "ট্রাপ/সাইফোন অ্যাকশন ডায়াগনসিস বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Trap/Siphon Action Diagnosis?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "807": {
+      "question_bn": "ইন্ডাস্ট্রিয়াল প্লাম্বিং সিলেকশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Industrial Plumbing Selection?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "808": {
+      "question_bn": "মিটারিং ও লিক মনিটরিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Metering & Leak Monitoring?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "809": {
+      "question_bn": "হট ওয়াটার সার্কুলেশন লুপ বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Hot Water Circulation Loops?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "810": {
+      "question_bn": "টেস্টিং ও কমিশনিং (প্লাম্বিং) বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Testing & Commissioning (Plumbing)?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "811": {
+      "question_bn": "বিল্ডিং প্লাম্বিং ডিজাইন সমন্বয় বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Building Plumbing Design Coordination?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "812": {
+      "question_bn": "হাই-রাইজ প্রেসার জোনিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Hi-Rise Pressure Zoning?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "813": {
+      "question_bn": "পাম্প-কন্ট্রোল অটোমেশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Pump Control Automation?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "814": {
+      "question_bn": "ওয়াটার কোয়ালিটি ও ট্রিটমেন্ট বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Water Quality & Treatment?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "815": {
+      "question_bn": "লেজিওনেলা/হাইজিন রিস্ক ম্যানেজমেন্ট বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Legionella & Hygiene Risk Management?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "816": {
+      "question_bn": "অ্যাসেট ম্যানেজমেন্ট ও SOP বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Asset Management & SOPs?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "817": {
+      "question_bn": "এনার্জি-স্মার্ট প্লাম্বিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Energy-Smart Plumbing?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "818": {
+      "question_bn": "রেট্রোফিট/আপগ্রেড (প্লাম্বিং) বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Retrofit/Upgrade (Plumbing)?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "819": {
+      "question_bn": "প্রকিউরমেন্ট ও কস্টিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Procurement & Costing?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "820": {
+      "question_bn": "কাস্টমার সার্ভিস ও হ্যান্ডওভার বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Customer Service & Handover?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "821": {
+      "question_bn": "ফ্রেমিং টেকনিক্স (উড/মেটাল স্টাড) বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Framing Techniques (Wood/Metal Stud)?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "822": {
+      "question_bn": "ডোর/উইন্ডো ইনস্টলেশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Door/Window Installation?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "823": {
+      "question_bn": "ক্যাবিনেট্রি বেসিক বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Cabinetry Basics?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "824": {
+      "question_bn": "ফ্লোরিং (ল্যামিনেট/হার্ডউড) বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Flooring (Laminate/Hardwood)?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "825": {
+      "question_bn": "ট্রিম ও মোল্ডিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Trim & Molding?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "826": {
+      "question_bn": "মেজারিং/লেআউট মাস্টারি বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Measuring & Layout Mastery?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "827": {
+      "question_bn": "ফাস্টেনারস ও অ্যাডহেসিভস বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Fasteners & Adhesives?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "828": {
+      "question_bn": "ফিনিশিং/স্যান্ডিং/কোটিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Finishing/Sanding/Coating?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "829": {
+      "question_bn": "জয়েন্ট স্ট্রেংথ টেস্টিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Joint Strength Testing?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "830": {
+      "question_bn": "সেফটি, ডাস্ট ও ভেন্টিলেশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Safety, Dust & Ventilation?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "831": {
+      "question_bn": "ফার্নিচার ডিজাইন ও জয়নারি বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Furniture Design & Joinery?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "832": {
+      "question_bn": "স্লাইডিং সিস্টেম ও হার্ডওয়্যার বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Sliding Systems & Hardware?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "833": {
+      "question_bn": "কার্ভড/বেন্ড উড টেকনিক বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Curved/Bent Wood Techniques?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "834": {
+      "question_bn": "ইনলেই/ভিনিয়ারিং বেসিক বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Inlay/Veneering Basics?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "835": {
+      "question_bn": "CNC/পাওয়ার টুল কনফিগারেশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for CNC/Power Tool Configuration?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "836": {
+      "question_bn": "সাইট কার্পেন্ট্রি ও কোঅর্ডিনেশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Site Carpentry & Coordination?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "837": {
+      "question_bn": "অ্যাকুস্টিক প্যানেলিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Acoustic Paneling?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "838": {
+      "question_bn": "আউটডোর/ডেকিং কার্পেন্ট্রি বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Outdoor/Decking Carpentry?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "839": {
+      "question_bn": "ইন্সপেকশন ও কুয়ালিটি কন্ট্রোল বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Inspection & Quality Control?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "840": {
+      "question_bn": "প্রজেক্ট ডকুমেন্টেশন ও হ্যান্ডওভার বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Project Documentation & Handover?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "841": {
+      "question_bn": "আর্কিটেকচারাল ডিটেইলিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Architectural Detailing?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "842": {
+      "question_bn": "কাস্টম ক্যাবিনেট/কিচেন সিস্টেম বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Custom Cabinet/Kitchen Systems?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "843": {
+      "question_bn": "স্টেয়ার ও রেলিং কনস্ট্রাকশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Stair & Railing Construction?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "844": {
+      "question_bn": "এরগোনমিকস ও ইউজার-সেন্টার্ড ডিজাইন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Ergonomics & User-Centered Design?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "845": {
+      "question_bn": "ফায়ার-রেটেড ডোর/পার্টিশন বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Fire-Rated Doors/Partitions?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "846": {
+      "question_bn": "সাসটেইনেবল উড সোর্সিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Sustainable Wood Sourcing?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "847": {
+      "question_bn": "ভ্যালু ইঞ্জিনিয়ারিং বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Value Engineering?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "848": {
+      "question_bn": "সাইট সেফটি লিডারশিপ বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Site Safety Leadership?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    },
+    "849": {
+      "question_bn": "টিম/সাবকন্ট্রাক্টর ম্যানেজমেন্ট বিষয়ে সবচেয়ে উপযুক্ত প্রাথমিক যাচাই কোনটি?",
+      "question_en": "What is the most appropriate initial check for Team/Subcontractor Management?",
+      "options_bn": [
+        "অনুমান করে কাজ শুরু করা",
+        "ভিজ্যুয়াল ইন্সপেকশন ও স্পেসিফিকেশন মিলিয়ে দেখা",
+        "অপ্রাসঙ্গিক অংশ খুলে ফেলা",
+        "অকারণে চাপ/পাওয়ার বাড়ানো"
+      ],
+      "options_en": [
+        "Start work by guessing",
+        "Visual inspection and matching specs",
+        "Remove unrelated parts",
+        "Increase pressure/power without reason"
+      ],
+      "correct": 1
+    }
+  }
+}
+}

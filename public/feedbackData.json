@@ -1,0 +1,125 @@
+{
+  "translations": {
+    "bn": {
+      "title": "এআই ইনসাইটস ও ফিডব্যাক",
+      "growthTitle": "দক্ষতার উন্নতি",
+      "earningUpdate": "আয়ের পূর্বাভাস আপডেট",
+      "aiSuggestions": "এআই এর পরামর্শ",
+      "loading": "আপনার ইনসাইটস আপডেট হচ্ছে...",
+      "previous": "পূর্ববর্তী",
+      "current": "বর্তমান",
+      "improvement": "উন্নতি",
+      "rank": "র্যাঙ্ক",
+      "skillGrowth": "দক্ষতার বৃদ্ধি",
+      "overTime": "সময়ের সাথে",
+      "nextSteps": "পরবর্তী পদক্ষেপ",
+      "aiAnalyzing": "এআই বিশ্লেষণ করছে...",
+      "lastUpdate": "সর্বশেষ আপডেট",
+      "updating": "আপডেট হচ্ছে",
+      "updatingInsights": "আপনার ইনসাইটস আপডেট হচ্ছে...",
+      "done": "সম্পন্ন",
+      "rankUpgraded": "র‍্যাংক আপগ্রেড হয়েছে",
+      "congratulations": "অভিনন্দন",
+      "achievement": "অর্জন",
+      "minutesAgo": "মিনিট আগে",
+      "secondsAgo": "সেকেন্ড আগে",
+      "dataNote": "এই ডেটা আপনার পারফরম্যান্স এবং অনেক বাস্তব বিশ্বের পরিসংখ্যানের বিশ্লেষণের উপর ভিত্তি করে আপডেট হবে।",
+      "dataNoteTitle": "📌 গুরুত্বপূর্ণ নোট"
+    },
+    "en": {
+      "title": "AI Insights & Feedback",
+      "growthTitle": "Skill Growth",
+      "earningUpdate": "Updated Earning Prediction",
+      "aiSuggestions": "AI Suggestions",
+      "loading": "Updating your insights...",
+      "previous": "Previous",
+      "current": "Current",
+      "improvement": "Improvement",
+      "rank": "Rank",
+      "skillGrowth": "Skill Growth",
+      "overTime": "Over Time",
+      "nextSteps": "Next Steps",
+      "aiAnalyzing": "AI is analyzing...",
+      "lastUpdate": "Last Update",
+      "updating": "Updating",
+      "updatingInsights": "Updating your insights...",
+      "done": "Done",
+      "rankUpgraded": "Rank Upgraded",
+      "congratulations": "Congratulations",
+      "achievement": "Achievement",
+      "minutesAgo": "minutes ago",
+      "secondsAgo": "seconds ago",
+      "dataNote": "This data will update based on your performance and analysis of many real-world statistics.",
+      "dataNoteTitle": "📌 Important Note"
+    }
+  },
+  "feedback": {
+    "skillRankChange": {
+      "previous": "Silver",
+      "current": "Gold",
+      "improvement": "+18%",
+      "previousProgress": 65,
+      "currentProgress": 83
+    },
+    "earningPrediction": {
+      "previous": 18500,
+      "current": 22500,
+      "trend": [
+        { "month": "Jan", "value": 16000 },
+        { "month": "Feb", "value": 17500 },
+        { "month": "Mar", "value": 18500 },
+        { "month": "Apr", "value": 20500 },
+        { "month": "May", "value": 22000 },
+        { "month": "Jun", "value": 22500 }
+      ]
+    },
+    "aiSuggestions": {
+      "bn": [
+        "‘ইলেকট্রিক্যাল ওয়্যারিং আপগ্রেড’ কোর্সটি সম্পন্ন করলে আপনি আরও নিরাপদ ইনস্টলেশন করতে পারবেন।",
+        "‘এসি সার্ভিসিং লেভেল ২’ সম্পূর্ণ করলে আয় প্রায় ২০% বাড়তে পারে।",
+        "‘প্লাম্বিং রিপেয়ার বেসিকস’ শিখলে গৃহস্থালির ছোট কাজেও আয় হবে।",
+        "‘কার্পেন্ট্রি ফিনিশিং টেকনিক’ অনুশীলন করলে কাঠের কাজে গ্রাহক সন্তুষ্টি বাড়বে।",
+        "‘কুলিং সিস্টেম মেইনটেনেন্স’ কোর্সটি পরবর্তী ধাপে নেওয়া উপযুক্ত।",
+        "‘ইলেকট্রিক্যাল সেফটি’ প্রশিক্ষণ আপনার কাজের মান ও নিরাপত্তা দুই-ই বাড়াবে।",
+        "‘কাস্টমার কমিউনিকেশন স্কিল’ উন্নত করলে ক্লায়েন্ট ধরে রাখার হার বৃদ্ধি পাবে।",
+        "‘রেফ্রিজারেন্ট হ্যান্ডলিং’ ও ‘ওয়াটার পাইপ মেইনটেনেন্স’ একসাথে শেখা বহুমুখী আয়ের সুযোগ তৈরি করবে।"
+      ],
+      "en": [
+        "Completing the 'Electrical Wiring Upgrade' course will improve installation safety and quality.",
+        "Finishing 'AC Servicing Level 2' can boost your income by around 20%.",
+        "Learning 'Plumbing Repair Basics' will help you earn from household service jobs.",
+        "Practicing 'Carpentry Finishing Techniques' will enhance customer satisfaction in woodwork.",
+        "Next course recommended: 'Cooling System Maintenance'.",
+        "Completing 'Electrical Safety' training improves both quality and safety of your work.",
+        "Improving 'Customer Communication Skills' can increase client retention rates.",
+        "Learning both 'Refrigerant Handling' and 'Water Pipe Maintenance' creates multi-skill income opportunities."
+      ]
+    },
+    "marketInsights": {
+      "bn": [
+        "ঢাকায় এসি সার্ভিসের চাহিদা ৯২% — এটি আয় বৃদ্ধির বড় সুযোগ।",
+        "ইলেকট্রিশিয়ান সার্ভিসে অনলাইন অর্ডার ২৫% বেড়েছে।",
+        "প্লাম্বিং সার্ভিসের কাজ বর্ষাকালে দ্বিগুণ হয়।",
+        "কার্পেন্টারদের মধ্যে ‘মডুলার ফার্নিচার’ কাজের চাহিদা ৩০% বৃদ্ধি পেয়েছে।",
+        "চট্টগ্রাম ও নারায়ণগঞ্জে ইলেকট্রিক্যাল ইনস্টলেশনের প্রকল্প বাড়ছে।",
+        "ইকো-ফ্রেন্ডলি এসি ও পানিসাশ্রয়ী সলিউশনের বাজার দ্রুত সম্প্রসারিত হচ্ছে।"
+      ],
+      "en": [
+        "AC service demand in Dhaka is 92% — a strong income opportunity.",
+        "Online orders for electrician services have increased by 25%.",
+        "Plumbing jobs nearly double during the rainy season.",
+        "Carpenters working on modular furniture projects saw 30% higher demand.",
+        "Electrical installation projects are rising in Chittagong and Narayanganj.",
+        "Market demand for eco-friendly AC and water-saving solutions is rapidly expanding."
+      ]
+    },
+    "performanceMetrics": {
+      "completedCourses": 8,
+      "completedJobs": 12,
+      "averageRating": 4.8,
+      "skillCompletion": 83,
+      "monthlyGrowth": "+18%"
+    }
+  }
+}
+

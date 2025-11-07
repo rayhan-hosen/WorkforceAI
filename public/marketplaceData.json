@@ -1,0 +1,1464 @@
+{
+  "translations": {
+    "bn": {
+      "title": "দক্ষ টেকনিশিয়ান খুঁজুন",
+      "searchPlaceholder": "সার্ভিস ক্যাটাগরি বা জেলা লিখুন...",
+      "hireNow": "হায়ার করুন",
+      "viewProfile": "প্রোফাইল দেখুন",
+      "rating": "রেটিং",
+      "location": "অবস্থান",
+      "skills": "দক্ষতা",
+      "category": "বিভাগ",
+      "certificates": "সার্টিফিকেট",
+      "completedJobs": "সম্পন্ন কাজ",
+      "hourlyRate": "প্রতি ঘন্টার মূল্য",
+      "aiMatch": "এআই ম্যাচ",
+      "bio": "প্রোফাইল",
+      "allCategories": "সব বিভাগ",
+      "allDistricts": "সব জেলা",
+      "minRating": "সর্বনিম্ন রেটিং",
+      "finding": "এআই সেরা টেকনিশিয়ান খুঁজছে...",
+      "bookNow": "বুক করুন",
+      "hourly": "প্রতি ঘন্টা",
+      "verified": "যাচাইকৃত",
+      "available": "উপলব্ধ",
+      "notAvailable": "অনুপলব্ধ"
+    },
+    "en": {
+      "title": "Hire a Skilled Technician",
+      "searchPlaceholder": "Search by service or district...",
+      "hireNow": "Hire Now",
+      "viewProfile": "View Profile",
+      "rating": "Rating",
+      "location": "Location",
+      "skills": "Skills",
+      "category": "Category",
+      "certificates": "Certificates",
+      "completedJobs": "Completed Jobs",
+      "hourlyRate": "Hourly Rate",
+      "aiMatch": "AI Match",
+      "bio": "Profile",
+      "allCategories": "All Categories",
+      "allDistricts": "All Districts",
+      "minRating": "Minimum Rating",
+      "finding": "AI Finding best technicians...",
+      "bookNow": "Book Now",
+      "hourly": "per hour",
+      "verified": "Verified",
+      "available": "Available",
+      "notAvailable": "Not Available"
+    }
+  },
+  "technicians": [
+    {
+      "id": 1,
+      "name_bn": "রফিকুল ইসলাম",
+      "name_en": "রফিকুল_ইসলাম",
+      "category": "Electrical",
+      "district_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "rating": 4.4,
+      "skills_bn": [
+        "সোলার প্যানেল ইনস্টলেশন",
+        "ভোল্টেজ নিয়ন্ত্রণ",
+        "মোটর রিওয়াইন্ডিং"
+      ],
+      "skills_en": [
+        "Solar Panel Installation",
+        "Voltage Regulation",
+        "Motor Rewinding"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 92,
+      "aiMatch_bn": "রফিকুল ইসলাম এই সার্ভিসের জন্য 92% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.4★।",
+      "aiMatch_en": "রফিকুল_ইসলাম is a 92% match for this service with 4.4★ customer satisfaction.",
+      "completedJobs": 21,
+      "hourlyRate": 580,
+      "available": true,
+      "bio_bn": "Electrical কাজে 6 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "3 years of experience in electrical work. Provides reliable and quality service."
+    },
+    {
+      "id": 2,
+      "name_bn": "মোঃ আজাদ",
+      "name_en": "মোঃ_আজাদ",
+      "category": "Carpentry",
+      "district_bn": "বরিশাল",
+      "district_en": "Barisal",
+      "rating": 4.2,
+      "skills_bn": [
+        "মডুলার ক্যাবিনেট ইনস্টলেশন",
+        "ফলস সিলিং স্থাপন",
+        "কাঠের জয়েনারি"
+      ],
+      "skills_en": [
+        "Modular Cabinet Installation",
+        "False Ceiling Setup",
+        "Wood Joinery"
+      ],
+      "certificates": [
+        "Carpentry Level Certificate"
+      ],
+      "aiMatch": 94,
+      "aiMatch_bn": "মোঃ আজাদ এই সার্ভিসের জন্য 94% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.2★।",
+      "aiMatch_en": "মোঃ_আজাদ is a 94% match for this service with 4.2★ customer satisfaction.",
+      "completedJobs": 43,
+      "hourlyRate": 582,
+      "available": false,
+      "bio_bn": "Carpentry কাজে 4 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "7 years of experience in carpentry work. Provides reliable and quality service."
+    },
+    {
+      "id": 3,
+      "name_bn": "করিম উদ্দিন",
+      "name_en": "করিম_উদ্দিন",
+      "category": "Plumbing",
+      "district_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "rating": 4.5,
+      "skills_bn": [
+        "ওয়াটার হিটার ইনস্টলেশন",
+        "পাইপলাইন রক্ষণাবেক্ষণ",
+        "স্মার্ট পানি সিস্টেম"
+      ],
+      "skills_en": [
+        "Water Heater Installation",
+        "Pipeline Maintenance",
+        "Smart Water System"
+      ],
+      "certificates": [
+        "Plumbing Level Certificate"
+      ],
+      "aiMatch": 87,
+      "aiMatch_bn": "করিম উদ্দিন এই সার্ভিসের জন্য 87% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.5★।",
+      "aiMatch_en": "করিম_উদ্দিন is a 87% match for this service with 4.5★ customer satisfaction.",
+      "completedJobs": 21,
+      "hourlyRate": 367,
+      "available": true,
+      "bio_bn": "Plumbing কাজে 6 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "6 years of experience in plumbing work. Provides reliable and quality service."
+    },
+    {
+      "id": 4,
+      "name_bn": "শাহিন আহমেদ",
+      "name_en": "শাহিন_আহমেদ",
+      "category": "Electrical",
+      "district_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "rating": 4.6,
+      "skills_bn": [
+        "বাড়ির তার সংযোগ",
+        "সার্কিট সমস্যা সমাধান",
+        "লাইট ফিক্সচার ইনস্টলেশন"
+      ],
+      "skills_en": [
+        "House Wiring",
+        "Circuit Troubleshooting",
+        "Light Fixture Installation"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 93,
+      "aiMatch_bn": "শাহিন আহমেদ এই সার্ভিসের জন্য 93% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.6★।",
+      "aiMatch_en": "শাহিন_আহমেদ is a 93% match for this service with 4.6★ customer satisfaction.",
+      "completedJobs": 16,
+      "hourlyRate": 360,
+      "available": true,
+      "bio_bn": "Electrical কাজে 2 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "5 years of experience in electrical work. Provides reliable and quality service."
+    },
+    {
+      "id": 5,
+      "name_bn": "রহিম আলী",
+      "name_en": "রহিম_আলী",
+      "category": "Electrical",
+      "district_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "rating": 4.4,
+      "skills_bn": [
+        "জেনারেটর রক্ষণাবেক্ষণ",
+        "শিল্প বৈদ্যুতিক সংযোগ",
+        "সুইচবোর্ড স্থাপন"
+      ],
+      "skills_en": [
+        "Generator Maintenance",
+        "Industrial Wiring",
+        "Switchboard Setup"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 90,
+      "aiMatch_bn": "রহিম আলী এই সার্ভিসের জন্য 90% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.4★।",
+      "aiMatch_en": "রহিম_আলী is a 90% match for this service with 4.4★ customer satisfaction.",
+      "completedJobs": 30,
+      "hourlyRate": 515,
+      "available": false,
+      "bio_bn": "Electrical কাজে 2 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "2 years of experience in electrical work. Provides reliable and quality service."
+    },
+    {
+      "id": 6,
+      "name_bn": "নাসির উদ্দিন",
+      "name_en": "নাসির_উদ্দিন",
+      "category": "Electrical",
+      "district_bn": "বরিশাল",
+      "district_en": "Barisal",
+      "rating": 4.6,
+      "skills_bn": [
+        "জেনারেটর রক্ষণাবেক্ষণ",
+        "শিল্প বৈদ্যুতিক সংযোগ",
+        "সুইচবোর্ড স্থাপন"
+      ],
+      "skills_en": [
+        "Generator Maintenance",
+        "Industrial Wiring",
+        "Switchboard Setup"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 78,
+      "aiMatch_bn": "নাসির উদ্দিন এই সার্ভিসের জন্য 78% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.6★।",
+      "aiMatch_en": "নাসির_উদ্দিন is a 78% match for this service with 4.6★ customer satisfaction.",
+      "completedJobs": 50,
+      "hourlyRate": 340,
+      "available": false,
+      "bio_bn": "Electrical কাজে 7 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "6 years of experience in electrical work. Provides reliable and quality service."
+    },
+    {
+      "id": 7,
+      "name_bn": "তানভীর হাসান",
+      "name_en": "তানভীর_হাসান",
+      "category": "AC",
+      "district_bn": "চট্টগ্রাম",
+      "district_en": "Chittagong",
+      "rating": 4.7,
+      "skills_bn": [
+        "স্প্লিট এসি মেরামত",
+        "এসি গ্যাস ভরাট",
+        "ফিল্টার পরিষ্কার"
+      ],
+      "skills_en": [
+        "Split AC Repair",
+        "AC Gas Charging",
+        "Filter Cleaning"
+      ],
+      "certificates": [
+        "AC Level Certificate"
+      ],
+      "aiMatch": 75,
+      "aiMatch_bn": "তানভীর হাসান এই সার্ভিসের জন্য 75% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.7★।",
+      "aiMatch_en": "তানভীর_হাসান is a 75% match for this service with 4.7★ customer satisfaction.",
+      "completedJobs": 23,
+      "hourlyRate": 347,
+      "available": false,
+      "bio_bn": "AC কাজে 4 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "7 years of experience in ac work. Provides reliable and quality service."
+    },
+    {
+      "id": 8,
+      "name_bn": "ইমরান হোসেন",
+      "name_en": "ইমরান_হোসেন",
+      "category": "Carpentry",
+      "district_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "rating": 4.0,
+      "skills_bn": [
+        "অভ্যন্তরীণ কাঠের নকশা",
+        "কাঠ কাটা",
+        "আসবাব সংযোজন"
+      ],
+      "skills_en": [
+        "Interior Wood Design",
+        "Wood Cutting",
+        "Furniture Assembly"
+      ],
+      "certificates": [
+        "Carpentry Level Certificate"
+      ],
+      "aiMatch": 91,
+      "aiMatch_bn": "ইমরান হোসেন এই সার্ভিসের জন্য 91% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.0★।",
+      "aiMatch_en": "ইমরান_হোসেন is a 91% match for this service with 4.0★ customer satisfaction.",
+      "completedJobs": 46,
+      "hourlyRate": 366,
+      "available": true,
+      "bio_bn": "Carpentry কাজে 7 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "4 years of experience in carpentry work. Provides reliable and quality service."
+    },
+    {
+      "id": 9,
+      "name_bn": "সালমান আহমেদ",
+      "name_en": "সালমান_আহমেদ",
+      "category": "AC",
+      "district_bn": "খুলনা",
+      "district_en": "Khulna",
+      "rating": 4.4,
+      "skills_bn": [
+        "স্প্লিট এসি মেরামত",
+        "এসি গ্যাস ভরাট",
+        "ফিল্টার পরিষ্কার"
+      ],
+      "skills_en": [
+        "Split AC Repair",
+        "AC Gas Charging",
+        "Filter Cleaning"
+      ],
+      "certificates": [
+        "AC Level Certificate"
+      ],
+      "aiMatch": 70,
+      "aiMatch_bn": "সালমান আহমেদ এই সার্ভিসের জন্য 70% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.4★।",
+      "aiMatch_en": "সালমান_আহমেদ is a 70% match for this service with 4.4★ customer satisfaction.",
+      "completedJobs": 55,
+      "hourlyRate": 570,
+      "available": true,
+      "bio_bn": "AC কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "2 years of experience in ac work. Provides reliable and quality service."
+    },
+    {
+      "id": 10,
+      "name_bn": "ফরিদ উদ্দিন",
+      "name_en": "ফরিদ_উদ্দিন",
+      "category": "Carpentry",
+      "district_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "rating": 4.4,
+      "skills_bn": [
+        "অভ্যন্তরীণ কাঠের নকশা",
+        "কাঠ কাটা",
+        "আসবাব সংযোজন"
+      ],
+      "skills_en": [
+        "Interior Wood Design",
+        "Wood Cutting",
+        "Furniture Assembly"
+      ],
+      "certificates": [
+        "Carpentry Level Certificate"
+      ],
+      "aiMatch": 72,
+      "aiMatch_bn": "ফরিদ উদ্দিন এই সার্ভিসের জন্য 72% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.4★।",
+      "aiMatch_en": "ফরিদ_উদ্দিন is a 72% match for this service with 4.4★ customer satisfaction.",
+      "completedJobs": 13,
+      "hourlyRate": 399,
+      "available": false,
+      "bio_bn": "Carpentry কাজে 7 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "5 years of experience in carpentry work. Provides reliable and quality service."
+    },
+    {
+      "id": 11,
+      "name_bn": "মাসুদ রানা",
+      "name_en": "মাসুদ_রানা",
+      "category": "Carpentry",
+      "district_bn": "চট্টগ্রাম",
+      "district_en": "Chittagong",
+      "rating": 4.1,
+      "skills_bn": [
+        "অভ্যন্তরীণ কাঠের নকশা",
+        "কাঠ কাটা",
+        "আসবাব সংযোজন"
+      ],
+      "skills_en": [
+        "Interior Wood Design",
+        "Wood Cutting",
+        "Furniture Assembly"
+      ],
+      "certificates": [
+        "Carpentry Level Certificate"
+      ],
+      "aiMatch": 82,
+      "aiMatch_bn": "মাসুদ রানা এই সার্ভিসের জন্য 82% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.1★।",
+      "aiMatch_en": "মাসুদ_রানা is a 82% match for this service with 4.1★ customer satisfaction.",
+      "completedJobs": 35,
+      "hourlyRate": 542,
+      "available": true,
+      "bio_bn": "Carpentry কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "5 years of experience in carpentry work. Provides reliable and quality service."
+    },
+    {
+      "id": 12,
+      "name_bn": "সাইফুল ইসলাম",
+      "name_en": "সাইফুল_ইসলাম",
+      "category": "AC",
+      "district_bn": "চট্টগ্রাম",
+      "district_en": "Chittagong",
+      "rating": 4.7,
+      "skills_bn": [
+        "স্প্লিট এসি মেরামত",
+        "এসি গ্যাস ভরাট",
+        "ফিল্টার পরিষ্কার"
+      ],
+      "skills_en": [
+        "Split AC Repair",
+        "AC Gas Charging",
+        "Filter Cleaning"
+      ],
+      "certificates": [
+        "AC Level Certificate"
+      ],
+      "aiMatch": 66,
+      "aiMatch_bn": "সাইফুল ইসলাম এই সার্ভিসের জন্য 66% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.7★।",
+      "aiMatch_en": "সাইফুল_ইসলাম is a 66% match for this service with 4.7★ customer satisfaction.",
+      "completedJobs": 40,
+      "hourlyRate": 461,
+      "available": true,
+      "bio_bn": "AC কাজে 6 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "5 years of experience in ac work. Provides reliable and quality service."
+    },
+    {
+      "id": 13,
+      "name_bn": "জুবায়ের হোসেন",
+      "name_en": "জুবায়ের_হোসেন",
+      "category": "AC",
+      "district_bn": "চট্টগ্রাম",
+      "district_en": "Chittagong",
+      "rating": 4.3,
+      "skills_bn": [
+        "এইচভিএসি ডাক্ট স্থাপন",
+        "কম্প্রেসর সার্ভিস",
+        "থার্মোস্ট্যাট ক্যালিব্রেশন"
+      ],
+      "skills_en": [
+        "HVAC Duct Setup",
+        "Compressor Service",
+        "Thermostat Calibration"
+      ],
+      "certificates": [
+        "AC Level Certificate"
+      ],
+      "aiMatch": 68,
+      "aiMatch_bn": "জুবায়ের হোসেন এই সার্ভিসের জন্য 68% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.3★।",
+      "aiMatch_en": "জুবায়ের_হোসেন is a 68% match for this service with 4.3★ customer satisfaction.",
+      "completedJobs": 59,
+      "hourlyRate": 552,
+      "available": true,
+      "bio_bn": "AC কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "7 years of experience in ac work. Provides reliable and quality service."
+    },
+    {
+      "id": 14,
+      "name_bn": "আবদুল কাদের",
+      "name_en": "আবদুল_কাদের",
+      "category": "Plumbing",
+      "district_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "rating": 4.4,
+      "skills_bn": [
+        "পাইপ সংযোগ",
+        "ড্রেনেজ মেরামত",
+        "জলাধার পরিষ্কার"
+      ],
+      "skills_en": [
+        "Pipe Fitting",
+        "Drainage Repair",
+        "Water Tank Cleaning"
+      ],
+      "certificates": [
+        "Plumbing Level Certificate"
+      ],
+      "aiMatch": 68,
+      "aiMatch_bn": "আবদুল কাদের এই সার্ভিসের জন্য 68% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.4★।",
+      "aiMatch_en": "আবদুল_কাদের is a 68% match for this service with 4.4★ customer satisfaction.",
+      "completedJobs": 10,
+      "hourlyRate": 484,
+      "available": true,
+      "bio_bn": "Plumbing কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "4 years of experience in plumbing work. Provides reliable and quality service."
+    },
+    {
+      "id": 15,
+      "name_bn": "ইকবাল হোসেন",
+      "name_en": "ইকবাল_হোসেন",
+      "category": "AC",
+      "district_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "rating": 3.9,
+      "skills_bn": [
+        "এসি ইনস্টলেশন",
+        "কুলিং সিস্টেম রক্ষণাবেক্ষণ",
+        "রেফ্রিজারেন্ট ব্যবস্থাপনা"
+      ],
+      "skills_en": [
+        "AC Installation",
+        "Cooling System Maintenance",
+        "Refrigerant Handling"
+      ],
+      "certificates": [
+        "AC Level Certificate"
+      ],
+      "aiMatch": 66,
+      "aiMatch_bn": "ইকবাল হোসেন এই সার্ভিসের জন্য 66% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 3.9★।",
+      "aiMatch_en": "ইকবাল_হোসেন is a 66% match for this service with 3.9★ customer satisfaction.",
+      "completedJobs": 41,
+      "hourlyRate": 347,
+      "available": true,
+      "bio_bn": "AC কাজে 2 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "4 years of experience in ac work. Provides reliable and quality service."
+    },
+    {
+      "id": 16,
+      "name_bn": "সাজিদ রহমান",
+      "name_en": "সাজিদ_রহমান",
+      "category": "Plumbing",
+      "district_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "rating": 4.0,
+      "skills_bn": [
+        "ওয়াটার হিটার ইনস্টলেশন",
+        "পাইপলাইন রক্ষণাবেক্ষণ",
+        "স্মার্ট পানি সিস্টেম"
+      ],
+      "skills_en": [
+        "Water Heater Installation",
+        "Pipeline Maintenance",
+        "Smart Water System"
+      ],
+      "certificates": [
+        "Plumbing Level Certificate"
+      ],
+      "aiMatch": 89,
+      "aiMatch_bn": "সাজিদ রহমান এই সার্ভিসের জন্য 89% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.0★।",
+      "aiMatch_en": "সাজিদ_রহমান is a 89% match for this service with 4.0★ customer satisfaction.",
+      "completedJobs": 19,
+      "hourlyRate": 445,
+      "available": true,
+      "bio_bn": "Plumbing কাজে 6 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "4 years of experience in plumbing work. Provides reliable and quality service."
+    },
+    {
+      "id": 17,
+      "name_bn": "মোস্তাফিজুর রহমান",
+      "name_en": "মোস্তাফিজুর_রহমান",
+      "category": "Electrical",
+      "district_bn": "চট্টগ্রাম",
+      "district_en": "Chittagong",
+      "rating": 4.7,
+      "skills_bn": [
+        "সোলার প্যানেল ইনস্টলেশন",
+        "ভোল্টেজ নিয়ন্ত্রণ",
+        "মোটর রিওয়াইন্ডিং"
+      ],
+      "skills_en": [
+        "Solar Panel Installation",
+        "Voltage Regulation",
+        "Motor Rewinding"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 94,
+      "aiMatch_bn": "মোস্তাফিজুর রহমান এই সার্ভিসের জন্য 94% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.7★।",
+      "aiMatch_en": "মোস্তাফিজুর_রহমান is a 94% match for this service with 4.7★ customer satisfaction.",
+      "completedJobs": 23,
+      "hourlyRate": 515,
+      "available": true,
+      "bio_bn": "Electrical কাজে 6 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "5 years of experience in electrical work. Provides reliable and quality service."
+    },
+    {
+      "id": 18,
+      "name_bn": "নওশাদ আলী",
+      "name_en": "নওশাদ_আলী",
+      "category": "Carpentry",
+      "district_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "rating": 4.3,
+      "skills_bn": [
+        "আসবাবপত্র তৈরি",
+        "দরজা ও জানালা স্থাপন",
+        "কাঠের পালিশ"
+      ],
+      "skills_en": [
+        "Furniture Making",
+        "Door and Window Fitting",
+        "Wood Polishing"
+      ],
+      "certificates": [
+        "Carpentry Level Certificate"
+      ],
+      "aiMatch": 78,
+      "aiMatch_bn": "নওশাদ আলী এই সার্ভিসের জন্য 78% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.3★।",
+      "aiMatch_en": "নওশাদ_আলী is a 78% match for this service with 4.3★ customer satisfaction.",
+      "completedJobs": 14,
+      "hourlyRate": 584,
+      "available": false,
+      "bio_bn": "Carpentry কাজে 2 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "6 years of experience in carpentry work. Provides reliable and quality service."
+    },
+    {
+      "id": 19,
+      "name_bn": "মাহবুব হাসান",
+      "name_en": "মাহবুব_হাসান",
+      "category": "Carpentry",
+      "district_bn": "খুলনা",
+      "district_en": "Khulna",
+      "rating": 4.3,
+      "skills_bn": [
+        "আসবাবপত্র তৈরি",
+        "দরজা ও জানালা স্থাপন",
+        "কাঠের পালিশ"
+      ],
+      "skills_en": [
+        "Furniture Making",
+        "Door and Window Fitting",
+        "Wood Polishing"
+      ],
+      "certificates": [
+        "Carpentry Level Certificate"
+      ],
+      "aiMatch": 88,
+      "aiMatch_bn": "মাহবুব হাসান এই সার্ভিসের জন্য 88% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.3★।",
+      "aiMatch_en": "মাহবুব_হাসান is a 88% match for this service with 4.3★ customer satisfaction.",
+      "completedJobs": 24,
+      "hourlyRate": 399,
+      "available": false,
+      "bio_bn": "Carpentry কাজে 5 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "7 years of experience in carpentry work. Provides reliable and quality service."
+    },
+    {
+      "id": 20,
+      "name_bn": "জসিম উদ্দিন",
+      "name_en": "জসিম_উদ্দিন",
+      "category": "AC",
+      "district_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "rating": 4.3,
+      "skills_bn": [
+        "স্প্লিট এসি মেরামত",
+        "এসি গ্যাস ভরাট",
+        "ফিল্টার পরিষ্কার"
+      ],
+      "skills_en": [
+        "Split AC Repair",
+        "AC Gas Charging",
+        "Filter Cleaning"
+      ],
+      "certificates": [
+        "AC Level Certificate"
+      ],
+      "aiMatch": 90,
+      "aiMatch_bn": "জসিম উদ্দিন এই সার্ভিসের জন্য 90% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.3★।",
+      "aiMatch_en": "জসিম_উদ্দিন is a 90% match for this service with 4.3★ customer satisfaction.",
+      "completedJobs": 33,
+      "hourlyRate": 450,
+      "available": false,
+      "bio_bn": "AC কাজে 4 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "6 years of experience in ac work. Provides reliable and quality service."
+    },
+    {
+      "id": 21,
+      "name_bn": "রুবেল মিয়া",
+      "name_en": "রুবেল_মিয়া",
+      "category": "AC",
+      "district_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "rating": 4.3,
+      "skills_bn": [
+        "এসি ইনস্টলেশন",
+        "কুলিং সিস্টেম রক্ষণাবেক্ষণ",
+        "রেফ্রিজারেন্ট ব্যবস্থাপনা"
+      ],
+      "skills_en": [
+        "AC Installation",
+        "Cooling System Maintenance",
+        "Refrigerant Handling"
+      ],
+      "certificates": [
+        "AC Level Certificate"
+      ],
+      "aiMatch": 91,
+      "aiMatch_bn": "রুবেল মিয়া এই সার্ভিসের জন্য 91% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.3★।",
+      "aiMatch_en": "রুবেল_মিয়া is a 91% match for this service with 4.3★ customer satisfaction.",
+      "completedJobs": 23,
+      "hourlyRate": 437,
+      "available": false,
+      "bio_bn": "AC কাজে 7 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "3 years of experience in ac work. Provides reliable and quality service."
+    },
+    {
+      "id": 22,
+      "name_bn": "আরিফুল ইসলাম",
+      "name_en": "আরিফুল_ইসলাম",
+      "category": "Carpentry",
+      "district_bn": "চট্টগ্রাম",
+      "district_en": "Chittagong",
+      "rating": 4.5,
+      "skills_bn": [
+        "আসবাবপত্র তৈরি",
+        "দরজা ও জানালা স্থাপন",
+        "কাঠের পালিশ"
+      ],
+      "skills_en": [
+        "Furniture Making",
+        "Door and Window Fitting",
+        "Wood Polishing"
+      ],
+      "certificates": [
+        "Carpentry Level Certificate"
+      ],
+      "aiMatch": 70,
+      "aiMatch_bn": "আরিফুল ইসলাম এই সার্ভিসের জন্য 70% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.5★।",
+      "aiMatch_en": "আরিফুল_ইসলাম is a 70% match for this service with 4.5★ customer satisfaction.",
+      "completedJobs": 48,
+      "hourlyRate": 482,
+      "available": true,
+      "bio_bn": "Carpentry কাজে 2 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "4 years of experience in carpentry work. Provides reliable and quality service."
+    },
+    {
+      "id": 23,
+      "name_bn": "তৌহিদুল ইসলাম",
+      "name_en": "তৌহিদুল_ইসলাম",
+      "category": "AC",
+      "district_bn": "ময়মনসিংহ",
+      "district_en": "Mymensingh",
+      "rating": 4.8,
+      "skills_bn": [
+        "এসি ইনস্টলেশন",
+        "কুলিং সিস্টেম রক্ষণাবেক্ষণ",
+        "রেফ্রিজারেন্ট ব্যবস্থাপনা"
+      ],
+      "skills_en": [
+        "AC Installation",
+        "Cooling System Maintenance",
+        "Refrigerant Handling"
+      ],
+      "certificates": [
+        "AC Level Certificate"
+      ],
+      "aiMatch": 72,
+      "aiMatch_bn": "তৌহিদুল ইসলাম এই সার্ভিসের জন্য 72% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.8★।",
+      "aiMatch_en": "তৌহিদুল_ইসলাম is a 72% match for this service with 4.8★ customer satisfaction.",
+      "completedJobs": 18,
+      "hourlyRate": 573,
+      "available": false,
+      "bio_bn": "AC কাজে 6 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "5 years of experience in ac work. Provides reliable and quality service."
+    },
+    {
+      "id": 24,
+      "name_bn": "মিজানুর রহমান",
+      "name_en": "মিজানুর_রহমান",
+      "category": "Electrical",
+      "district_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "rating": 4.3,
+      "skills_bn": [
+        "সোলার প্যানেল ইনস্টলেশন",
+        "ভোল্টেজ নিয়ন্ত্রণ",
+        "মোটর রিওয়াইন্ডিং"
+      ],
+      "skills_en": [
+        "Solar Panel Installation",
+        "Voltage Regulation",
+        "Motor Rewinding"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 70,
+      "aiMatch_bn": "মিজানুর রহমান এই সার্ভিসের জন্য 70% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.3★।",
+      "aiMatch_en": "মিজানুর_রহমান is a 70% match for this service with 4.3★ customer satisfaction.",
+      "completedJobs": 39,
+      "hourlyRate": 511,
+      "available": true,
+      "bio_bn": "Electrical কাজে 5 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "3 years of experience in electrical work. Provides reliable and quality service."
+    },
+    {
+      "id": 25,
+      "name_bn": "নিয়াজ আহমেদ",
+      "name_en": "নিয়াজ_আহমেদ",
+      "category": "Plumbing",
+      "district_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "rating": 4.8,
+      "skills_bn": [
+        "পাইপ সংযোগ",
+        "ড্রেনেজ মেরামত",
+        "জলাধার পরিষ্কার"
+      ],
+      "skills_en": [
+        "Pipe Fitting",
+        "Drainage Repair",
+        "Water Tank Cleaning"
+      ],
+      "certificates": [
+        "Plumbing Level Certificate"
+      ],
+      "aiMatch": 90,
+      "aiMatch_bn": "নিয়াজ আহমেদ এই সার্ভিসের জন্য 90% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.8★।",
+      "aiMatch_en": "নিয়াজ_আহমেদ is a 90% match for this service with 4.8★ customer satisfaction.",
+      "completedJobs": 19,
+      "hourlyRate": 310,
+      "available": true,
+      "bio_bn": "Plumbing কাজে 4 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "5 years of experience in plumbing work. Provides reliable and quality service."
+    },
+    {
+      "id": 26,
+      "name_bn": "রাকিব হাসান",
+      "name_en": "রাকিব_হাসান",
+      "category": "Electrical",
+      "district_bn": "রাজশাহী",
+      "district_en": "Rajshahi",
+      "rating": 4.6,
+      "skills_bn": [
+        "বাড়ির তার সংযোগ",
+        "সার্কিট সমস্যা সমাধান",
+        "লাইট ফিক্সচার ইনস্টলেশন"
+      ],
+      "skills_en": [
+        "House Wiring",
+        "Circuit Troubleshooting",
+        "Light Fixture Installation"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 71,
+      "aiMatch_bn": "রাকিব হাসান এই সার্ভিসের জন্য 71% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.6★।",
+      "aiMatch_en": "রাকিব_হাসান is a 71% match for this service with 4.6★ customer satisfaction.",
+      "completedJobs": 12,
+      "hourlyRate": 517,
+      "available": false,
+      "bio_bn": "Electrical কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "3 years of experience in electrical work. Provides reliable and quality service."
+    },
+    {
+      "id": 27,
+      "name_bn": "ফারুক হোসেন",
+      "name_en": "ফারুক_হোসেন",
+      "category": "Plumbing",
+      "district_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "rating": 4.8,
+      "skills_bn": [
+        "পাম্প ইনস্টলেশন",
+        "স্যানিটারি সিস্টেম স্থাপন",
+        "লিকেজ শনাক্তকরণ"
+      ],
+      "skills_en": [
+        "Pump Installation",
+        "Sanitary System Setup",
+        "Leak Detection"
+      ],
+      "certificates": [
+        "Plumbing Level Certificate"
+      ],
+      "aiMatch": 77,
+      "aiMatch_bn": "ফারুক হোসেন এই সার্ভিসের জন্য 77% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.8★।",
+      "aiMatch_en": "ফারুক_হোসেন is a 77% match for this service with 4.8★ customer satisfaction.",
+      "completedJobs": 38,
+      "hourlyRate": 332,
+      "available": false,
+      "bio_bn": "Plumbing কাজে 2 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "7 years of experience in plumbing work. Provides reliable and quality service."
+    },
+    {
+      "id": 28,
+      "name_bn": "সোহেল রানা",
+      "name_en": "সোহেল_রানা",
+      "category": "Carpentry",
+      "district_bn": "রাজশাহী",
+      "district_en": "Rajshahi",
+      "rating": 4.8,
+      "skills_bn": [
+        "মডুলার ক্যাবিনেট ইনস্টলেশন",
+        "ফলস সিলিং স্থাপন",
+        "কাঠের জয়েনারি"
+      ],
+      "skills_en": [
+        "Modular Cabinet Installation",
+        "False Ceiling Setup",
+        "Wood Joinery"
+      ],
+      "certificates": [
+        "Carpentry Level Certificate"
+      ],
+      "aiMatch": 75,
+      "aiMatch_bn": "সোহেল রানা এই সার্ভিসের জন্য 75% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.8★।",
+      "aiMatch_en": "সোহেল_রানা is a 75% match for this service with 4.8★ customer satisfaction.",
+      "completedJobs": 21,
+      "hourlyRate": 466,
+      "available": false,
+      "bio_bn": "Carpentry কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "6 years of experience in carpentry work. Provides reliable and quality service."
+    },
+    {
+      "id": 29,
+      "name_bn": "ইমরুল কায়েস",
+      "name_en": "ইমরুল_কায়েস",
+      "category": "Plumbing",
+      "district_bn": "বরিশাল",
+      "district_en": "Barisal",
+      "rating": 4.2,
+      "skills_bn": [
+        "পাইপ সংযোগ",
+        "ড্রেনেজ মেরামত",
+        "জলাধার পরিষ্কার"
+      ],
+      "skills_en": [
+        "Pipe Fitting",
+        "Drainage Repair",
+        "Water Tank Cleaning"
+      ],
+      "certificates": [
+        "Plumbing Level Certificate"
+      ],
+      "aiMatch": 78,
+      "aiMatch_bn": "ইমরুল কায়েস এই সার্ভিসের জন্য 78% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 4.2★।",
+      "aiMatch_en": "ইমরুল_কায়েস is a 78% match for this service with 4.2★ customer satisfaction.",
+      "completedJobs": 20,
+      "hourlyRate": 539,
+      "available": false,
+      "bio_bn": "Plumbing কাজে 6 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "7 years of experience in plumbing work. Provides reliable and quality service."
+    },
+    {
+      "id": 30,
+      "name_bn": "আজমল হোসেন",
+      "name_en": "আজমল_হোসেন",
+      "category": "Plumbing",
+      "district_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "rating": 3.9,
+      "skills_bn": [
+        "ওয়াটার হিটার ইনস্টলেশন",
+        "পাইপলাইন রক্ষণাবেক্ষণ",
+        "স্মার্ট পানি সিস্টেম"
+      ],
+      "skills_en": [
+        "Water Heater Installation",
+        "Pipeline Maintenance",
+        "Smart Water System"
+      ],
+      "certificates": [
+        "Plumbing Level Certificate"
+      ],
+      "aiMatch": 73,
+      "aiMatch_bn": "আজমল হোসেন এই সার্ভিসের জন্য 73% ম্যাচ। তার দক্ষতা এবং গ্রাহক সন্তুষ্টি রেটিং 3.9★।",
+      "aiMatch_en": "আজমল_হোসেন is a 73% match for this service with 3.9★ customer satisfaction.",
+      "completedJobs": 60,
+      "hourlyRate": 510,
+      "available": false,
+      "bio_bn": "Plumbing কাজে 7 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং মানসম্পন্ন সার্ভিস প্রদান করেন।",
+      "bio_en": "3 years of experience in plumbing work. Provides reliable and quality service."
+    },
+    {
+      "id": 31,
+      "name_bn": "সাজিদ রহমান",
+      "name_en": "সাজিদ_রহমান",
+      "category": "Carpentry",
+      "district_bn": "চট্টগ্রাম",
+      "district_en": "Chittagong",
+      "rating": 4.2,
+      "skills_bn": [
+        "অভ্যন্তরীণ কাঠের নকশা",
+        "কাঠ কাটা",
+        "আসবাব সংযোজন"
+      ],
+      "skills_en": [
+        "Interior Wood Design",
+        "Wood Cutting",
+        "Furniture Assembly"
+      ],
+      "certificates": [
+        "Carpentry Level Certificate"
+      ],
+      "aiMatch": 69,
+      "aiMatch_bn": "সাজিদ রহমান এই সার্ভিসের জন্য 69% ম্যাচ। তার গ্রাহক রেটিং 4.2★।",
+      "aiMatch_en": "সাজিদ_রহমান is a 69% match for this service with 4.2★ rating.",
+      "completedJobs": 18,
+      "hourlyRate": 396,
+      "available": false,
+      "bio_bn": "Carpentry কাজে 2 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "2 years of experience in carpentry work. Provides reliable and expert service."
+    },
+    {
+      "id": 32,
+      "name_bn": "ইকবাল হোসেন",
+      "name_en": "ইকবাল_হোসেন",
+      "category": "Electrical",
+      "district_bn": "বরিশাল",
+      "district_en": "Barisal",
+      "rating": 4.2,
+      "skills_bn": [
+        "বাড়ির তার সংযোগ",
+        "সার্কিট সমস্যা সমাধান",
+        "লাইট ফিক্সচার ইনস্টলেশন"
+      ],
+      "skills_en": [
+        "House Wiring",
+        "Circuit Troubleshooting",
+        "Light Fixture Installation"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 81,
+      "aiMatch_bn": "ইকবাল হোসেন এই সার্ভিসের জন্য 81% ম্যাচ। তার গ্রাহক রেটিং 4.2★।",
+      "aiMatch_en": "ইকবাল_হোসেন is a 81% match for this service with 4.2★ rating.",
+      "completedJobs": 26,
+      "hourlyRate": 341,
+      "available": true,
+      "bio_bn": "Electrical কাজে 2 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "2 years of experience in electrical work. Provides reliable and expert service."
+    },
+    {
+      "id": 33,
+      "name_bn": "জুবায়ের আলম",
+      "name_en": "জুবায়ের_আলম",
+      "category": "AC",
+      "district_bn": "চট্টগ্রাম",
+      "district_en": "Chittagong",
+      "rating": 4.9,
+      "skills_bn": [
+        "এইচভিএসি ডাক্ট স্থাপন",
+        "কম্প্রেসর সার্ভিস",
+        "থার্মোস্ট্যাট ক্যালিব্রেশন"
+      ],
+      "skills_en": [
+        "HVAC Duct Setup",
+        "Compressor Service",
+        "Thermostat Calibration"
+      ],
+      "certificates": [
+        "AC Level Certificate"
+      ],
+      "aiMatch": 76,
+      "aiMatch_bn": "জুবায়ের আলম এই সার্ভিসের জন্য 76% ম্যাচ। তার গ্রাহক রেটিং 4.9★।",
+      "aiMatch_en": "জুবায়ের_আলম is a 76% match for this service with 4.9★ rating.",
+      "completedJobs": 46,
+      "hourlyRate": 535,
+      "available": false,
+      "bio_bn": "AC কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "3 years of experience in ac work. Provides reliable and expert service."
+    },
+    {
+      "id": 34,
+      "name_bn": "রাকিব হাসান",
+      "name_en": "রাকিব_হাসান",
+      "category": "Electrical",
+      "district_bn": "রাজশাহী",
+      "district_en": "Rajshahi",
+      "rating": 4.6,
+      "skills_bn": [
+        "সোলার প্যানেল ইনস্টলেশন",
+        "ভোল্টেজ নিয়ন্ত্রণ",
+        "মোটর রিওয়াইন্ডিং"
+      ],
+      "skills_en": [
+        "Solar Panel Installation",
+        "Voltage Regulation",
+        "Motor Rewinding"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 86,
+      "aiMatch_bn": "রাকিব হাসান এই সার্ভিসের জন্য 86% ম্যাচ। তার গ্রাহক রেটিং 4.6★।",
+      "aiMatch_en": "রাকিব_হাসান is a 86% match for this service with 4.6★ rating.",
+      "completedJobs": 20,
+      "hourlyRate": 379,
+      "available": true,
+      "bio_bn": "Electrical কাজে 4 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "4 years of experience in electrical work. Provides reliable and expert service."
+    },
+    {
+      "id": 35,
+      "name_bn": "ফারুক আহমেদ",
+      "name_en": "ফারুক_আহমেদ",
+      "category": "Electrical",
+      "district_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "rating": 4.6,
+      "skills_bn": [
+        "বাড়ির তার সংযোগ",
+        "সার্কিট সমস্যা সমাধান",
+        "লাইট ফিক্সচার ইনস্টলেশন"
+      ],
+      "skills_en": [
+        "House Wiring",
+        "Circuit Troubleshooting",
+        "Light Fixture Installation"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 79,
+      "aiMatch_bn": "ফারুক আহমেদ এই সার্ভিসের জন্য 79% ম্যাচ। তার গ্রাহক রেটিং 4.6★।",
+      "aiMatch_en": "ফারুক_আহমেদ is a 79% match for this service with 4.6★ rating.",
+      "completedJobs": 21,
+      "hourlyRate": 550,
+      "available": false,
+      "bio_bn": "Electrical কাজে 6 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "6 years of experience in electrical work. Provides reliable and expert service."
+    },
+    {
+      "id": 36,
+      "name_bn": "রুবেল মিয়া",
+      "name_en": "রুবেল_মিয়া",
+      "category": "Electrical",
+      "district_bn": "বরিশাল",
+      "district_en": "Barisal",
+      "rating": 3.9,
+      "skills_bn": [
+        "সোলার প্যানেল ইনস্টলেশন",
+        "ভোল্টেজ নিয়ন্ত্রণ",
+        "মোটর রিওয়াইন্ডিং"
+      ],
+      "skills_en": [
+        "Solar Panel Installation",
+        "Voltage Regulation",
+        "Motor Rewinding"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 86,
+      "aiMatch_bn": "রুবেল মিয়া এই সার্ভিসের জন্য 86% ম্যাচ। তার গ্রাহক রেটিং 3.9★।",
+      "aiMatch_en": "রুবেল_মিয়া is a 86% match for this service with 3.9★ rating.",
+      "completedJobs": 39,
+      "hourlyRate": 355,
+      "available": true,
+      "bio_bn": "Electrical কাজে 4 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "4 years of experience in electrical work. Provides reliable and expert service."
+    },
+    {
+      "id": 37,
+      "name_bn": "তৌহিদুল ইসলাম",
+      "name_en": "তৌহিদুল_ইসলাম",
+      "category": "Electrical",
+      "district_bn": "খুলনা",
+      "district_en": "Khulna",
+      "rating": 4.3,
+      "skills_bn": [
+        "বাড়ির তার সংযোগ",
+        "সার্কিট সমস্যা সমাধান",
+        "লাইট ফিক্সচার ইনস্টলেশন"
+      ],
+      "skills_en": [
+        "House Wiring",
+        "Circuit Troubleshooting",
+        "Light Fixture Installation"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 83,
+      "aiMatch_bn": "তৌহিদুল ইসলাম এই সার্ভিসের জন্য 83% ম্যাচ। তার গ্রাহক রেটিং 4.3★।",
+      "aiMatch_en": "তৌহিদুল_ইসলাম is a 83% match for this service with 4.3★ rating.",
+      "completedJobs": 11,
+      "hourlyRate": 380,
+      "available": false,
+      "bio_bn": "Electrical কাজে 2 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "2 years of experience in electrical work. Provides reliable and expert service."
+    },
+    {
+      "id": 38,
+      "name_bn": "সোহেল রানা",
+      "name_en": "সোহেল_রানা",
+      "category": "Electrical",
+      "district_bn": "চট্টগ্রাম",
+      "district_en": "Chittagong",
+      "rating": 3.9,
+      "skills_bn": [
+        "জেনারেটর রক্ষণাবেক্ষণ",
+        "শিল্প বৈদ্যুতিক সংযোগ",
+        "সুইচবোর্ড স্থাপন"
+      ],
+      "skills_en": [
+        "Generator Maintenance",
+        "Industrial Wiring",
+        "Switchboard Setup"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 93,
+      "aiMatch_bn": "সোহেল রানা এই সার্ভিসের জন্য 93% ম্যাচ। তার গ্রাহক রেটিং 3.9★।",
+      "aiMatch_en": "সোহেল_রানা is a 93% match for this service with 3.9★ rating.",
+      "completedJobs": 50,
+      "hourlyRate": 392,
+      "available": true,
+      "bio_bn": "Electrical কাজে 8 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "8 years of experience in electrical work. Provides reliable and expert service."
+    },
+    {
+      "id": 39,
+      "name_bn": "আজমল হোসেন",
+      "name_en": "আজমল_হোসেন",
+      "category": "Plumbing",
+      "district_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "rating": 4.7,
+      "skills_bn": [
+        "পাইপ সংযোগ",
+        "ড্রেনেজ মেরামত",
+        "জলাধার পরিষ্কার"
+      ],
+      "skills_en": [
+        "Pipe Fitting",
+        "Drainage Repair",
+        "Water Tank Cleaning"
+      ],
+      "certificates": [
+        "Plumbing Level Certificate"
+      ],
+      "aiMatch": 85,
+      "aiMatch_bn": "আজমল হোসেন এই সার্ভিসের জন্য 85% ম্যাচ। তার গ্রাহক রেটিং 4.7★।",
+      "aiMatch_en": "আজমল_হোসেন is a 85% match for this service with 4.7★ rating.",
+      "completedJobs": 50,
+      "hourlyRate": 329,
+      "available": false,
+      "bio_bn": "Plumbing কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "3 years of experience in plumbing work. Provides reliable and expert service."
+    },
+    {
+      "id": 40,
+      "name_bn": "নিয়াজ আহমেদ",
+      "name_en": "নিয়াজ_আহমেদ",
+      "category": "Electrical",
+      "district_bn": "ঢাকা",
+      "district_en": "Dhaka",
+      "rating": 3.9,
+      "skills_bn": [
+        "সোলার প্যানেল ইনস্টলেশন",
+        "ভোল্টেজ নিয়ন্ত্রণ",
+        "মোটর রিওয়াইন্ডিং"
+      ],
+      "skills_en": [
+        "Solar Panel Installation",
+        "Voltage Regulation",
+        "Motor Rewinding"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 68,
+      "aiMatch_bn": "নিয়াজ আহমেদ এই সার্ভিসের জন্য 68% ম্যাচ। তার গ্রাহক রেটিং 3.9★।",
+      "aiMatch_en": "নিয়াজ_আহমেদ is a 68% match for this service with 3.9★ rating.",
+      "completedJobs": 12,
+      "hourlyRate": 427,
+      "available": true,
+      "bio_bn": "Electrical কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "3 years of experience in electrical work. Provides reliable and expert service."
+    },
+    {
+      "id": 41,
+      "name_bn": "মাহবুব হাসান",
+      "name_en": "মাহবুব_হাসান",
+      "category": "Electrical",
+      "district_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "rating": 4.1,
+      "skills_bn": [
+        "বাড়ির তার সংযোগ",
+        "সার্কিট সমস্যা সমাধান",
+        "লাইট ফিক্সচার ইনস্টলেশন"
+      ],
+      "skills_en": [
+        "House Wiring",
+        "Circuit Troubleshooting",
+        "Light Fixture Installation"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 71,
+      "aiMatch_bn": "মাহবুব হাসান এই সার্ভিসের জন্য 71% ম্যাচ। তার গ্রাহক রেটিং 4.1★।",
+      "aiMatch_en": "মাহবুব_হাসান is a 71% match for this service with 4.1★ rating.",
+      "completedJobs": 20,
+      "hourlyRate": 364,
+      "available": false,
+      "bio_bn": "Electrical কাজে 8 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "8 years of experience in electrical work. Provides reliable and expert service."
+    },
+    {
+      "id": 42,
+      "name_bn": "ইমরুল কায়েস",
+      "name_en": "ইমরুল_কায়েস",
+      "category": "Electrical",
+      "district_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "rating": 4.5,
+      "skills_bn": [
+        "বাড়ির তার সংযোগ",
+        "সার্কিট সমস্যা সমাধান",
+        "লাইট ফিক্সচার ইনস্টলেশন"
+      ],
+      "skills_en": [
+        "House Wiring",
+        "Circuit Troubleshooting",
+        "Light Fixture Installation"
+      ],
+      "certificates": [
+        "Electrical Level Certificate"
+      ],
+      "aiMatch": 80,
+      "aiMatch_bn": "ইমরুল কায়েস এই সার্ভিসের জন্য 80% ম্যাচ। তার গ্রাহক রেটিং 4.5★।",
+      "aiMatch_en": "ইমরুল_কায়েস is a 80% match for this service with 4.5★ rating.",
+      "completedJobs": 15,
+      "hourlyRate": 569,
+      "available": true,
+      "bio_bn": "Electrical কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "3 years of experience in electrical work. Provides reliable and expert service."
+    },
+    {
+      "id": 43,
+      "name_bn": "রাকিবুল ইসলাম",
+      "name_en": "রাকিবুল_ইসলাম",
+      "category": "AC",
+      "district_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "rating": 4.7,
+      "skills_bn": [
+        "স্প্লিট এসি মেরামত",
+        "এসি গ্যাস ভরাট",
+        "ফিল্টার পরিষ্কার"
+      ],
+      "skills_en": [
+        "Split AC Repair",
+        "AC Gas Charging",
+        "Filter Cleaning"
+      ],
+      "certificates": [
+        "AC Level Certificate"
+      ],
+      "aiMatch": 94,
+      "aiMatch_bn": "রাকিবুল ইসলাম এই সার্ভিসের জন্য 94% ম্যাচ। তার গ্রাহক রেটিং 4.7★।",
+      "aiMatch_en": "রাকিবুল_ইসলাম is a 94% match for this service with 4.7★ rating.",
+      "completedJobs": 49,
+      "hourlyRate": 527,
+      "available": true,
+      "bio_bn": "AC কাজে 7 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "7 years of experience in ac work. Provides reliable and expert service."
+    },
+    {
+      "id": 44,
+      "name_bn": "আরিফুল ইসলাম",
+      "name_en": "আরিফুল_ইসলাম",
+      "category": "Plumbing",
+      "district_bn": "রংপুর",
+      "district_en": "Rangpur",
+      "rating": 4.2,
+      "skills_bn": [
+        "পাম্প ইনস্টলেশন",
+        "স্যানিটারি সিস্টেম স্থাপন",
+        "লিকেজ শনাক্তকরণ"
+      ],
+      "skills_en": [
+        "Pump Installation",
+        "Sanitary System Setup",
+        "Leak Detection"
+      ],
+      "certificates": [
+        "Plumbing Level Certificate"
+      ],
+      "aiMatch": 77,
+      "aiMatch_bn": "আরিফুল ইসলাম এই সার্ভিসের জন্য 77% ম্যাচ। তার গ্রাহক রেটিং 4.2★।",
+      "aiMatch_en": "আরিফুল_ইসলাম is a 77% match for this service with 4.2★ rating.",
+      "completedJobs": 19,
+      "hourlyRate": 394,
+      "available": false,
+      "bio_bn": "Plumbing কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "3 years of experience in plumbing work. Provides reliable and expert service."
+    },
+    {
+      "id": 45,
+      "name_bn": "সাজেদুল হক",
+      "name_en": "সাজেদুল_হক",
+      "category": "Carpentry",
+      "district_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "rating": 4.1,
+      "skills_bn": [
+        "মডুলার ক্যাবিনেট ইনস্টলেশন",
+        "ফলস সিলিং স্থাপন",
+        "কাঠের জয়েনারি"
+      ],
+      "skills_en": [
+        "Modular Cabinet Installation",
+        "False Ceiling Setup",
+        "Wood Joinery"
+      ],
+      "certificates": [
+        "Carpentry Level Certificate"
+      ],
+      "aiMatch": 79,
+      "aiMatch_bn": "সাজেদুল হক এই সার্ভিসের জন্য 79% ম্যাচ। তার গ্রাহক রেটিং 4.1★।",
+      "aiMatch_en": "সাজেদুল_হক is a 79% match for this service with 4.1★ rating.",
+      "completedJobs": 54,
+      "hourlyRate": 391,
+      "available": false,
+      "bio_bn": "Carpentry কাজে 2 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "2 years of experience in carpentry work. Provides reliable and expert service."
+    },
+    {
+      "id": 46,
+      "name_bn": "মোস্তাফিজুর রহমান",
+      "name_en": "মোস্তাফিজুর_রহমান",
+      "category": "AC",
+      "district_bn": "সিলেট",
+      "district_en": "Sylhet",
+      "rating": 4.0,
+      "skills_bn": [
+        "এইচভিএসি ডাক্ট স্থাপন",
+        "কম্প্রেসর সার্ভিস",
+        "থার্মোস্ট্যাট ক্যালিব্রেশন"
+      ],
+      "skills_en": [
+        "HVAC Duct Setup",
+        "Compressor Service",
+        "Thermostat Calibration"
+      ],
+      "certificates": [
+        "AC Level Certificate"
+      ],
+      "aiMatch": 89,
+      "aiMatch_bn": "মোস্তাফিজুর রহমান এই সার্ভিসের জন্য 89% ম্যাচ। তার গ্রাহক রেটিং 4.0★।",
+      "aiMatch_en": "মোস্তাফিজুর_রহমান is a 89% match for this service with 4.0★ rating.",
+      "completedJobs": 51,
+      "hourlyRate": 375,
+      "available": false,
+      "bio_bn": "AC কাজে 5 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "5 years of experience in ac work. Provides reliable and expert service."
+    },
+    {
+      "id": 47,
+      "name_bn": "নওশাদ আলী",
+      "name_en": "নওশাদ_আলী",
+      "category": "Carpentry",
+      "district_bn": "খুলনা",
+      "district_en": "Khulna",
+      "rating": 4.5,
+      "skills_bn": [
+        "অভ্যন্তরীণ কাঠের নকশা",
+        "কাঠ কাটা",
+        "আসবাব সংযোজন"
+      ],
+      "skills_en": [
+        "Interior Wood Design",
+        "Wood Cutting",
+        "Furniture Assembly"
+      ],
+      "certificates": [
+        "Carpentry Level Certificate"
+      ],
+      "aiMatch": 84,
+      "aiMatch_bn": "নওশাদ আলী এই সার্ভিসের জন্য 84% ম্যাচ। তার গ্রাহক রেটিং 4.5★।",
+      "aiMatch_en": "নওশাদ_আলী is a 84% match for this service with 4.5★ rating.",
+      "completedJobs": 10,
+      "hourlyRate": 475,
+      "available": true,
+      "bio_bn": "Carpentry কাজে 3 বছরের অভিজ্ঞতা। নির্ভরযোগ্য এবং দক্ষ সার্ভিস প্রদান করেন।",
+      "bio_en": "3 years of experience in carpentry work. Provides reliable and expert service."
+    }
+  ]
+}

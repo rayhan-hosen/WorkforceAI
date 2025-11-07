@@ -25,7 +25,8 @@
 
 ---
 
-## 🎯 Project Overview {#project-overview}
+<a name="project-overview"></a>
+## 🎯 Project Overview
 
 **ShebaWorkforceAI** is a startup project idea and implementation workflow designed to empower Bangladesh's informal workforce (electricians, plumbers, mechanics, carpenters, painters) through AI-powered skill development, job matching, and career growth tools. This prototype demonstrates a complete ecosystem concept from learning to job discovery, with bilingual support (Bangla & English) and gamified learning experiences.
 
@@ -69,7 +70,8 @@ The current demo data allows stakeholders and developers to visualize the comple
 
 ---
 
-## 🏗️ Architecture {#architecture}
+<a name="architecture"></a>
+## 🏗️ Architecture
 
 ### System Architecture Overview
 
@@ -138,7 +140,8 @@ The current demo data allows stakeholders and developers to visualize the comple
 
 ---
 
-## 💻 Technology Stack {#technology-stack}
+<a name="technology-stack"></a>
+## 💻 Technology Stack
 
 ### Frontend Technologies
 
@@ -181,7 +184,8 @@ The current demo data allows stakeholders and developers to visualize the comple
 
 ---
 
-## 🎨 Frontend Architecture {#frontend-architecture}
+<a name="frontend-architecture"></a>
+## 🎨 Frontend Architecture
 
 ### Component Hierarchy
 
@@ -224,7 +228,8 @@ App.jsx
 
 ---
 
-## 🗄️ Backend/Data Layer Architecture {#backenddata-layer-architecture}
+<a name="backenddata-layer-architecture"></a>
+## 🗄️ Backend/Data Layer Architecture
 
 ### Current Implementation: Demo Data
 
@@ -337,7 +342,8 @@ The following API endpoints are designed for future implementation:
 
 ---
 
-## 📚 Feature Documentation {#feature-documentation}
+<a name="feature-documentation"></a>
+## 📚 Feature Documentation
 
 > **Note**: Each feature section describes both the **implemented frontend prototype** (✅) and the **proposed backend implementation** (📋). The frontend is fully functional with mock data, while the backend architecture is designed and documented for future implementation.
 
@@ -479,7 +485,8 @@ The following API endpoints are designed for future implementation:
 
 ---
 
-## 🗄️ MySQL Database Workflow {#mysql-database-workflow}
+<a name="mysql-database-workflow"></a>
+## 🗄️ MySQL Database Workflow
 
 ### Database Schema Overview
 
@@ -850,7 +857,8 @@ CREATE INDEX idx_notifications_user_read ON notifications(user_id, is_read, crea
 
 ---
 
-## 🤖 Backend Architecture with AI Integration {#backend-architecture-with-ai-integration}
+<a name="backend-architecture-with-ai-integration"></a>
+## 🤖 Backend Architecture with AI Integration
 
 ### Proposed System Architecture Overview
 
@@ -1792,7 +1800,8 @@ app.post('/api/ai/chat', authenticate, async (req, res) => {
 
 ---
 
-## 🔄 Data Flow & State Management {#data-flow--state-management}
+<a name="data-flow--state-management"></a>
+## 🔄 Data Flow & State Management
 
 ### State Management Strategy
 
@@ -1872,7 +1881,8 @@ Re-render UI
 
 ---
 
-## 🧩 Component Structure {#component-structure}
+<a name="component-structure"></a>
+## 🧩 Component Structure
 
 ### Core Components
 
@@ -1914,7 +1924,8 @@ Re-render UI
 
 ---
 
-## 🚀 Installation & Setup {#installation--setup}
+<a name="installation--setup"></a>
+## 🚀 Installation & Setup
 
 ### Project Status
 
@@ -1968,7 +1979,8 @@ npm run preview
 
 ---
 
-## 🔧 Technical Implementation Details {#technical-implementation-details}
+<a name="technical-implementation-details"></a>
+## 🔧 Technical Implementation Details
 
 ### Routing Implementation
 
